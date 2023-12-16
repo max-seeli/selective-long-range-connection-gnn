@@ -63,19 +63,24 @@ def create_all_tree_neighbors_match_graph(d):
         G = create_balanced_binary_tree(target, leaves)
 
         # Add blue nodes
+        G.nodes[target]['blue_nodes'] = num_target_blue_nodes
+        """
         for i in range(num_target_blue_nodes):
             node_name = f"{target}_{i}"
             G.add_node(node_name, color='blue')
             G.add_edge(target, f"{target}_{i}")
-
+        """
+        
         for i, leaf in enumerate(leaves):
+            G.nodes[leaf]['blue_nodes'] = num_per_leaf_blue_nodes[i]
+            """
             for j in range(num_per_leaf_blue_nodes[i]):
                 node_name = f"{leaf}_{j}"
                 G.add_node(node_name, color='blue')
                 G.add_edge(leaf, node_name)
-
+            """
         for node in G.nodes:
-            G.nodes[node]['x'] = get_tensor_encoding(G.nodes[node]['color'])
+            G.nodes[node]['x'] = get_tensor_encoding(G.nodes[node]['color'], G.nodes[node]['blue_nodes'])
 
         # Add graph y-label
         G.graph['y'] = torch.Tensor([[num_target_blue_nodes == leaf for leaf in num_per_leaf_blue_nodes]])
@@ -130,14 +135,14 @@ def create_balanced_binary_tree(root_name, leaf_names):
     
 
     G = nx.DiGraph()
-    G.add_node(root_name, color='green')
+    G.add_node(root_name, color='green', blue_nodes=0)
 
     def add_nodes(current_node, current_depth):
         if current_depth <= depth:
             left_child = f"{current_node}_L"
             right_child = f"{current_node}_R"
-            G.add_node(left_child, color='white')
-            G.add_node(right_child, color='white')
+            G.add_node(left_child, color='white', blue_nodes=0)
+            G.add_node(right_child, color='white', blue_nodes=0)
             G.add_edge(current_node, left_child)
             G.add_edge(current_node, right_child)
             add_nodes(left_child, current_depth + 1)
@@ -181,14 +186,16 @@ def generate_alphabetic_labels(n):
 
     return labels[:n]
 
-def get_tensor_encoding(color):
+def get_tensor_encoding(color, num_blue):
     """
-    Returns the tensor encoding of the given color.
+    Returns the tensor encoding of the given color and number of blue nodes.
 
     Parameters
     ----------
     color: str
         The color to encode
+    num_blue: int
+        The number of blue nodes
 
     Returns
     -------
@@ -196,10 +203,10 @@ def get_tensor_encoding(color):
         The tensor encoding
     """
     if color == 'green':
-        return torch.Tensor([1])
+        return torch.Tensor([1, 0, 0, num_blue])
     elif color == 'blue':
-        return torch.Tensor([2])
+        return torch.Tensor([0, 1, 0, num_blue])
     elif color == 'white':
-        return torch.Tensor([0])
+        return torch.Tensor([0, 0, 1, num_blue])
     else:
-        raise ValueError(f"Invalid color: {color}")
+        raise ValueError(f"Unknown color: {color}")
