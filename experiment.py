@@ -9,8 +9,6 @@ from attrdict import AttrDict
 from common import STOP
 from models.graph_model import GraphModel
 
-from tqdm import tqdm
-
 
 class Experiment():
     def __init__(self, args):
@@ -67,7 +65,7 @@ class Experiment():
         best_train_acc = 0.0
         best_epoch = 0
         epochs_no_improve = 0
-        for epoch in tqdm(range(1, (self.max_epochs // self.eval_every) + 1)):
+        for epoch in range(1, (self.max_epochs // self.eval_every) + 1):
             self.model.train()
             loader = DataLoader(self.X_train * self.eval_every, batch_size=self.batch_size, shuffle=True,
                                 pin_memory=True, num_workers=self.loader_workers)
