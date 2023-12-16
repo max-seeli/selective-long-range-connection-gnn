@@ -26,7 +26,8 @@ def create_k_hop_graph(graph, k):
     is_torch = False
     if isinstance(graph, torch_geometric.data.Data):
         is_torch = True
-        graph = to_networkx(graph, node_attrs=['x'])
+        graph = to_networkx(graph, node_attrs=['x']).to_undirected()
+        graph.remove_edges_from(nx.selfloop_edges(graph))
 
     new_graph = nx.Graph()
     new_graph.add_nodes_from(graph.nodes(data=True))
