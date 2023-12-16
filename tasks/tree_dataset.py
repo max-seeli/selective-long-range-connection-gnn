@@ -5,6 +5,8 @@ from torch_geometric.data import Data
 from torch.nn import functional as F
 from sklearn.model_selection import train_test_split
 
+from tqdm import tqdm
+
 import slrc as slrc
 
 class TreeDataset(object):
@@ -45,7 +47,8 @@ class TreeDataset(object):
     def generate_data(self, train_fraction):
         data_list = []
 
-        for comb in self.get_combinations():
+        combinations = list(self.get_combinations())
+        for comb in tqdm(combinations):
             edge_index = self.create_blank_tree(add_self_loops=True)
             nodes = torch.tensor(self.get_nodes_features(comb), dtype=torch.long)
             root_mask = torch.tensor([True] + [False] * (len(nodes) - 1))
