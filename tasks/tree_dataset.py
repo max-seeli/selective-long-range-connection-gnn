@@ -44,10 +44,10 @@ class TreeDataset(object):
             edge_index, _ = torch_geometric.utils.add_remaining_self_loops(edge_index=edge_index, )
         return edge_index
 
-    def generate_data(self, train_fraction):
+    def generate_data(self, train_fraction, max_samples=32000):
         data_list = []
 
-        combinations = list(self.get_combinations())
+        combinations = list(self.get_combinations(max_samples))
         for comb in tqdm(combinations):
             edge_index = self.create_blank_tree(add_self_loops=True)
             nodes = torch.tensor(self.get_nodes_features(comb), dtype=torch.long)
@@ -67,7 +67,7 @@ class TreeDataset(object):
         return X_train, X_test, dim0, out_dim, self.criterion
 
     # Every sub-class should implement the following methods:
-    def get_combinations(self):
+    def get_combinations(self, max_samples):
         raise NotImplementedError
 
     def get_nodes_features(self, combination):

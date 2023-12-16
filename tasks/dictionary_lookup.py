@@ -11,12 +11,12 @@ class DictionaryLookupDataset(TreeDataset):
     def __init__(self, depth):
         super(DictionaryLookupDataset, self).__init__(depth)
 
-    def get_combinations(self):
+    def get_combinations(self, max_samples):
         # returns: an iterable of [key, permutation(leaves)]
         # number of combinations: (num_leaves!)*num_choices
         num_leaves = len(self.leaf_indices)
         num_permutations = 1000
-        max_examples = 32000
+        max_examples = max_samples
 
         if self.depth > 3:
             per_depth_num_permutations = min(num_permutations, math.factorial(num_leaves), max_examples // num_leaves)

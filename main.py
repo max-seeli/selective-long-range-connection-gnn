@@ -23,6 +23,9 @@ def get_fake_args(
         no_activation=False,
         no_residual=False,
         unroll=False,
+        max_samples=32000,
+        learning_rate=0.001,
+        weight_decay=0.0
 ):
     return AttrDict({
         'task': task,
@@ -43,6 +46,9 @@ def get_fake_args(
         'no_activation': no_activation,
         'no_residual': no_residual,
         'unroll': unroll,
+        'max_samples': max_samples,
+        'learning_rate': learning_rate,
+        'weight_decay': weight_decay
     })
 
 

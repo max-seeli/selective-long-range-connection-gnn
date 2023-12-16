@@ -27,6 +27,9 @@ class Experiment():
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
         self.stopping_criterion = args.stop
         self.patience = args.patience
+        self.max_samples = args.max_samples
+        self.learning_rate = args.learning_rate
+        self.weight_decay = args.weight_decay
 
         seed = 11
         torch.manual_seed(seed)
@@ -34,7 +37,7 @@ class Experiment():
         random.seed(seed)
 
         self.X_train, self.X_test, dim0, out_dim, self.criterion = \
-            self.task.get_dataset(self.depth, self.train_fraction)
+            self.task.get_dataset(self.depth, self.train_fraction, self.max_samples)
 
         self.model = GraphModel(gnn_type=gnn_type, num_layers=num_layers, dim0=dim0, h_dim=self.dim, out_dim=out_dim,
                                 last_layer=args.last_layer, unroll=args.unroll,
@@ -57,7 +60,7 @@ class Experiment():
         print()
 
     def run(self):
-        optimizer = torch.optim.Adam(self.model.parameters(), lr=0.001)
+        optimizer = torch.optim.Adam(self.model.parameters(), lr=self.learning_rate, weight_decay=self.weight_decay)
         scheduler = ReduceLROnPlateau(optimizer, mode='max', threshold_mode='abs', factor=0.5, patience=10)
         print('Starting training')
 
