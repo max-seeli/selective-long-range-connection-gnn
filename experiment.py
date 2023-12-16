@@ -39,7 +39,7 @@ class Experiment():
             self.task.get_dataset(self.depth, self.train_fraction)
 
         self.model = GraphModel(gnn_type=gnn_type, num_layers=num_layers, dim0=dim0, h_dim=self.dim, out_dim=out_dim,
-                                last_layer_fully_adjacent=args.last_layer_fully_adjacent, unroll=args.unroll,
+                                last_layer=args.last_layer, unroll=args.unroll,
                                 layer_norm=not args.no_layer_norm,
                                 use_activation=not args.no_activation,
                                 use_residual=not args.no_residual

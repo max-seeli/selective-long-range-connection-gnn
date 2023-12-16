@@ -65,6 +65,19 @@ class STOP(Enum):
             return STOP[s]
         except KeyError:
             raise ValueError()
+        
+
+class LAST_LAYER(Enum):
+    REGULAR = auto()
+    FULLY_ADJACENT = auto()
+    K_HOP = auto()
+
+    @staticmethod
+    def from_string(s):
+        try:
+            return LAST_LAYER[s]
+        except KeyError:
+            raise ValueError()
 
 
 def one_hot(key, depth):

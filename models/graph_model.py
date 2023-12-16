@@ -1,14 +1,15 @@
 import torch
 from torch import nn
 from torch.nn import functional as F
+from common import LAST_LAYER
 
 class GraphModel(torch.nn.Module):
-    def __init__(self, gnn_type, num_layers, dim0, h_dim, out_dim, last_layer_fully_adjacent,
+    def __init__(self, gnn_type, num_layers, dim0, h_dim, out_dim, last_layer,
                  unroll, layer_norm, use_activation, use_residual):
         super(GraphModel, self).__init__()
         self.gnn_type = gnn_type
         self.unroll = unroll
-        self.last_layer_fully_adjacent = last_layer_fully_adjacent
+        self.last_layer = last_layer
         self.use_layer_norm = layer_norm
         self.use_activation = use_activation
         self.use_residual = use_residual
@@ -50,12 +51,13 @@ class GraphModel(torch.nn.Module):
             else:
                 layer = self.layers[i]
             new_x = x
-            if self.last_layer_fully_adjacent and i == self.num_layers - 1:
+            if self.last_layer == LAST_LAYER.FULLY_ADJACENT and i == self.num_layers - 1:
                 root_indices = torch.nonzero(roots, as_tuple=False).squeeze(-1)
                 target_roots = root_indices.index_select(dim=0, index=batch)
                 source_nodes = torch.arange(0, data.num_nodes).to(self.device)
                 edges = torch.stack([source_nodes, target_roots], dim=0)
-
+            elif self.last_layer == LAST_LAYER.K_HOP and i == self.num_layers - 1:
+                edges = data.k_hop_edge_index
             else:
                 edges = edge_index
             new_x = layer(new_x, edges)

@@ -1,7 +1,7 @@
 from attrdict import AttrDict
 
 from experiment import Experiment
-from common import Task, GNN_TYPE, STOP
+from common import Task, GNN_TYPE, STOP, LAST_LAYER
 
 
 def get_fake_args(
@@ -18,7 +18,7 @@ def get_fake_args(
         patience=20,
         stop=STOP.TRAIN,
         loader_workers=0,
-        last_layer_fully_adjacent=False,
+        last_layer=LAST_LAYER.REGULAR,
         no_layer_norm=False,
         no_activation=False,
         no_residual=False,
@@ -38,7 +38,7 @@ def get_fake_args(
         'stop': stop,
         'patience': patience,
         'loader_workers': loader_workers,
-        'last_layer_fully_adjacent': last_layer_fully_adjacent,
+        'last_layer': last_layer,
         'no_layer_norm': no_layer_norm,
         'no_activation': no_activation,
         'no_residual': no_residual,
