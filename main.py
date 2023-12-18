@@ -1,8 +1,7 @@
-from attrdict import AttrDict
-
 from experiment import Experiment
 from common import Task, GNN_TYPE, STOP, LAST_LAYER
 
+import time
 
 def get_fake_args(
         task=Task.NEIGHBORS_MATCH,
@@ -27,7 +26,7 @@ def get_fake_args(
         learning_rate=0.001,
         weight_decay=0.0
 ):
-    return AttrDict({
+    return {
         'task': task,
         'type': type,
         'dim': dim,
@@ -49,9 +48,26 @@ def get_fake_args(
         'max_samples': max_samples,
         'learning_rate': learning_rate,
         'weight_decay': weight_decay
-    })
+    }
 
 
 def start(params):
     experiment = Experiment(params)
     experiment.run()
+
+def run(depth, last_layer):
+    params = get_fake_args(
+            max_epochs=50000,
+            depth=depth,
+            last_layer=last_layer,
+            max_samples=32000,
+            learning_rate=0.001,
+            stop=STOP.TRAIN
+    )
+    start_time = time.time()
+    start(params)
+    end_time = time.time()
+    print(f"Total time: {end_time - start_time}")  
+
+if __name__ == '__main__':
+    run(4, LAST_LAYER.REGULAR)

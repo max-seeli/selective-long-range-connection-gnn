@@ -4,7 +4,6 @@ from torch.optim.lr_scheduler import ReduceLROnPlateau
 
 import numpy as np
 import random
-from attrdict import AttrDict
 
 from common import STOP
 from models.graph_model import GraphModel
@@ -12,24 +11,24 @@ from models.graph_model import GraphModel
 
 class Experiment():
     def __init__(self, args):
-        self.task = args.task
-        gnn_type = args.type
-        self.depth = args.depth
-        num_layers = self.depth if args.num_layers is None else args.num_layers
-        self.dim = args.dim
-        self.unroll = args.unroll
-        self.train_fraction = args.train_fraction
-        self.max_epochs = args.max_epochs
-        self.batch_size = args.batch_size
-        self.accum_grad = args.accum_grad
-        self.eval_every = args.eval_every
-        self.loader_workers = args.loader_workers
+        self.task = args['task']
+        gnn_type = args['type']
+        self.depth = args['depth']
+        num_layers = self.depth if args['num_layers'] is None else args['num_layers']
+        self.dim = args['dim']
+        self.unroll = args['unroll']
+        self.train_fraction = args['train_fraction']
+        self.max_epochs = args['max_epochs']
+        self.batch_size = args['batch_size']
+        self.accum_grad = args['accum_grad']
+        self.eval_every = args['eval_every']
+        self.loader_workers = args['loader_workers']
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-        self.stopping_criterion = args.stop
-        self.patience = args.patience
-        self.max_samples = args.max_samples
-        self.learning_rate = args.learning_rate
-        self.weight_decay = args.weight_decay
+        self.stopping_criterion = args['stop']
+        self.patience = args['patience']
+        self.max_samples = args['max_samples']
+        self.learning_rate = args['learning_rate']
+        self.weight_decay = args['weight_decay']
 
         seed = 11
         torch.manual_seed(seed)
@@ -40,10 +39,10 @@ class Experiment():
             self.task.get_dataset(self.depth, self.train_fraction, self.max_samples)
 
         self.model = GraphModel(gnn_type=gnn_type, num_layers=num_layers, dim0=dim0, h_dim=self.dim, out_dim=out_dim,
-                                last_layer=args.last_layer, unroll=args.unroll,
-                                layer_norm=not args.no_layer_norm,
-                                use_activation=not args.no_activation,
-                                use_residual=not args.no_residual
+                                last_layer=args['last_layer'], unroll=args['unroll'],
+                                layer_norm=not args['no_layer_norm'],
+                                use_activation=not args['no_activation'],
+                                use_residual=not args['no_residual']
                                 ).to(self.device)
 
         print(f'Starting experiment')
@@ -51,12 +50,8 @@ class Experiment():
         print(f'Training examples: {len(self.X_train)}, test examples: {len(self.X_test)}')
 
     def print_args(self, args):
-        if type(args) is AttrDict:
-            for key, value in args.items():
-                print(f"{key}: {value}")
-        else:
-            for arg in vars(args):
-                print(f"{arg}: {getattr(args, arg)}")
+        for key, value in args.items():
+            print(f"{key}: {value}")
         print()
 
     def run(self):
