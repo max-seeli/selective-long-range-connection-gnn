@@ -70,4 +70,4 @@ def run(depth, last_layer):
     print(f"Total time: {end_time - start_time}")  
 
 if __name__ == '__main__':
-    run(4, LAST_LAYER.REGULAR)
+    run(4, LAST_LAYER.FULLY_ADJACENT)
