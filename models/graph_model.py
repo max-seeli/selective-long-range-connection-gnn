@@ -3,6 +3,8 @@ from torch import nn
 from torch.nn import functional as F
 from common import LAST_LAYER
 
+from torch_geometric.utils import to_undirected
+
 class GraphModel(torch.nn.Module):
     def __init__(self, gnn_type, num_layers, dim0, h_dim, out_dim, last_layer,
                  unroll, layer_norm, use_activation, use_residual):
@@ -60,6 +62,9 @@ class GraphModel(torch.nn.Module):
                 edges = data.k_hop_edge_index
             else:
                 edges = edge_index
+
+            to_undirected(edges)
+            
             new_x = layer(new_x, edges)
             if self.use_activation:
                 new_x = F.relu(new_x)
