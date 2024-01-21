@@ -48,8 +48,10 @@ def create_k_hop_graph(graph, k):
 
 if __name__ == '__main__':
 
-    G = nx.path_graph(5)
-    k_hop_graph = create_k_hop_graph(G, 2)
+    G = nx.path_graph(6)
+    k = 2
+
+    k_hop_graph = create_k_hop_graph(G, k)
 
     
     def create_polygon_layout(n):
@@ -58,18 +60,16 @@ if __name__ == '__main__':
             pos[i] = (np.cos(2*np.pi*i/n), np.sin(2*np.pi*i/n))
         return pos
 
-    pos = create_polygon_layout(5)
+    pos = create_polygon_layout(G.number_of_nodes())
 
     plt.figure(figsize=(12, 6))
     plt.subplot(121)
-    nx.draw(G, with_labels=True, font_weight='bold', node_color='lightblue', pos=pos)
-    plt.title('Original Graph')
+    nx.draw(G, with_labels=True, font_weight='bold', node_color='lightblue', pos=pos, node_size=1000)
+    plt.title('Original Graph', fontsize=16)
 
 
     plt.subplot(122)
-    nx.draw(k_hop_graph, with_labels=True, font_weight='bold', node_color='lightgreen', pos=pos)
-    plt.title('K-Hop Graph (k=2)')
+    nx.draw(k_hop_graph, with_labels=True, font_weight='bold', node_color='lightgreen', pos=pos, node_size=1000)
+    plt.title(f'K-Hop Graph (k={k})', fontsize=16)
 
     plt.show()
-
-    # Create a graph (torch_geometric)
