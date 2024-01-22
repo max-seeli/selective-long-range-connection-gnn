@@ -51,9 +51,24 @@ The experiments are conducted on a synthetic dataset called TreeNeighborsMatch. 
 
 
 ## Results
+The task as described was solved by Uri Alon and Eran Yahav in their paper "On the Bottleneck of Graph Neural Networks and its Practical Implications". They applied different GNNs to the dataset and compared the results. The following table shows the results achieved by them compared with the results we achieved with our novel approach on the dataset with a depth of 4:
+
+| Model | Baseline | Our Approach |
+| --- | --- | --- |
+| GCN | 0.70 | **0.9921** |
+| GIN | 0.77 | **0.9991** |
+
 The raw training results of the experiments can be found in the `results` folder. For a detailed analysis of the results, please refer to the seminar paper in the file `seminar-paper.pdf`. 
 
 
-
-
-
+## References
+The code is based on the following paper:
+```
+@inproceedings{alon2021on,
+    title={On the Bottleneck of Graph Neural Networks and its Practical Implications},
+    author={Uri Alon and Eran Yahav},
+    booktitle={International Conference on Learning Representations},
+    year={2021},
+    url={https://openreview.net/forum?id=i80OPhOCVH2}
+}
+```
