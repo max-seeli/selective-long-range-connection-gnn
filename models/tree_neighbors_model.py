@@ -5,10 +5,10 @@ from common import LAST_LAYER
 
 from torch_geometric.utils import to_undirected
 
-class GraphModel(torch.nn.Module):
+class TreeNeighborsModel(torch.nn.Module):
     def __init__(self, gnn_type, num_layers, dim0, h_dim, out_dim, last_layer,
                  unroll, layer_norm, use_activation, use_residual):
-        super(GraphModel, self).__init__()
+        super(TreeNeighborsModel, self).__init__()
         self.gnn_type = gnn_type
         self.unroll = unroll
         self.last_layer = last_layer

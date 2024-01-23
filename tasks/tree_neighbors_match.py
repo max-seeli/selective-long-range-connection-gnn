@@ -6,12 +6,16 @@ from torch.nn import functional as F
 from sklearn.model_selection import train_test_split
 
 from tqdm import tqdm
+import itertools
+import random
+import math
+import numpy as np
 
 import slrc as slrc
 
-class TreeDataset(object):
+class TreeNeighborsMatch(object):
     def __init__(self, depth):
-        super(TreeDataset, self).__init__()
+        super(TreeNeighborsMatch, self).__init__()
         self.depth = depth
         self.num_nodes, self.edges, self.leaf_indices = self._create_blank_tree()
         self.criterion = F.cross_entropy
@@ -44,7 +48,7 @@ class TreeDataset(object):
             edge_index, _ = torch_geometric.utils.add_remaining_self_loops(edge_index=edge_index, )
         return edge_index
 
-    def generate_data(self, train_fraction, max_samples=32000):
+    def generate_data(self, train_fraction, max_samples=32000, k_hop=3):
         data_list = []
 
         combinations = list(self.get_combinations(max_samples))
@@ -55,7 +59,7 @@ class TreeDataset(object):
             label = self.label(comb)
             data = Data(x=nodes, edge_index=edge_index, root_mask=root_mask, y=label)
             data.k_hop_edge_index, _ = torch_geometric.utils.add_remaining_self_loops(
-                edge_index=slrc.create_k_hop_graph(data, k=3).edge_index,
+                edge_index=slrc.create_k_hop_graph(data, k=k_hop).edge_index,
             )
             data_list.append(data)
 
@@ -63,19 +67,57 @@ class TreeDataset(object):
         X_train, X_test = train_test_split(
             data_list, train_size=train_fraction, shuffle=True, stratify=[data.y for data in data_list])
 
+        dataset_args = {
+            'dim0': dim0,
+            'out_dim': out_dim,
+            'criterion': self.criterion,
+        }
+        return X_train, X_test, dataset_args
 
-        return X_train, X_test, dim0, out_dim, self.criterion
-
-    # Every sub-class should implement the following methods:
     def get_combinations(self, max_samples):
-        raise NotImplementedError
+        # returns: an iterable of [key, permutation(leaves)]
+        # number of combinations: (num_leaves!)*num_choices
+        num_leaves = len(self.leaf_indices)
+        num_permutations = 1000
+        max_examples = max_samples
+
+        if self.depth > 3:
+            per_depth_num_permutations = min(num_permutations, math.factorial(num_leaves), max_examples // num_leaves)
+            permutations = [np.random.permutation(range(1, num_leaves + 1)) for _ in
+                            range(per_depth_num_permutations)]
+        else:
+            permutations = random.sample(list(itertools.permutations(range(1, num_leaves + 1))),
+                                         min(num_permutations, math.factorial(num_leaves)))
+
+        return itertools.chain.from_iterable(
+
+            zip(range(1, num_leaves + 1), itertools.repeat(perm))
+            for perm in permutations)
 
     def get_nodes_features(self, combination):
-        raise NotImplementedError
+        # combination: a list of indices
+        # Each leaf contains a one-hot encoding of a key, and a one-hot encoding of the value
+        # Every other node is empty, for now
+        selected_key, values = combination
+
+        # The root is [one-hot selected key] + [0 ... 0]
+        nodes = [ (selected_key, 0) ]
+
+        for i in range(1, self.num_nodes):
+            if i in self.leaf_indices:
+                leaf_num = self.leaf_indices.index(i)
+                node = (leaf_num+1, values[leaf_num])
+            else:
+                node = (0, 0)
+            nodes.append(node)
+        return nodes
 
     def label(self, combination):
-        raise NotImplementedError
+        selected_key, values = combination
+        return int(values[selected_key - 1])
 
     def get_dims(self):
-        raise NotImplementedError
-
+        # get input and output dims
+        in_dim = len(self.leaf_indices)
+        out_dim = len(self.leaf_indices)
+        return in_dim, out_dim

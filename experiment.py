@@ -6,18 +6,13 @@ import numpy as np
 import random
 
 from common import STOP
-from models.graph_model import GraphModel
 
 
 class Experiment():
     def __init__(self, args):
+
+
         self.task = args['task']
-        gnn_type = args['type']
-        self.depth = args['depth']
-        num_layers = self.depth if args['num_layers'] is None else args['num_layers']
-        self.dim = args['dim']
-        self.unroll = args['unroll']
-        self.train_fraction = args['train_fraction']
         self.max_epochs = args['max_epochs']
         self.batch_size = args['batch_size']
         self.accum_grad = args['accum_grad']
@@ -26,7 +21,6 @@ class Experiment():
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
         self.stopping_criterion = args['stop']
         self.patience = args['patience']
-        self.max_samples = args['max_samples']
         self.learning_rate = args['learning_rate']
         self.weight_decay = args['weight_decay']
 
@@ -35,15 +29,12 @@ class Experiment():
         np.random.seed(seed)
         random.seed(seed)
 
-        self.X_train, self.X_test, dim0, out_dim, self.criterion = \
-            self.task.get_dataset(self.depth, self.train_fraction, self.max_samples)
+        self.X_train, self.X_test, dataset_args = \
+            self.task.get_dataset(args['depth'], args['train_fraction'], args['max_samples'], args['k_hop'])
 
-        self.model = GraphModel(gnn_type=gnn_type, num_layers=num_layers, dim0=dim0, h_dim=self.dim, out_dim=out_dim,
-                                last_layer=args['last_layer'], unroll=args['unroll'],
-                                layer_norm=not args['no_layer_norm'],
-                                use_activation=not args['no_activation'],
-                                use_residual=not args['no_residual']
-                                ).to(self.device)
+        self.criterion = dataset_args['criterion']
+
+        self.model = self.task.get_model(args, dataset_args).to(self.device)
 
         print(f'Starting experiment')
         self.print_args(args)
