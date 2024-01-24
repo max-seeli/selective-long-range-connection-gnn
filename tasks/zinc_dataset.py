@@ -25,15 +25,11 @@ class Zinc(object):
         all_data = self.train + self.val + self.test
         all_data = [data for data in all_data]
         if max_samples is not None and len(all_data) > max_samples:
-            print(type(all_data))
             all_data = all_data[:10]
-
-        print(f'Generating {gen_k_hop}')
 
         if gen_k_hop['do_generation']:
             for data in tqdm(all_data, desc='Creating k-hop graphs', unit='graphs'):
                 data.k_hop_edge_index = slrc.create_k_hop_graph(data, k=gen_k_hop['k_hop']).edge_index
-                print(data.k_hop_edge_index is not None)
         
         X_train, X_test = train_test_split(all_data, train_size=train_fraction, shuffle=True)
 
