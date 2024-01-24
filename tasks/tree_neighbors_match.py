@@ -48,7 +48,7 @@ class TreeNeighborsMatch(object):
             edge_index, _ = torch_geometric.utils.add_remaining_self_loops(edge_index=edge_index, )
         return edge_index
 
-    def generate_data(self, train_fraction, max_samples=32000, k_hop=3):
+    def generate_data(self, train_fraction, max_samples, gen_k_hop):
         data_list = []
 
         combinations = list(self.get_combinations(max_samples))
@@ -58,9 +58,11 @@ class TreeNeighborsMatch(object):
             root_mask = torch.tensor([True] + [False] * (len(nodes) - 1))
             label = self.label(comb)
             data = Data(x=nodes, edge_index=edge_index, root_mask=root_mask, y=label)
-            data.k_hop_edge_index, _ = torch_geometric.utils.add_remaining_self_loops(
-                edge_index=slrc.create_k_hop_graph(data, k=k_hop).edge_index,
-            )
+
+            if gen_k_hop['do_generation']:
+                data.k_hop_edge_index, _ = torch_geometric.utils.add_remaining_self_loops(
+                    edge_index=slrc.create_k_hop_graph(data, k=gen_k_hop['k_hop']).edge_index,
+                )
             data_list.append(data)
 
         dim0, out_dim = self.get_dims()
