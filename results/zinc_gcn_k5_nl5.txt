@@ -1,0 +1,1004 @@
+nohup: ignoring input
+Creating k-hop graphs:   0%|          | 0/12000 [00:00<?, ?graphs/s]Creating k-hop graphs:   0%|          | 34/12000 [00:00<00:35, 333.62graphs/s]Creating k-hop graphs:   1%|          | 69/12000 [00:00<00:35, 336.60graphs/s]Creating k-hop graphs:   1%|          | 103/12000 [00:00<00:35, 337.02graphs/s]Creating k-hop graphs:   1%|          | 139/12000 [00:00<00:34, 344.09graphs/s]Creating k-hop graphs:   1%|▏         | 177/12000 [00:00<00:33, 355.95graphs/s]Creating k-hop graphs:   2%|▏         | 213/12000 [00:00<00:34, 345.09graphs/s]Creating k-hop graphs:   2%|▏         | 249/12000 [00:00<00:33, 347.70graphs/s]Creating k-hop graphs:   2%|▏         | 284/12000 [00:00<00:34, 342.83graphs/s]Creating k-hop graphs:   3%|▎         | 321/12000 [00:00<00:33, 348.78graphs/s]Creating k-hop graphs:   3%|▎         | 358/12000 [00:01<00:32, 352.93graphs/s]Creating k-hop graphs:   3%|▎         | 394/12000 [00:01<00:33, 348.46graphs/s]Creating k-hop graphs:   4%|▎         | 429/12000 [00:01<00:34, 339.26graphs/s]Creating k-hop graphs:   4%|▍         | 463/12000 [00:01<00:34, 333.12graphs/s]Creating k-hop graphs:   4%|▍         | 501/12000 [00:01<00:33, 346.29graphs/s]Creating k-hop graphs:   4%|▍         | 536/12000 [00:01<00:33, 341.25graphs/s]Creating k-hop graphs:   5%|▍         | 571/12000 [00:01<00:33, 339.37graphs/s]Creating k-hop graphs:   5%|▌         | 605/12000 [00:01<00:33, 338.67graphs/s]Creating k-hop graphs:   5%|▌         | 639/12000 [00:01<00:33, 338.50graphs/s]Creating k-hop graphs:   6%|▌         | 673/12000 [00:01<00:33, 334.59graphs/s]Creating k-hop graphs:   6%|▌         | 709/12000 [00:02<00:33, 341.37graphs/s]Creating k-hop graphs:   6%|▌         | 744/12000 [00:02<00:33, 332.87graphs/s]Creating k-hop graphs:   7%|▋         | 782/12000 [00:02<00:32, 346.32graphs/s]Creating k-hop graphs:   7%|▋         | 817/12000 [00:02<00:32, 343.37graphs/s]Creating k-hop graphs:   7%|▋         | 852/12000 [00:02<00:33, 336.47graphs/s]Creating k-hop graphs:   7%|▋         | 890/12000 [00:02<00:31, 348.46graphs/s]Creating k-hop graphs:   8%|▊         | 925/12000 [00:02<00:33, 327.14graphs/s]Creating k-hop graphs:   8%|▊         | 961/12000 [00:02<00:33, 332.50graphs/s]Creating k-hop graphs:   8%|▊         | 998/12000 [00:02<00:32, 340.46graphs/s]Creating k-hop graphs:   9%|▊         | 1036/12000 [00:03<00:31, 348.79graphs/s]Creating k-hop graphs:   9%|▉         | 1073/12000 [00:03<00:30, 353.73graphs/s]Creating k-hop graphs:   9%|▉         | 1109/12000 [00:03<00:30, 353.21graphs/s]Creating k-hop graphs:  10%|▉         | 1145/12000 [00:03<00:30, 351.67graphs/s]Creating k-hop graphs:  10%|▉         | 1181/12000 [00:03<00:31, 346.45graphs/s]Creating k-hop graphs:  10%|█         | 1216/12000 [00:03<00:32, 327.15graphs/s]Creating k-hop graphs:  10%|█         | 1249/12000 [00:03<00:33, 321.19graphs/s]Creating k-hop graphs:  11%|█         | 1282/12000 [00:03<00:33, 321.47graphs/s]Creating k-hop graphs:  11%|█         | 1320/12000 [00:03<00:31, 335.68graphs/s]Creating k-hop graphs:  11%|█▏        | 1355/12000 [00:03<00:31, 337.39graphs/s]Creating k-hop graphs:  12%|█▏        | 1389/12000 [00:04<00:32, 327.93graphs/s]Creating k-hop graphs:  12%|█▏        | 1422/12000 [00:04<00:32, 325.67graphs/s]Creating k-hop graphs:  12%|█▏        | 1455/12000 [00:04<00:32, 321.65graphs/s]Creating k-hop graphs:  12%|█▏        | 1491/12000 [00:04<00:31, 332.08graphs/s]Creating k-hop graphs:  13%|█▎        | 1525/12000 [00:04<00:32, 324.46graphs/s]Creating k-hop graphs:  13%|█▎        | 1559/12000 [00:04<00:31, 328.86graphs/s]Creating k-hop graphs:  13%|█▎        | 1592/12000 [00:04<00:32, 323.48graphs/s]Creating k-hop graphs:  14%|█▎        | 1631/12000 [00:04<00:30, 340.55graphs/s]Creating k-hop graphs:  14%|█▍        | 1666/12000 [00:04<00:30, 339.29graphs/s]Creating k-hop graphs:  14%|█▍        | 1705/12000 [00:05<00:29, 352.89graphs/s]Creating k-hop graphs:  15%|█▍        | 1742/12000 [00:05<00:28, 354.27graphs/s]Creating k-hop graphs:  15%|█▍        | 1778/12000 [00:05<00:29, 348.29graphs/s]Creating k-hop graphs:  15%|█▌        | 1815/12000 [00:05<00:29, 350.90graphs/s]Creating k-hop graphs:  15%|█▌        | 1851/12000 [00:05<00:29, 339.48graphs/s]Creating k-hop graphs:  16%|█▌        | 1892/12000 [00:05<00:28, 358.23graphs/s]Creating k-hop graphs:  16%|█▌        | 1928/12000 [00:05<00:29, 339.30graphs/s]Creating k-hop graphs:  16%|█▋        | 1963/12000 [00:05<00:29, 341.08graphs/s]Creating k-hop graphs:  17%|█▋        | 1998/12000 [00:05<00:30, 330.63graphs/s]Creating k-hop graphs:  17%|█▋        | 2032/12000 [00:05<00:30, 329.75graphs/s]Creating k-hop graphs:  17%|█▋        | 2067/12000 [00:06<00:29, 335.04graphs/s]Creating k-hop graphs:  18%|█▊        | 2101/12000 [00:06<00:30, 328.17graphs/s]Creating k-hop graphs:  18%|█▊        | 2134/12000 [00:06<00:30, 323.20graphs/s]Creating k-hop graphs:  18%|█▊        | 2167/12000 [00:06<00:31, 316.46graphs/s]Creating k-hop graphs:  18%|█▊        | 2199/12000 [00:06<00:30, 316.71graphs/s]Creating k-hop graphs:  19%|█▊        | 2231/12000 [00:06<00:30, 316.53graphs/s]Creating k-hop graphs:  19%|█▉        | 2264/12000 [00:06<00:30, 320.15graphs/s]Creating k-hop graphs:  19%|█▉        | 2297/12000 [00:06<00:30, 321.64graphs/s]Creating k-hop graphs:  19%|█▉        | 2331/12000 [00:06<00:29, 323.28graphs/s]Creating k-hop graphs:  20%|█▉        | 2364/12000 [00:07<00:29, 322.68graphs/s]Creating k-hop graphs:  20%|██        | 2403/12000 [00:07<00:28, 341.14graphs/s]Creating k-hop graphs:  20%|██        | 2438/12000 [00:07<00:28, 335.11graphs/s]Creating k-hop graphs:  21%|██        | 2473/12000 [00:07<00:28, 339.42graphs/s]Creating k-hop graphs:  21%|██        | 2512/12000 [00:07<00:26, 353.65graphs/s]Creating k-hop graphs:  21%|██        | 2548/12000 [00:07<00:26, 353.13graphs/s]Creating k-hop graphs:  22%|██▏       | 2584/12000 [00:07<00:27, 348.21graphs/s]Creating k-hop graphs:  22%|██▏       | 2625/12000 [00:07<00:25, 364.71graphs/s]Creating k-hop graphs:  22%|██▏       | 2662/12000 [00:07<00:25, 362.78graphs/s]Creating k-hop graphs:  22%|██▏       | 2699/12000 [00:07<00:26, 355.05graphs/s]Creating k-hop graphs:  23%|██▎       | 2740/12000 [00:08<00:24, 370.57graphs/s]Creating k-hop graphs:  23%|██▎       | 2778/12000 [00:08<00:25, 363.84graphs/s]Creating k-hop graphs:  23%|██▎       | 2815/12000 [00:08<00:25, 359.26graphs/s]Creating k-hop graphs:  24%|██▍       | 2851/12000 [00:08<00:25, 354.85graphs/s]Creating k-hop graphs:  24%|██▍       | 2887/12000 [00:08<00:25, 354.52graphs/s]Creating k-hop graphs:  24%|██▍       | 2923/12000 [00:08<00:26, 346.04graphs/s]Creating k-hop graphs:  25%|██▍       | 2959/12000 [00:08<00:25, 348.59graphs/s]Creating k-hop graphs:  25%|██▍       | 2996/12000 [00:08<00:25, 353.35graphs/s]Creating k-hop graphs:  25%|██▌       | 3032/12000 [00:08<00:25, 346.06graphs/s]Creating k-hop graphs:  26%|██▌       | 3067/12000 [00:09<00:25, 345.95graphs/s]Creating k-hop graphs:  26%|██▌       | 3102/12000 [00:09<00:26, 333.49graphs/s]Creating k-hop graphs:  26%|██▌       | 3137/12000 [00:09<00:26, 335.75graphs/s]Creating k-hop graphs:  26%|██▋       | 3171/12000 [00:09<00:26, 336.86graphs/s]Creating k-hop graphs:  27%|██▋       | 3206/12000 [00:09<00:25, 339.63graphs/s]Creating k-hop graphs:  27%|██▋       | 3244/12000 [00:09<00:25, 350.19graphs/s]Creating k-hop graphs:  27%|██▋       | 3280/12000 [00:09<00:25, 345.59graphs/s]Creating k-hop graphs:  28%|██▊       | 3315/12000 [00:09<00:25, 334.20graphs/s]Creating k-hop graphs:  28%|██▊       | 3351/12000 [00:09<00:25, 341.24graphs/s]Creating k-hop graphs:  28%|██▊       | 3390/12000 [00:09<00:24, 353.91graphs/s]Creating k-hop graphs:  29%|██▊       | 3426/12000 [00:10<00:24, 355.50graphs/s]Creating k-hop graphs:  29%|██▉       | 3462/12000 [00:10<00:24, 353.49graphs/s]Creating k-hop graphs:  29%|██▉       | 3498/12000 [00:10<00:24, 350.91graphs/s]Creating k-hop graphs:  29%|██▉       | 3539/12000 [00:10<00:23, 366.20graphs/s]Creating k-hop graphs:  30%|██▉       | 3576/12000 [00:10<00:24, 346.77graphs/s]Creating k-hop graphs:  30%|███       | 3611/12000 [00:10<00:24, 347.56graphs/s]Creating k-hop graphs:  30%|███       | 3646/12000 [00:10<00:24, 340.93graphs/s]Creating k-hop graphs:  31%|███       | 3681/12000 [00:10<00:24, 343.16graphs/s]Creating k-hop graphs:  31%|███       | 3716/12000 [00:10<00:25, 326.95graphs/s]Creating k-hop graphs:  31%|███       | 3749/12000 [00:11<00:25, 326.86graphs/s]Creating k-hop graphs:  32%|███▏      | 3783/12000 [00:11<00:24, 329.97graphs/s]Creating k-hop graphs:  32%|███▏      | 3817/12000 [00:11<00:25, 318.19graphs/s]Creating k-hop graphs:  32%|███▏      | 3851/12000 [00:11<00:25, 323.14graphs/s]Creating k-hop graphs:  32%|███▏      | 3887/12000 [00:11<00:24, 332.56graphs/s]Creating k-hop graphs:  33%|███▎      | 3921/12000 [00:11<00:24, 326.51graphs/s]Creating k-hop graphs:  33%|███▎      | 3960/12000 [00:11<00:23, 342.85graphs/s]Creating k-hop graphs:  33%|███▎      | 3995/12000 [00:11<00:23, 340.28graphs/s]Creating k-hop graphs:  34%|███▎      | 4030/12000 [00:11<00:24, 331.87graphs/s]Creating k-hop graphs:  34%|███▍      | 4064/12000 [00:11<00:24, 318.68graphs/s]Creating k-hop graphs:  34%|███▍      | 4098/12000 [00:12<00:24, 324.26graphs/s]Creating k-hop graphs:  34%|███▍      | 4134/12000 [00:12<00:23, 334.02graphs/s]Creating k-hop graphs:  35%|███▍      | 4171/12000 [00:12<00:22, 340.89graphs/s]Creating k-hop graphs:  35%|███▌      | 4206/12000 [00:12<00:22, 342.78graphs/s]Creating k-hop graphs:  35%|███▌      | 4246/12000 [00:12<00:21, 358.47graphs/s]Creating k-hop graphs:  36%|███▌      | 4282/12000 [00:12<00:23, 335.25graphs/s]Creating k-hop graphs:  36%|███▌      | 4319/12000 [00:12<00:22, 344.29graphs/s]Creating k-hop graphs:  36%|███▋      | 4354/12000 [00:12<00:22, 337.85graphs/s]Creating k-hop graphs:  37%|███▋      | 4388/12000 [00:12<00:26, 288.90graphs/s]Creating k-hop graphs:  37%|███▋      | 4428/12000 [00:13<00:23, 317.59graphs/s]Creating k-hop graphs:  37%|███▋      | 4464/12000 [00:13<00:22, 328.18graphs/s]Creating k-hop graphs:  37%|███▋      | 4498/12000 [00:13<00:23, 326.06graphs/s]Creating k-hop graphs:  38%|███▊      | 4532/12000 [00:13<00:22, 326.46graphs/s]Creating k-hop graphs:  38%|███▊      | 4566/12000 [00:13<00:23, 323.16graphs/s]Creating k-hop graphs:  38%|███▊      | 4606/12000 [00:13<00:21, 343.49graphs/s]Creating k-hop graphs:  39%|███▊      | 4643/12000 [00:13<00:20, 351.00graphs/s]Creating k-hop graphs:  39%|███▉      | 4679/12000 [00:13<00:21, 338.00graphs/s]Creating k-hop graphs:  39%|███▉      | 4714/12000 [00:13<00:21, 338.21graphs/s]Creating k-hop graphs:  40%|███▉      | 4752/12000 [00:14<00:20, 348.71graphs/s]Creating k-hop graphs:  40%|███▉      | 4788/12000 [00:14<00:21, 340.57graphs/s]Creating k-hop graphs:  40%|████      | 4827/12000 [00:14<00:20, 353.75graphs/s]Creating k-hop graphs:  41%|████      | 4863/12000 [00:14<00:20, 345.31graphs/s]Creating k-hop graphs:  41%|████      | 4898/12000 [00:14<00:20, 340.19graphs/s]Creating k-hop graphs:  41%|████      | 4933/12000 [00:14<00:20, 339.24graphs/s]Creating k-hop graphs:  41%|████▏     | 4968/12000 [00:14<00:20, 341.14graphs/s]Creating k-hop graphs:  42%|████▏     | 5003/12000 [00:14<00:20, 334.90graphs/s]Creating k-hop graphs:  42%|████▏     | 5037/12000 [00:14<00:21, 326.96graphs/s]Creating k-hop graphs:  42%|████▏     | 5070/12000 [00:14<00:21, 327.55graphs/s]Creating k-hop graphs:  43%|████▎     | 5106/12000 [00:15<00:20, 332.93graphs/s]Creating k-hop graphs:  43%|████▎     | 5140/12000 [00:15<00:21, 319.69graphs/s]Creating k-hop graphs:  43%|████▎     | 5173/12000 [00:15<00:22, 300.69graphs/s]Creating k-hop graphs:  43%|████▎     | 5204/12000 [00:15<00:22, 300.67graphs/s]Creating k-hop graphs:  44%|████▎     | 5241/12000 [00:15<00:21, 319.20graphs/s]Creating k-hop graphs:  44%|████▍     | 5277/12000 [00:15<00:20, 328.38graphs/s]Creating k-hop graphs:  44%|████▍     | 5312/12000 [00:15<00:20, 333.04graphs/s]Creating k-hop graphs:  45%|████▍     | 5346/12000 [00:15<00:20, 332.63graphs/s]Creating k-hop graphs:  45%|████▍     | 5381/12000 [00:15<00:19, 336.95graphs/s]Creating k-hop graphs:  45%|████▌     | 5417/12000 [00:16<00:19, 339.52graphs/s]Creating k-hop graphs:  45%|████▌     | 5452/12000 [00:16<00:19, 331.95graphs/s]Creating k-hop graphs:  46%|████▌     | 5486/12000 [00:16<00:19, 330.50graphs/s]Creating k-hop graphs:  46%|████▌     | 5520/12000 [00:16<00:19, 324.15graphs/s]Creating k-hop graphs:  46%|████▋     | 5555/12000 [00:16<00:19, 328.51graphs/s]Creating k-hop graphs:  47%|████▋     | 5590/12000 [00:16<00:19, 333.05graphs/s]Creating k-hop graphs:  47%|████▋     | 5628/12000 [00:16<00:18, 346.35graphs/s]Creating k-hop graphs:  47%|████▋     | 5665/12000 [00:16<00:18, 349.71graphs/s]Creating k-hop graphs:  48%|████▊     | 5701/12000 [00:16<00:17, 350.48graphs/s]Creating k-hop graphs:  48%|████▊     | 5737/12000 [00:16<00:18, 344.72graphs/s]Creating k-hop graphs:  48%|████▊     | 5772/12000 [00:17<00:18, 337.47graphs/s]Creating k-hop graphs:  48%|████▊     | 5807/12000 [00:17<00:18, 337.98graphs/s]Creating k-hop graphs:  49%|████▊     | 5841/12000 [00:17<00:18, 338.29graphs/s]Creating k-hop graphs:  49%|████▉     | 5875/12000 [00:17<00:18, 337.47graphs/s]Creating k-hop graphs:  49%|████▉     | 5909/12000 [00:17<00:18, 327.71graphs/s]Creating k-hop graphs:  50%|████▉     | 5943/12000 [00:17<00:18, 327.59graphs/s]Creating k-hop graphs:  50%|████▉     | 5979/12000 [00:17<00:17, 335.93graphs/s]Creating k-hop graphs:  50%|█████     | 6015/12000 [00:17<00:17, 341.35graphs/s]Creating k-hop graphs:  50%|█████     | 6051/12000 [00:17<00:17, 344.62graphs/s]Creating k-hop graphs:  51%|█████     | 6091/12000 [00:18<00:16, 358.03graphs/s]Creating k-hop graphs:  51%|█████     | 6127/12000 [00:18<00:18, 323.69graphs/s]Creating k-hop graphs:  51%|█████▏    | 6160/12000 [00:18<00:18, 313.68graphs/s]Creating k-hop graphs:  52%|█████▏    | 6192/12000 [00:18<00:19, 297.84graphs/s]Creating k-hop graphs:  52%|█████▏    | 6230/12000 [00:18<00:18, 319.31graphs/s]Creating k-hop graphs:  52%|█████▏    | 6263/12000 [00:18<00:18, 316.09graphs/s]Creating k-hop graphs:  52%|█████▏    | 6295/12000 [00:18<00:19, 285.33graphs/s]Creating k-hop graphs:  53%|█████▎    | 6329/12000 [00:18<00:19, 297.09graphs/s]Creating k-hop graphs:  53%|█████▎    | 6365/12000 [00:18<00:18, 312.83graphs/s]Creating k-hop graphs:  53%|█████▎    | 6397/12000 [00:19<00:18, 310.33graphs/s]Creating k-hop graphs:  54%|█████▎    | 6429/12000 [00:19<00:18, 308.81graphs/s]Creating k-hop graphs:  54%|█████▍    | 6461/12000 [00:19<00:17, 308.27graphs/s]Creating k-hop graphs:  54%|█████▍    | 6498/12000 [00:19<00:16, 323.70graphs/s]Creating k-hop graphs:  54%|█████▍    | 6531/12000 [00:19<00:16, 322.51graphs/s]Creating k-hop graphs:  55%|█████▍    | 6565/12000 [00:19<00:16, 326.63graphs/s]Creating k-hop graphs:  55%|█████▌    | 6602/12000 [00:19<00:15, 338.46graphs/s]Creating k-hop graphs:  55%|█████▌    | 6636/12000 [00:19<00:16, 323.99graphs/s]Creating k-hop graphs:  56%|█████▌    | 6669/12000 [00:19<00:16, 324.49graphs/s]Creating k-hop graphs:  56%|█████▌    | 6702/12000 [00:19<00:16, 318.39graphs/s]Creating k-hop graphs:  56%|█████▌    | 6735/12000 [00:20<00:16, 317.00graphs/s]Creating k-hop graphs:  56%|█████▋    | 6767/12000 [00:20<00:16, 316.16graphs/s]Creating k-hop graphs:  57%|█████▋    | 6799/12000 [00:20<00:16, 315.47graphs/s]Creating k-hop graphs:  57%|█████▋    | 6832/12000 [00:20<00:16, 315.48graphs/s]Creating k-hop graphs:  57%|█████▋    | 6867/12000 [00:20<00:15, 323.00graphs/s]Creating k-hop graphs:  58%|█████▊    | 6902/12000 [00:20<00:15, 329.52graphs/s]Creating k-hop graphs:  58%|█████▊    | 6935/12000 [00:20<00:15, 325.78graphs/s]Creating k-hop graphs:  58%|█████▊    | 6968/12000 [00:20<00:15, 324.12graphs/s]Creating k-hop graphs:  58%|█████▊    | 7003/12000 [00:20<00:15, 329.65graphs/s]Creating k-hop graphs:  59%|█████▊    | 7041/12000 [00:21<00:14, 344.23graphs/s]Creating k-hop graphs:  59%|█████▉    | 7076/12000 [00:21<00:14, 342.42graphs/s]Creating k-hop graphs:  59%|█████▉    | 7115/12000 [00:21<00:13, 355.44graphs/s]Creating k-hop graphs:  60%|█████▉    | 7151/12000 [00:21<00:14, 334.14graphs/s]Creating k-hop graphs:  60%|█████▉    | 7186/12000 [00:21<00:14, 337.28graphs/s]Creating k-hop graphs:  60%|██████    | 7220/12000 [00:21<00:14, 329.33graphs/s]Creating k-hop graphs:  60%|██████    | 7254/12000 [00:21<00:14, 318.46graphs/s]Creating k-hop graphs:  61%|██████    | 7287/12000 [00:21<00:15, 311.32graphs/s]Creating k-hop graphs:  61%|██████    | 7319/12000 [00:21<00:15, 305.35graphs/s]Creating k-hop graphs:  61%|██████▏   | 7350/12000 [00:21<00:15, 301.97graphs/s]Creating k-hop graphs:  62%|██████▏   | 7383/12000 [00:22<00:14, 308.67graphs/s]Creating k-hop graphs:  62%|██████▏   | 7414/12000 [00:22<00:15, 304.48graphs/s]Creating k-hop graphs:  62%|██████▏   | 7447/12000 [00:22<00:14, 309.83graphs/s]Creating k-hop graphs:  62%|██████▏   | 7479/12000 [00:22<00:15, 295.91graphs/s]Creating k-hop graphs:  63%|██████▎   | 7509/12000 [00:22<00:15, 291.68graphs/s]Creating k-hop graphs:  63%|██████▎   | 7539/12000 [00:22<00:15, 292.34graphs/s]Creating k-hop graphs:  63%|██████▎   | 7569/12000 [00:22<00:15, 292.03graphs/s]Creating k-hop graphs:  63%|██████▎   | 7599/12000 [00:22<00:15, 284.82graphs/s]Creating k-hop graphs:  64%|██████▎   | 7633/12000 [00:22<00:14, 299.63graphs/s]Creating k-hop graphs:  64%|██████▍   | 7667/12000 [00:23<00:13, 311.21graphs/s]Creating k-hop graphs:  64%|██████▍   | 7700/12000 [00:23<00:13, 315.46graphs/s]Creating k-hop graphs:  64%|██████▍   | 7735/12000 [00:23<00:13, 323.19graphs/s]Creating k-hop graphs:  65%|██████▍   | 7768/12000 [00:23<00:13, 308.34graphs/s]Creating k-hop graphs:  65%|██████▌   | 7802/12000 [00:23<00:13, 316.38graphs/s]Creating k-hop graphs:  65%|██████▌   | 7834/12000 [00:23<00:13, 309.75graphs/s]Creating k-hop graphs:  66%|██████▌   | 7866/12000 [00:23<00:13, 308.03graphs/s]Creating k-hop graphs:  66%|██████▌   | 7900/12000 [00:23<00:12, 316.38graphs/s]Creating k-hop graphs:  66%|██████▌   | 7932/12000 [00:23<00:13, 311.60graphs/s]Creating k-hop graphs:  66%|██████▋   | 7964/12000 [00:23<00:13, 302.65graphs/s]Creating k-hop graphs:  67%|██████▋   | 7995/12000 [00:24<00:13, 296.58graphs/s]Creating k-hop graphs:  67%|██████▋   | 8026/12000 [00:24<00:13, 298.25graphs/s]Creating k-hop graphs:  67%|██████▋   | 8056/12000 [00:24<00:13, 295.21graphs/s]Creating k-hop graphs:  67%|██████▋   | 8086/12000 [00:24<00:13, 283.38graphs/s]Creating k-hop graphs:  68%|██████▊   | 8120/12000 [00:24<00:13, 296.32graphs/s]Creating k-hop graphs:  68%|██████▊   | 8150/12000 [00:24<00:13, 278.04graphs/s]Creating k-hop graphs:  68%|██████▊   | 8184/12000 [00:24<00:13, 293.42graphs/s]Creating k-hop graphs:  68%|██████▊   | 8216/12000 [00:24<00:12, 300.56graphs/s]Creating k-hop graphs:  69%|██████▊   | 8247/12000 [00:24<00:12, 296.93graphs/s]Creating k-hop graphs:  69%|██████▉   | 8280/12000 [00:25<00:12, 304.47graphs/s]Creating k-hop graphs:  69%|██████▉   | 8311/12000 [00:25<00:12, 299.90graphs/s]Creating k-hop graphs:  70%|██████▉   | 8342/12000 [00:25<00:12, 286.06graphs/s]Creating k-hop graphs:  70%|██████▉   | 8375/12000 [00:25<00:12, 296.43graphs/s]Creating k-hop graphs:  70%|███████   | 8405/12000 [00:25<00:12, 295.92graphs/s]Creating k-hop graphs:  70%|███████   | 8444/12000 [00:25<00:11, 320.56graphs/s]Creating k-hop graphs:  71%|███████   | 8480/12000 [00:25<00:10, 330.48graphs/s]Creating k-hop graphs:  71%|███████   | 8514/12000 [00:25<00:10, 317.94graphs/s]Creating k-hop graphs:  71%|███████   | 8549/12000 [00:25<00:10, 326.76graphs/s]Creating k-hop graphs:  72%|███████▏  | 8582/12000 [00:26<00:10, 323.57graphs/s]Creating k-hop graphs:  72%|███████▏  | 8615/12000 [00:26<00:10, 316.08graphs/s]Creating k-hop graphs:  72%|███████▏  | 8647/12000 [00:26<00:10, 310.75graphs/s]Creating k-hop graphs:  72%|███████▏  | 8680/12000 [00:26<00:10, 314.69graphs/s]Creating k-hop graphs:  73%|███████▎  | 8712/12000 [00:26<00:10, 313.74graphs/s]Creating k-hop graphs:  73%|███████▎  | 8747/12000 [00:26<00:10, 323.22graphs/s]Creating k-hop graphs:  73%|███████▎  | 8780/12000 [00:26<00:10, 311.51graphs/s]Creating k-hop graphs:  73%|███████▎  | 8812/12000 [00:26<00:10, 302.83graphs/s]Creating k-hop graphs:  74%|███████▎  | 8843/12000 [00:26<00:10, 293.97graphs/s]Creating k-hop graphs:  74%|███████▍  | 8873/12000 [00:26<00:10, 290.21graphs/s]Creating k-hop graphs:  74%|███████▍  | 8903/12000 [00:27<00:10, 283.12graphs/s]Creating k-hop graphs:  74%|███████▍  | 8936/12000 [00:27<00:10, 295.53graphs/s]Creating k-hop graphs:  75%|███████▍  | 8969/12000 [00:27<00:09, 304.40graphs/s]Creating k-hop graphs:  75%|███████▌  | 9000/12000 [00:27<00:10, 298.32graphs/s]Creating k-hop graphs:  75%|███████▌  | 9030/12000 [00:27<00:10, 292.16graphs/s]Creating k-hop graphs:  76%|███████▌  | 9060/12000 [00:27<00:10, 285.24graphs/s]Creating k-hop graphs:  76%|███████▌  | 9094/12000 [00:27<00:09, 294.37graphs/s]Creating k-hop graphs:  76%|███████▌  | 9129/12000 [00:27<00:09, 308.28graphs/s]Creating k-hop graphs:  76%|███████▋  | 9160/12000 [00:27<00:09, 302.00graphs/s]Creating k-hop graphs:  77%|███████▋  | 9191/12000 [00:28<00:09, 290.60graphs/s]Creating k-hop graphs:  77%|███████▋  | 9221/12000 [00:28<00:09, 291.40graphs/s]Creating k-hop graphs:  77%|███████▋  | 9252/12000 [00:28<00:09, 294.80graphs/s]Creating k-hop graphs:  77%|███████▋  | 9283/12000 [00:28<00:09, 297.96graphs/s]Creating k-hop graphs:  78%|███████▊  | 9313/12000 [00:28<00:09, 286.76graphs/s]Creating k-hop graphs:  78%|███████▊  | 9342/12000 [00:28<00:09, 276.48graphs/s]Creating k-hop graphs:  78%|███████▊  | 9372/12000 [00:28<00:09, 282.85graphs/s]Creating k-hop graphs:  78%|███████▊  | 9404/12000 [00:28<00:08, 291.94graphs/s]Creating k-hop graphs:  79%|███████▊  | 9434/12000 [00:28<00:08, 286.52graphs/s]Creating k-hop graphs:  79%|███████▉  | 9467/12000 [00:29<00:08, 298.01graphs/s]Creating k-hop graphs:  79%|███████▉  | 9497/12000 [00:29<00:09, 277.30graphs/s]Creating k-hop graphs:  79%|███████▉  | 9528/12000 [00:29<00:08, 283.15graphs/s]Creating k-hop graphs:  80%|███████▉  | 9559/12000 [00:29<00:08, 289.36graphs/s]Creating k-hop graphs:  80%|███████▉  | 9593/12000 [00:29<00:07, 302.75graphs/s]Creating k-hop graphs:  80%|████████  | 9624/12000 [00:29<00:07, 298.73graphs/s]Creating k-hop graphs:  80%|████████  | 9655/12000 [00:29<00:07, 301.45graphs/s]Creating k-hop graphs:  81%|████████  | 9686/12000 [00:29<00:07, 292.86graphs/s]Creating k-hop graphs:  81%|████████  | 9716/12000 [00:29<00:08, 284.09graphs/s]Creating k-hop graphs:  81%|████████▏ | 9751/12000 [00:29<00:07, 300.08graphs/s]Creating k-hop graphs:  82%|████████▏ | 9782/12000 [00:30<00:07, 296.52graphs/s]Creating k-hop graphs:  82%|████████▏ | 9813/12000 [00:30<00:07, 294.84graphs/s]Creating k-hop graphs:  82%|████████▏ | 9845/12000 [00:30<00:07, 298.07graphs/s]Creating k-hop graphs:  82%|████████▏ | 9879/12000 [00:30<00:06, 307.44graphs/s]Creating k-hop graphs:  83%|████████▎ | 9910/12000 [00:30<00:07, 295.41graphs/s]Creating k-hop graphs:  83%|████████▎ | 9940/12000 [00:30<00:06, 294.79graphs/s]Creating k-hop graphs:  83%|████████▎ | 9970/12000 [00:30<00:07, 289.24graphs/s]Creating k-hop graphs:  83%|████████▎ | 10000/12000 [00:30<00:06, 291.56graphs/s]Creating k-hop graphs:  84%|████████▎ | 10030/12000 [00:30<00:06, 289.30graphs/s]Creating k-hop graphs:  84%|████████▍ | 10059/12000 [00:31<00:06, 282.60graphs/s]Creating k-hop graphs:  84%|████████▍ | 10088/12000 [00:31<00:06, 284.34graphs/s]Creating k-hop graphs:  84%|████████▍ | 10118/12000 [00:31<00:06, 287.53graphs/s]Creating k-hop graphs:  85%|████████▍ | 10152/12000 [00:31<00:06, 302.02graphs/s]Creating k-hop graphs:  85%|████████▍ | 10186/12000 [00:31<00:05, 306.37graphs/s]Creating k-hop graphs:  85%|████████▌ | 10217/12000 [00:31<00:05, 298.18graphs/s]Creating k-hop graphs:  85%|████████▌ | 10251/12000 [00:31<00:05, 309.09graphs/s]Creating k-hop graphs:  86%|████████▌ | 10282/12000 [00:31<00:05, 298.00graphs/s]Creating k-hop graphs:  86%|████████▌ | 10316/12000 [00:31<00:05, 309.84graphs/s]Creating k-hop graphs:  86%|████████▌ | 10348/12000 [00:31<00:05, 306.03graphs/s]Creating k-hop graphs:  86%|████████▋ | 10380/12000 [00:32<00:05, 307.95graphs/s]Creating k-hop graphs:  87%|████████▋ | 10411/12000 [00:32<00:05, 305.06graphs/s]Creating k-hop graphs:  87%|████████▋ | 10442/12000 [00:32<00:05, 291.07graphs/s]Creating k-hop graphs:  87%|████████▋ | 10472/12000 [00:32<00:05, 281.09graphs/s]Creating k-hop graphs:  88%|████████▊ | 10503/12000 [00:32<00:05, 286.95graphs/s]Creating k-hop graphs:  88%|████████▊ | 10532/12000 [00:32<00:05, 278.93graphs/s]Creating k-hop graphs:  88%|████████▊ | 10561/12000 [00:32<00:05, 277.02graphs/s]Creating k-hop graphs:  88%|████████▊ | 10593/12000 [00:32<00:04, 286.25graphs/s]Creating k-hop graphs:  89%|████████▊ | 10622/12000 [00:32<00:04, 284.92graphs/s]Creating k-hop graphs:  89%|████████▉ | 10653/12000 [00:33<00:04, 289.68graphs/s]Creating k-hop graphs:  89%|████████▉ | 10683/12000 [00:33<00:04, 290.42graphs/s]Creating k-hop graphs:  89%|████████▉ | 10715/12000 [00:33<00:04, 298.62graphs/s]Creating k-hop graphs:  90%|████████▉ | 10746/12000 [00:33<00:04, 300.99graphs/s]Creating k-hop graphs:  90%|████████▉ | 10777/12000 [00:33<00:04, 300.38graphs/s]Creating k-hop graphs:  90%|█████████ | 10809/12000 [00:33<00:03, 304.13graphs/s]Creating k-hop graphs:  90%|█████████ | 10840/12000 [00:33<00:03, 297.67graphs/s]Creating k-hop graphs:  91%|█████████ | 10870/12000 [00:33<00:03, 296.36graphs/s]Creating k-hop graphs:  91%|█████████ | 10902/12000 [00:33<00:03, 301.16graphs/s]Creating k-hop graphs:  91%|█████████ | 10933/12000 [00:34<00:03, 293.95graphs/s]Creating k-hop graphs:  91%|█████████▏| 10963/12000 [00:34<00:03, 288.35graphs/s]Creating k-hop graphs:  92%|█████████▏| 10993/12000 [00:34<00:03, 286.95graphs/s]Creating k-hop graphs:  92%|█████████▏| 11026/12000 [00:34<00:03, 298.91graphs/s]Creating k-hop graphs:  92%|█████████▏| 11056/12000 [00:34<00:03, 289.68graphs/s]Creating k-hop graphs:  92%|█████████▏| 11091/12000 [00:34<00:02, 305.97graphs/s]Creating k-hop graphs:  93%|█████████▎| 11124/12000 [00:34<00:02, 311.08graphs/s]Creating k-hop graphs:  93%|█████████▎| 11156/12000 [00:34<00:02, 305.99graphs/s]Creating k-hop graphs:  93%|█████████▎| 11187/12000 [00:34<00:02, 303.28graphs/s]Creating k-hop graphs:  93%|█████████▎| 11218/12000 [00:34<00:02, 304.79graphs/s]Creating k-hop graphs:  94%|█████████▎| 11249/12000 [00:35<00:02, 299.16graphs/s]Creating k-hop graphs:  94%|█████████▍| 11280/12000 [00:35<00:02, 297.40graphs/s]Creating k-hop graphs:  94%|█████████▍| 11311/12000 [00:35<00:02, 300.35graphs/s]Creating k-hop graphs:  95%|█████████▍| 11342/12000 [00:35<00:02, 298.34graphs/s]Creating k-hop graphs:  95%|█████████▍| 11373/12000 [00:35<00:02, 301.31graphs/s]Creating k-hop graphs:  95%|█████████▌| 11405/12Epoch 50, LR: [0.001]: Train loss: 1.6137359, Test loss: 2.5443869 (new best train)
+Epoch 60, LR: [0.001]: Train loss: 1.5306900, Test loss: 2.4829817 (new best train)
+Epoch 70, LR: [0.001]: Train loss: 1.5038935, Test loss: 2.4405391 (new best train)
+Epoch 80, LR: [0.001]: Train loss: 1.4662266, Test loss: 2.4132047 (new best train)
+Epoch 90, LR: [0.001]: Train loss: 1.4164110, Test loss: 2.3599198 (new best train)
+Epoch 100, LR: [0.001]: Train loss: 1.3866729, Test loss: 2.4215102 (new best train)
+Epoch 110, LR: [0.001]: Train loss: 1.3787471, Test loss: 2.3232555 (new best train)
+Epoch 120, LR: [0.001]: Train loss: 1.3482054, Test loss: 2.3266127 (new best train)
+Epoch 130, LR: [0.001]: Train loss: 1.3402459, Test loss: 2.3110488 (new best train)
+Epoch 140, LR: [0.001]: Train loss: 1.3315784, Test loss: 2.3821895 (new best train)
+Epoch 150, LR: [0.001]: Train loss: 1.2981940, Test loss: 2.2566263 (new best train)
+Epoch 160, LR: [0.001]: Train loss: 1.2918252, Test loss: 2.2854128 (new best train)
+Epoch 170, LR: [0.001]: Train loss: 1.2825272, Test loss: 2.2524668 (new best train)
+Epoch 180, LR: [0.001]: Train loss: 1.2682078, Test loss: 2.2128301 (new best train)
+Epoch 190, LR: [0.001]: Train loss: 1.2731115, Test loss: 2.1803155
+Epoch 200, LR: [0.001]: Train loss: 1.2526581, Test loss: 2.2163676 (new best train)
+Epoch 210, LR: [0.001]: Train loss: 1.2461011, Test loss: 2.1669116 (new best train)
+Epoch 220, LR: [0.001]: Train loss: 1.2344779, Test loss: 2.1729547 (new best train)
+Epoch 230, LR: [0.001]: Train loss: 1.2367320, Test loss: 2.2003861
+Epoch 240, LR: [0.001]: Train loss: 1.2570786, Test loss: 2.1649847
+Epoch 250, LR: [0.001]: Train loss: 1.2232773, Test loss: 2.2169443 (new best train)
+Epoch 260, LR: [0.001]: Train loss: 1.2336267, Test loss: 2.1551010
+Epoch 270, LR: [0.001]: Train loss: 1.2036157, Test loss: 2.2113146 (new best train)
+Epoch 280, LR: [0.001]: Train loss: 1.2028679, Test loss: 2.1246751 (new best train)
+Epoch 290, LR: [0.001]: Train loss: 1.1989419, Test loss: 2.1349954 (new best train)
+Epoch 300, LR: [0.001]: Train loss: 1.2007676, Test loss: 2.1758624
+Epoch 310, LR: [0.001]: Train loss: 1.2023252, Test loss: 2.1994551
+Epoch 320, LR: [0.001]: Train loss: 1.1975589, Test loss: 2.1291763 (new best train)
+Epoch 330, LR: [0.001]: Train loss: 1.1845480, Test loss: 2.1297893 (new best train)
+Epoch 340, LR: [0.001]: Train loss: 1.1720879, Test loss: 2.1036664 (new best train)
+Epoch 350, LR: [0.001]: Train loss: 1.1820646, Test loss: 2.1123188
+Epoch 360, LR: [0.001]: Train loss: 1.1699106, Test loss: 2.1140892 (new best train)
+Epoch 370, LR: [0.001]: Train loss: 1.1627306, Test loss: 2.2137446 (new best train)
+Epoch 380, LR: [0.001]: Train loss: 1.1594474, Test loss: 2.0701697 (new best train)
+Epoch 390, LR: [0.001]: Train loss: 1.1612684, Test loss: 2.0876513
+Epoch 400, LR: [0.001]: Train loss: 1.1639652, Test loss: 2.1077795
+Epoch 410, LR: [0.001]: Train loss: 1.1640802, Test loss: 2.1476208
+Epoch 420, LR: [0.001]: Train loss: 1.1471047, Test loss: 2.0817416 (new best train)
+Epoch 430, LR: [0.001]: Train loss: 1.1511682, Test loss: 2.1286228
+Epoch 440, LR: [0.001]: Train loss: 1.1509190, Test loss: 2.1247508
+Epoch 450, LR: [0.001]: Train loss: 1.1385526, Test loss: 2.0717551 (new best train)
+Epoch 460, LR: [0.001]: Train loss: 1.1387511, Test loss: 2.0596098
+Epoch 470, LR: [0.001]: Train loss: 1.1532437, Test loss: 2.0874137
+Epoch 480, LR: [0.001]: Train loss: 1.1119516, Test loss: 2.1269881 (new best train)
+Epoch 490, LR: [0.001]: Train loss: 1.1241703, Test loss: 2.1320121
+Epoch 500, LR: [0.001]: Train loss: 1.1337359, Test loss: 2.0667368
+Epoch 510, LR: [0.001]: Train loss: 1.1130757, Test loss: 2.0682089
+Epoch 520, LR: [0.001]: Train loss: 1.1231468, Test loss: 2.0426646
+Epoch 530, LR: [0.001]: Train loss: 1.1160033, Test loss: 2.0515212
+Epoch 540, LR: [0.001]: Train loss: 1.1110876, Test loss: 2.0271013 (new best train)
+Epoch 550, LR: [0.001]: Train loss: 1.1167557, Test loss: 2.0274468
+Epoch 560, LR: [0.001]: Train loss: 1.1075074, Test loss: 2.0907938 (new best train)
+Epoch 570, LR: [0.001]: Train loss: 1.0988082, Test loss: 2.1772266 (new best train)
+Epoch 580, LR: [0.001]: Train loss: 1.1286770, Test loss: 2.0363392
+Epoch 590, LR: [0.001]: Train loss: 1.0958449, Test loss: 2.1125262 (new best train)
+Epoch 600, LR: [0.001]: Train loss: 1.0974989, Test loss: 2.0114725
+Epoch 610, LR: [0.001]: Train loss: 1.1047121, Test loss: 2.0283793
+Epoch 620, LR: [0.001]: Train loss: 1.1079599, Test loss: 2.1621667
+Epoch 630, LR: [0.001]: Train loss: 1.1044175, Test loss: 2.1839472
+Epoch 640, LR: [0.001]: Train loss: 1.1086563, Test loss: 2.0814978
+Epoch 650, LR: [0.001]: Train loss: 1.0906934, Test loss: 2.0165650 (new best train)
+Epoch 660, LR: [0.001]: Train loss: 1.1104944, Test loss: 2.0531089
+Epoch 670, LR: [0.001]: Train loss: 1.0951856, Test loss: 2.0768969
+Epoch 680, LR: [0.001]: Train loss: 1.0721994, Test loss: 2.0266743 (new best train)
+Epoch 690, LR: [0.001]: Train loss: 1.0920817, Test loss: 2.1223467
+Epoch 700, LR: [0.001]: Train loss: 1.0774585, Test loss: 2.0691883
+Epoch 710, LR: [0.001]: Train loss: 1.0779964, Test loss: 2.0384986
+Epoch 720, LR: [0.001]: Train loss: 1.0746619, Test loss: 2.0614535
+Epoch 730, LR: [0.001]: Train loss: 1.0760204, Test loss: 2.0139415
+Epoch 740, LR: [0.001]: Train loss: 1.0744101, Test loss: 1.9956722
+Epoch 750, LR: [0.001]: Train loss: 1.0749713, Test loss: 2.0706621
+Epoch 760, LR: [0.001]: Train loss: 1.0831514, Test loss: 2.1529689
+Epoch 770, LR: [0.001]: Train loss: 1.0918936, Test loss: 2.0198186
+Epoch 780, LR: [0.001]: Train loss: 1.0538127, Test loss: 2.0609950 (new best train)
+Epoch 790, LR: [0.001]: Train loss: 1.0883900, Test loss: 1.9850247
+Epoch 800, LR: [0.001]: Train loss: 1.0486807, Test loss: 1.9923045 (new best train)
+Epoch 810, LR: [0.001]: Train loss: 1.0573225, Test loss: 1.9956762
+Epoch 820, LR: [0.001]: Train loss: 1.0574466, Test loss: 1.9763861
+Epoch 830, LR: [0.001]: Train loss: 1.0724252, Test loss: 1.9810283
+Epoch 840, LR: [0.001]: Train loss: 1.0683702, Test loss: 2.0668597
+Epoch 850, LR: [0.001]: Train loss: 1.0508631, Test loss: 2.0029339
+Epoch 860, LR: [0.001]: Train loss: 1.0673440, Test loss: 1.9794651
+Epoch 870, LR: [0.001]: Train loss: 1.0520943, Test loss: 1.9817266
+Epoch 880, LR: [0.001]: Train loss: 1.0452306, Test loss: 1.9727013 (new best train)
+Epoch 890, LR: [0.001]: Train loss: 1.0415070, Test loss: 1.9731622 (new best train)
+Epoch 900, LR: [0.001]: Train loss: 1.0379467, Test loss: 1.9786126 (new best train)
+Epoch 910, LR: [0.001]: Train loss: 1.0724439, Test loss: 2.0131561
+Epoch 920, LR: [0.001]: Train loss: 1.0537819, Test loss: 2.0265618
+Epoch 930, LR: [0.001]: Train loss: 1.0252126, Test loss: 1.9798314 (new best train)
+Epoch 940, LR: [0.001]: Train loss: 1.0307809, Test loss: 2.0033339
+Epoch 950, LR: [0.001]: Train loss: 1.0509655, Test loss: 1.9730108
+Epoch 960, LR: [0.001]: Train loss: 1.0259141, Test loss: 1.9912363
+Epoch 970, LR: [0.001]: Train loss: 1.0493746, Test loss: 2.0082074
+Epoch 980, LR: [0.001]: Train loss: 1.0338941, Test loss: 2.0014671
+Epoch 990, LR: [0.001]: Train loss: 1.0357318, Test loss: 1.9828981
+Epoch 1000, LR: [0.001]: Train loss: 1.0489799, Test loss: 2.2541784
+Epoch 1010, LR: [0.001]: Train loss: 1.0149141, Test loss: 2.0034219 (new best train)
+Epoch 1020, LR: [0.001]: Train loss: 1.0301192, Test loss: 2.0270251
+Epoch 1030, LR: [0.001]: Train loss: 1.0442881, Test loss: 1.9749465
+Epoch 1040, LR: [0.001]: Train loss: 1.0505776, Test loss: 1.9680622
+Epoch 1050, LR: [0.001]: Train loss: 1.0264311, Test loss: 1.9891148
+Epoch 1060, LR: [0.001]: Train loss: 1.0217335, Test loss: 1.9819528
+Epoch 1070, LR: [0.001]: Train loss: 1.0206459, Test loss: 2.0265835
+Epoch 1080, LR: [0.001]: Train loss: 1.0144216, Test loss: 1.9596743 (new best train)
+Epoch 1090, LR: [0.001]: Train loss: 1.0018831, Test loss: 1.9614720 (new best train)
+Epoch 1100, LR: [0.001]: Train loss: 0.9986956, Test loss: 2.0209503 (new best train)
+Epoch 1110, LR: [0.001]: Train loss: 1.0193394, Test loss: 1.9634246
+Epoch 1120, LR: [0.001]: Train loss: 1.0021516, Test loss: 1.9646950
+Epoch 1130, LR: [0.001]: Train loss: 0.9998149, Test loss: 1.9530638
+Epoch 1140, LR: [0.001]: Train loss: 1.0334158, Test loss: 1.9884101
+Epoch 1150, LR: [0.001]: Train loss: 1.0121332, Test loss: 2.0153527
+Epoch 1160, LR: [0.001]: Train loss: 1.0303683, Test loss: 2.0028896
+Epoch 1170, LR: [0.001]: Train loss: 0.9993850, Test loss: 1.9776666
+Epoch 1180, LR: [0.001]: Train loss: 0.9870657, Test loss: 1.9647439 (new best train)
+Epoch 1190, LR: [0.001]: Train loss: 0.9939225, Test loss: 1.9573370
+Epoch 1200, LR: [0.001]: Train loss: 1.0229952, Test loss: 2.0975917
+Epoch 1210, LR: [0.001]: Train loss: 1.0009876, Test loss: 1.9564525
+Epoch 1220, LR: [0.001]: Train loss: 0.9878788, Test loss: 1.9700196
+Epoch 1230, LR: [0.001]: Train loss: 1.0012269, Test loss: 1.9412694
+Epoch 1240, LR: [0.001]: Train loss: 0.9998302, Test loss: 1.9631814
+Epoch 1250, LR: [0.001]: Train loss: 1.0048941, Test loss: 1.9358045
+Epoch 1260, LR: [0.001]: Train loss: 0.9746558, Test loss: 1.9624251 (new best train)
+Epoch 1270, LR: [0.001]: Train loss: 0.9932930, Test loss: 1.9422578
+Epoch 1280, LR: [0.001]: Train loss: 0.9837341, Test loss: 1.9272902
+Epoch 1290, LR: [0.001]: Train loss: 0.9814574, Test loss: 1.9894117
+Epoch 1300, LR: [0.001]: Train loss: 0.9692233, Test loss: 1.9681189 (new best train)
+Epoch 1310, LR: [0.001]: Train loss: 0.9687526, Test loss: 2.0015192 (new best train)
+Epoch 1320, LR: [0.001]: Train loss: 0.9700479, Test loss: 1.9419760
+Epoch 1330, LR: [0.001]: Train loss: 0.9942479, Test loss: 1.9736535
+Epoch 1340, LR: [0.001]: Train loss: 0.9928867, Test loss: 1.9234945
+Epoch 1350, LR: [0.001]: Train loss: 0.9713364, Test loss: 1.9991721
+Epoch 1360, LR: [0.001]: Train loss: 0.9918557, Test loss: 1.9377801
+Epoch 1370, LR: [0.001]: Train loss: 0.9777383, Test loss: 1.9298500
+Epoch 1380, LR: [0.001]: Train loss: 0.9595064, Test loss: 1.9565830 (new best train)
+Epoch 1390, LR: [0.001]: Train loss: 0.9820614, Test loss: 2.0113798
+Epoch 1400, LR: [0.001]: Train loss: 0.9667790, Test loss: 1.9375440
+Epoch 1410, LR: [0.001]: Train loss: 0.9636799, Test loss: 1.9754329
+Epoch 1420, LR: [0.001]: Train loss: 0.9654463, Test loss: 1.8900946
+Epoch 1430, LR: [0.001]: Train loss: 0.9546089, Test loss: 1.9250904 (new best train)
+Epoch 1440, LR: [0.001]: Train loss: 0.9680111, Test loss: 1.9485099
+Epoch 1450, LR: [0.001]: Train loss: 0.9598532, Test loss: 1.9271167
+Epoch 1460, LR: [0.001]: Train loss: 0.9647041, Test loss: 2.0180868
+Epoch 1470, LR: [0.001]: Train loss: 0.9530255, Test loss: 1.9721805 (new best train)
+Epoch 1480, LR: [0.001]: Train loss: 0.9983492, Test loss: 1.9102587
+Epoch 1490, LR: [0.001]: Train loss: 0.9496821, Test loss: 1.9026262 (new best train)
+Epoch 1500, LR: [0.001]: Train loss: 0.9396144, Test loss: 2.0398870 (new best train)
+Epoch 1510, LR: [0.001]: Train loss: 0.9658486, Test loss: 1.9165953
+Epoch 1520, LR: [0.001]: Train loss: 0.9569398, Test loss: 1.8857676
+Epoch 1530, LR: [0.001]: Train loss: 0.9477004, Test loss: 1.9349474
+Epoch 1540, LR: [0.001]: Train loss: 0.9410732, Test loss: 2.0124230
+Epoch 1550, LR: [0.001]: Train loss: 0.9610365, Test loss: 1.9258830
+Epoch 1560, LR: [0.001]: Train loss: 0.9411326, Test loss: 2.0023393
+Epoch 1570, LR: [0.001]: Train loss: 0.9491580, Test loss: 1.9181494
+Epoch 1580, LR: [0.001]: Train loss: 0.9302905, Test loss: 1.9309841 (new best train)
+Epoch 1590, LR: [0.001]: Train loss: 0.9430185, Test loss: 1.8981007
+Epoch 1600, LR: [0.001]: Train loss: 0.9542203, Test loss: 1.9017581
+Epoch 1610, LR: [0.001]: Train loss: 0.9308632, Test loss: 1.9537352
+Epoch 1620, LR: [0.001]: Train loss: 0.9490606, Test loss: 1.8966082
+Epoch 1630, LR: [0.001]: Train loss: 0.9406111, Test loss: 1.9652424
+Epoch 1640, LR: [0.001]: Train loss: 0.9445945, Test loss: 1.9280053
+Epoch 1650, LR: [0.001]: Train loss: 0.9379341, Test loss: 1.9002546
+Epoch 1660, LR: [0.001]: Train loss: 0.9579929, Test loss: 1.9446005
+Epoch 1670, LR: [0.001]: Train loss: 0.9400777, Test loss: 1.9152138
+Epoch 1680, LR: [0.001]: Train loss: 0.9290342, Test loss: 1.8938434 (new best train)
+Epoch 1690, LR: [0.001]: Train loss: 0.9159099, Test loss: 1.9613184 (new best train)
+Epoch 1700, LR: [0.001]: Train loss: 0.9353656, Test loss: 1.9659732
+Epoch 1710, LR: [0.001]: Train loss: 0.9505849, Test loss: 1.9084943
+Epoch 1720, LR: [0.001]: Train loss: 0.9589531, Test loss: 1.9062494
+Epoch 1730, LR: [0.001]: Train loss: 0.9207745, Test loss: 1.9443230
+Epoch 1740, LR: [0.001]: Train loss: 0.9136119, Test loss: 1.8853467 (new best train)
+Epoch 1750, LR: [0.001]: Train loss: 0.9100602, Test loss: 1.9101243 (new best train)
+Epoch 1760, LR: [0.001]: Train loss: 0.9381753, Test loss: 1.9332919
+Epoch 1770, LR: [0.001]: Train loss: 0.9129420, Test loss: 1.9046031
+Epoch 1780, LR: [0.001]: Train loss: 0.9294703, Test loss: 2.0354259
+Epoch 1790, LR: [0.001]: Train loss: 0.9162399, Test loss: 1.9530542
+Epoch 1800, LR: [0.001]: Train loss: 0.9271321, Test loss: 1.9132726
+Epoch 1810, LR: [0.001]: Train loss: 0.9077065, Test loss: 1.9971106 (new best train)
+Epoch 1820, LR: [0.001]: Train loss: 0.9299273, Test loss: 1.9145783
+Epoch 1830, LR: [0.001]: Train loss: 0.9095125, Test loss: 1.9439665
+Epoch 1840, LR: [0.001]: Train loss: 0.9268279, Test loss: 1.9581047
+Epoch 1850, LR: [0.001]: Train loss: 0.9233887, Test loss: 1.8951059
+Epoch 1860, LR: [0.001]: Train loss: 0.9415203, Test loss: 1.9206910
+Epoch 1870, LR: [0.001]: Train loss: 0.9138927, Test loss: 1.8703113
+Epoch 1880, LR: [0.001]: Train loss: 0.9067448, Test loss: 2.0498867 (new best train)
+Epoch 1890, LR: [0.001]: Train loss: 0.9043579, Test loss: 1.8749935 (new best train)
+Epoch 1900, LR: [0.001]: Train loss: 0.8812965, Test loss: 1.9469492 (new best train)
+Epoch 1910, LR: [0.001]: Train loss: 0.8968655, Test loss: 1.9357592
+Epoch 1920, LR: [0.001]: Train loss: 0.9115324, Test loss: 1.9006391
+Epoch 1930, LR: [0.001]: Train loss: 0.9305396, Test loss: 1.9487480
+Epoch 1940, LR: [0.001]: Train loss: 0.8883611, Test loss: 1.9181088
+Epoch 1950, LR: [0.001]: Train loss: 0.8885900, Test loss: 1.8631608
+Epoch 1960, LR: [0.001]: Train loss: 0.8891789, Test loss: 1.8684450
+Epoch 1970, LR: [0.001]: Train loss: 0.8855065, Test loss: 1.9139782
+Epoch 1980, LR: [0.001]: Train loss: 0.8776627, Test loss: 1.9027981 (new best train)
+Epoch 1990, LR: [0.001]: Train loss: 0.9268243, Test loss: 1.8920630
+Epoch 2000, LR: [0.001]: Train loss: 0.8807993, Test loss: 1.8810547
+Epoch 2010, LR: [0.001]: Train loss: 0.8719311, Test loss: 1.9109400 (new best train)
+Epoch 2020, LR: [0.001]: Train loss: 0.8805146, Test loss: 1.9226906
+Epoch 2030, LR: [0.001]: Train loss: 0.8755448, Test loss: 1.8729533
+Epoch 2040, LR: [0.001]: Train loss: 0.9152119, Test loss: 1.9601346
+Epoch 2050, LR: [0.001]: Train loss: 0.8775744, Test loss: 1.8874519
+Epoch 2060, LR: [0.001]: Train loss: 0.8769997, Test loss: 1.8878032
+Epoch 2070, LR: [0.001]: Train loss: 0.8737449, Test loss: 1.9755309
+Epoch 2080, LR: [0.001]: Train loss: 0.8727470, Test loss: 1.8725686
+Epoch 2090, LR: [0.001]: Train loss: 0.8692200, Test loss: 1.8891554 (new best train)
+Epoch 2100, LR: [0.001]: Train loss: 0.8863704, Test loss: 1.8725437
+Epoch 2110, LR: [0.001]: Train loss: 0.8751512, Test loss: 1.8807811
+Epoch 2120, LR: [0.001]: Train loss: 0.8767866, Test loss: 1.8492379
+Epoch 2130, LR: [0.001]: Train loss: 0.8801219, Test loss: 1.8887060
+Epoch 2140, LR: [0.001]: Train loss: 0.8615584, Test loss: 1.8823341 (new best train)
+Epoch 2150, LR: [0.001]: Train loss: 0.8758539, Test loss: 1.9114489
+Epoch 2160, LR: [0.001]: Train loss: 0.8747455, Test loss: 1.8893765
+Epoch 2170, LR: [0.001]: Train loss: 0.8590284, Test loss: 1.9014114 (new best train)
+Epoch 2180, LR: [0.001]: Train loss: 0.8789790, Test loss: 1.9592457
+Epoch 2190, LR: [0.001]: Train loss: 0.8576939, Test loss: 1.8865794 (new best train)
+Epoch 2200, LR: [0.001]: Train loss: 0.8539830, Test loss: 1.8885345 (new best train)
+Epoch 2210, LR: [0.001]: Train loss: 0.8520958, Test loss: 1.9017781 (new best train)
+Epoch 2220, LR: [0.001]: Train loss: 0.9478366, Test loss: 1.9393172
+Epoch 2230, LR: [0.001]: Train loss: 0.8611922, Test loss: 1.8941474
+Epoch 2240, LR: [0.001]: Train loss: 0.8554565, Test loss: 1.9142481
+Epoch 2250, LR: [0.001]: Train loss: 0.8452150, Test loss: 1.8923997 (new best train)
+Epoch 2260, LR: [0.001]: Train loss: 0.8608074, Test loss: 1.9332478
+Epoch 2270, LR: [0.001]: Train loss: 0.8620814, Test loss: 1.9891925
+Epoch 2280, LR: [0.001]: Train loss: 0.8575725, Test loss: 1.8801183
+Epoch 2290, LR: [0.001]: Train loss: 0.8519139, Test loss: 1.8604434
+Epoch 2300, LR: [0.001]: Train loss: 0.8541191, Test loss: 1.9325687
+Epoch 2310, LR: [0.001]: Train loss: 0.8440987, Test loss: 2.0170506 (new best train)
+Epoch 2320, LR: [0.001]: Train loss: 0.8504243, Test loss: 1.9049966
+Epoch 2330, LR: [0.001]: Train loss: 0.8698316, Test loss: 1.8918347
+Epoch 2340, LR: [0.001]: Train loss: 0.8310002, Test loss: 1.8908127 (new best train)
+Epoch 2350, LR: [0.001]: Train loss: 0.8457689, Test loss: 1.8863640
+Epoch 2360, LR: [0.001]: Train loss: 0.8387575, Test loss: 1.9165925
+Epoch 2370, LR: [0.001]: Train loss: 0.8506118, Test loss: 1.8866804
+Epoch 2380, LR: [0.001]: Train loss: 0.8458442, Test loss: 1.9239071
+Epoch 2390, LR: [0.001]: Train loss: 0.9212009, Test loss: 1.8955520
+Epoch 2400, LR: [0.001]: Train loss: 0.8279878, Test loss: 1.9150279 (new best train)
+Epoch 2410, LR: [0.001]: Train loss: 0.8279944, Test loss: 1.9650306
+Epoch 2420, LR: [0.001]: Train loss: 0.8578341, Test loss: 1.9577654
+Epoch 2430, LR: [0.001]: Train loss: 0.8301073, Test loss: 1.9049989
+Epoch 2440, LR: [0.001]: Train loss: 0.8243735, Test loss: 1.8529155 (new best train)
+Epoch 2450, LR: [0.001]: Train loss: 0.8346197, Test loss: 1.8460389
+Epoch 2460, LR: [0.001]: Train loss: 0.8674984, Test loss: 1.9265696
+Epoch 2470, LR: [0.001]: Train loss: 0.8347361, Test loss: 1.8900510
+Epoch 2480, LR: [0.001]: Train loss: 0.8254351, Test loss: 1.8962025
+Epoch 2490, LR: [0.001]: Train loss: 0.8340856, Test loss: 1.8730636
+Epoch 2500, LR: [0.001]: Train loss: 0.8420194, Test loss: 1.8962511
+Epoch 2510, LR: [0.001]: Train loss: 0.8365695, Test loss: 1.8649953
+Epoch 2520, LR: [0.001]: Train loss: 0.8157206, Test loss: 1.8829879 (new best train)
+Epoch 2530, LR: [0.001]: Train loss: 0.8582467, Test loss: 1.8664773
+Epoch 2540, LR: [0.001]: Train loss: 0.8230904, Test loss: 2.1209366
+Epoch 2550, LR: [0.001]: Train loss: 0.8340239, Test loss: 1.9028596
+Epoch 2560, LR: [0.001]: Train loss: 0.8151225, Test loss: 1.9147718 (new best train)
+Epoch 2570, LR: [0.001]: Train loss: 0.8353396, Test loss: 1.9056746
+Epoch 2580, LR: [0.001]: Train loss: 0.8350133, Test loss: 1.9232855
+Epoch 2590, LR: [0.001]: Train loss: 0.8312906, Test loss: 1.9303668
+Epoch 2600, LR: [0.001]: Train loss: 0.8426368, Test loss: 1.9082950
+Epoch 2610, LR: [0.001]: Train loss: 0.8077933, Test loss: 2.0445287 (new best train)
+Epoch 2620, LR: [0.001]: Train loss: 0.8509964, Test loss: 1.8346915
+Epoch 2630, LR: [0.001]: Train loss: 0.8446860, Test loss: 1.9037918
+Epoch 2640, LR: [0.001]: Train loss: 0.8218110, Test loss: 1.8761670
+Epoch 2650, LR: [0.001]: Train loss: 0.7930286, Test loss: 1.8845910 (new best train)
+Epoch 2660, LR: [0.001]: Train loss: 0.8083612, Test loss: 1.8524860
+Epoch 2670, LR: [0.001]: Train loss: 0.8057016, Test loss: 1.8615184
+Epoch 2680, LR: [0.001]: Train loss: 0.8133275, Test loss: 1.8916121
+Epoch 2690, LR: [0.001]: Train loss: 0.8369971, Test loss: 1.9021721
+Epoch 2700, LR: [0.001]: Train loss: 0.8799532, Test loss: 1.8780756
+Epoch 2710, LR: [0.001]: Train loss: 0.8067342, Test loss: 1.8695481
+Epoch 2720, LR: [0.001]: Train loss: 0.8103902, Test loss: 1.9971789
+Epoch 2730, LR: [0.001]: Train loss: 0.8010839, Test loss: 1.8914504
+Epoch 2740, LR: [0.001]: Train loss: 0.8011391, Test loss: 1.8818176
+Epoch 2750, LR: [0.001]: Train loss: 0.7948143, Test loss: 1.8137004
+Epoch 2760, LR: [0.0005]: Train loss: 0.8166250, Test loss: 1.8923968
+Epoch 2770, LR: [0.0005]: Train loss: 0.7677034, Test loss: 1.8120103 (new best train)
+Epoch 2780, LR: [0.0005]: Train loss: 0.7652293, Test loss: 1.9268131 (new best train)
+Epoch 2790, LR: [0.0005]: Train loss: 0.7692030, Test loss: 1.8529165
+Epoch 2800, LR: [0.0005]: Train loss: 0.7607236, Test loss: 1.8356385 (new best train)
+Epoch 2810, LR: [0.0005]: Train loss: 0.7635049, Test loss: 1.8452123
+Epoch 2820, LR: [0.0005]: Train loss: 0.7643364, Test loss: 1.8394969
+Epoch 2830, LR: [0.0005]: Train loss: 0.7635583, Test loss: 1.8928728
+Epoch 2840, LR: [0.0005]: Train loss: 0.7782496, Test loss: 1.8776412
+Epoch 2850, LR: [0.0005]: Train loss: 0.7665042, Test loss: 1.9199197
+Epoch 2860, LR: [0.0005]: Train loss: 0.7595890, Test loss: 1.8283588 (new best train)
+Epoch 2870, LR: [0.0005]: Train loss: 0.7654843, Test loss: 1.8553986
+Epoch 2880, LR: [0.0005]: Train loss: 0.7648968, Test loss: 1.8320791
+Epoch 2890, LR: [0.0005]: Train loss: 0.7662702, Test loss: 1.8310340
+Epoch 2900, LR: [0.0005]: Train loss: 0.7615678, Test loss: 1.8388958
+Epoch 2910, LR: [0.0005]: Train loss: 0.7571670, Test loss: 1.8146516 (new best train)
+Epoch 2920, LR: [0.0005]: Train loss: 0.7627173, Test loss: 1.8574199
+Epoch 2930, LR: [0.0005]: Train loss: 0.7663868, Test loss: 1.8276643
+Epoch 2940, LR: [0.0005]: Train loss: 0.7595376, Test loss: 1.8551315
+Epoch 2950, LR: [0.0005]: Train loss: 0.7698927, Test loss: 1.8729943
+Epoch 2960, LR: [0.0005]: Train loss: 0.7547255, Test loss: 1.8899246 (new best train)
+Epoch 2970, LR: [0.0005]: Train loss: 0.7606661, Test loss: 1.8151736
+Epoch 2980, LR: [0.0005]: Train loss: 0.7470727, Test loss: 1.8561848 (new best train)
+Epoch 2990, LR: [0.0005]: Train loss: 0.7480031, Test loss: 1.8165309
+Epoch 3000, LR: [0.0005]: Train loss: 0.7459313, Test loss: 1.8368347 (new best train)
+Epoch 3010, LR: [0.0005]: Train loss: 0.7579175, Test loss: 1.8357796
+Epoch 3020, LR: [0.0005]: Train loss: 0.7533774, Test loss: 1.8208182
+Epoch 3030, LR: [0.0005]: Train loss: 0.7583873, Test loss: 1.8015114
+Epoch 3040, LR: [0.0005]: Train loss: 0.7497538, Test loss: 1.8471289
+Epoch 3050, LR: [0.0005]: Train loss: 0.7485247, Test loss: 1.7693372
+Epoch 3060, LR: [0.0005]: Train loss: 0.7438308, Test loss: 1.8369186 (new best train)
+Epoch 3070, LR: [0.0005]: Train loss: 0.7541848, Test loss: 1.8135427
+Epoch 3080, LR: [0.0005]: Train loss: 0.7622403, Test loss: 1.8529777
+Epoch 3090, LR: [0.0005]: Train loss: 0.7585245, Test loss: 1.8432155
+Epoch 3100, LR: [0.0005]: Train loss: 0.7434909, Test loss: 1.8221086 (new best train)
+Epoch 3110, LR: [0.0005]: Train loss: 0.7597932, Test loss: 1.8611375
+Epoch 3120, LR: [0.0005]: Train loss: 0.7410006, Test loss: 1.8748481 (new best train)
+Epoch 3130, LR: [0.0005]: Train loss: 0.7498133, Test loss: 1.8280943
+Epoch 3140, LR: [0.0005]: Train loss: 0.7402198, Test loss: 1.7906806 (new best train)
+Epoch 3150, LR: [0.0005]: Train loss: 0.7441188, Test loss: 1.7869872
+Epoch 3160, LR: [0.0005]: Train loss: 0.7429971, Test loss: 1.7826187
+Epoch 3170, LR: [0.0005]: Train loss: 0.7352189, Test loss: 1.7648993 (new best train)
+Epoch 3180, LR: [0.0005]: Train loss: 0.7361436, Test loss: 1.8106131
+Epoch 3190, LR: [0.0005]: Train loss: 0.7467725, Test loss: 1.8153560
+Epoch 3200, LR: [0.0005]: Train loss: 0.7367933, Test loss: 1.8125062
+Epoch 3210, LR: [0.0005]: Train loss: 0.7365596, Test loss: 1.8189114
+Epoch 3220, LR: [0.0005]: Train loss: 0.7435894, Test loss: 1.8275850
+Epoch 3230, LR: [0.0005]: Train loss: 0.7439360, Test loss: 1.7873366
+Epoch 3240, LR: [0.0005]: Train loss: 0.7304865, Test loss: 1.8036136 (new best train)
+Epoch 3250, LR: [0.0005]: Train loss: 0.7299776, Test loss: 1.8801794 (new best train)
+Epoch 3260, LR: [0.0005]: Train loss: 0.7335291, Test loss: 1.8016297
+Epoch 3270, LR: [0.0005]: Train loss: 0.7412217, Test loss: 1.8827174
+Epoch 3280, LR: [0.0005]: Train loss: 0.7450666, Test loss: 1.7739720
+Epoch 3290, LR: [0.0005]: Train loss: 0.7397133, Test loss: 1.8573947
+Epoch 3300, LR: [0.0005]: Train loss: 0.7316049, Test loss: 1.7818905
+Epoch 3310, LR: [0.0005]: Train loss: 0.7389358, Test loss: 1.8066602
+Epoch 3320, LR: [0.0005]: Train loss: 0.7335641, Test loss: 1.8360878
+Epoch 3330, LR: [0.0005]: Train loss: 0.7252152, Test loss: 1.7462546 (new best train)
+Epoch 3340, LR: [0.0005]: Train loss: 0.7356040, Test loss: 1.7681432
+Epoch 3350, LR: [0.0005]: Train loss: 0.7316183, Test loss: 1.7421170
+Epoch 3360, LR: [0.0005]: Train loss: 0.7344447, Test loss: 1.8423180
+Epoch 3370, LR: [0.0005]: Train loss: 0.7227220, Test loss: 1.8225978 (new best train)
+Epoch 3380, LR: [0.0005]: Train loss: 0.7226679, Test loss: 1.8259206
+Epoch 3390, LR: [0.0005]: Train loss: 0.7247207, Test loss: 1.8404326
+Epoch 3400, LR: [0.0005]: Train loss: 0.7282057, Test loss: 1.8603698
+Epoch 3410, LR: [0.0005]: Train loss: 0.7406698, Test loss: 1.7640582
+Epoch 3420, LR: [0.0005]: Train loss: 0.7223971, Test loss: 1.8479798 (new best train)
+Epoch 3430, LR: [0.0005]: Train loss: 0.7201109, Test loss: 1.7814062 (new best train)
+Epoch 3440, LR: [0.0005]: Train loss: 0.7239551, Test loss: 1.8412925
+Epoch 3450, LR: [0.0005]: Train loss: 0.7297654, Test loss: 1.9833158
+Epoch 3460, LR: [0.0005]: Train loss: 0.7418442, Test loss: 1.8058223
+Epoch 3470, LR: [0.0005]: Train loss: 0.7253543, Test loss: 1.7880776
+Epoch 3480, LR: [0.0005]: Train loss: 0.7188217, Test loss: 1.7731083 (new best train)
+Epoch 3490, LR: [0.0005]: Train loss: 0.7134975, Test loss: 1.7810221 (new best train)
+Epoch 3500, LR: [0.0005]: Train loss: 0.7171156, Test loss: 1.8041383
+Epoch 3510, LR: [0.0005]: Train loss: 0.7189357, Test loss: 1.7845259
+Epoch 3520, LR: [0.0005]: Train loss: 0.7246754, Test loss: 1.8088114
+Epoch 3530, LR: [0.0005]: Train loss: 0.7151596, Test loss: 1.8281848
+Epoch 3540, LR: [0.0005]: Train loss: 0.7299274, Test loss: 1.8011213
+Epoch 3550, LR: [0.0005]: Train loss: 0.7386018, Test loss: 1.8440168
+Epoch 3560, LR: [0.0005]: Train loss: 0.7326622, Test loss: 1.8065500
+Epoch 3570, LR: [0.0005]: Train loss: 0.7150704, Test loss: 1.8158543
+Epoch 3580, LR: [0.0005]: Train loss: 0.7154783, Test loss: 1.8526560
+Epoch 3590, LR: [0.0005]: Train loss: 0.7155955, Test loss: 1.8320276
+Epoch 3600, LR: [0.0005]: Train loss: 0.7080204, Test loss: 1.7588394 (new best train)
+Epoch 3610, LR: [0.0005]: Train loss: 0.7107032, Test loss: 1.8890647
+Epoch 3620, LR: [0.0005]: Train loss: 0.7281177, Test loss: 1.8136953
+Epoch 3630, LR: [0.0005]: Train loss: 0.7131690, Test loss: 1.7931153
+Epoch 3640, LR: [0.0005]: Train loss: 0.7242486, Test loss: 1.8589435
+Epoch 3650, LR: [0.0005]: Train loss: 0.7180300, Test loss: 1.7662791
+Epoch 3660, LR: [0.0005]: Train loss: 0.7092658, Test loss: 1.8351472
+Epoch 3670, LR: [0.0005]: Train loss: 0.7083224, Test loss: 1.7191270
+Epoch 3680, LR: [0.0005]: Train loss: 0.7096542, Test loss: 1.7623683
+Epoch 3690, LR: [0.0005]: Train loss: 0.7147765, Test loss: 1.8228394
+Epoch 3700, LR: [0.0005]: Train loss: 0.7132046, Test loss: 1.7589144
+Epoch 3710, LR: [0.00025]: Train loss: 0.7080259, Test loss: 1.8812381
+Epoch 3720, LR: [0.00025]: Train loss: 0.6835127, Test loss: 1.7538790 (new best train)
+Epoch 3730, LR: [0.00025]: Train loss: 0.6813269, Test loss: 1.7527500 (new best train)
+Epoch 3740, LR: [0.00025]: Train loss: 0.6743796, Test loss: 1.7777619 (new best train)
+Epoch 3750, LR: [0.00025]: Train loss: 0.6799193, Test loss: 1.7141462
+Epoch 3760, LR: [0.00025]: Train loss: 0.6824303, Test loss: 1.7103133
+Epoch 3770, LR: [0.00025]: Train loss: 0.6814820, Test loss: 1.7429479
+Epoch 3780, LR: [0.00025]: Train loss: 0.6722412, Test loss: 1.7479302 (new best train)
+Epoch 3790, LR: [0.00025]: Train loss: 0.6776966, Test loss: 1.7482913
+Epoch 3800, LR: [0.00025]: Train loss: 0.6704049, Test loss: 1.7817599 (new best train)
+Epoch 3810, LR: [0.00025]: Train loss: 0.6741060, Test loss: 1.7590043
+Epoch 3820, LR: [0.00025]: Train loss: 0.6759437, Test loss: 1.7671056
+Epoch 3830, LR: [0.00025]: Train loss: 0.6771607, Test loss: 1.7803872
+Epoch 3840, LR: [0.00025]: Train loss: 0.6737622, Test loss: 1.6953329
+Epoch 3850, LR: [0.00025]: Train loss: 0.6780693, Test loss: 1.7467719
+Epoch 3860, LR: [0.00025]: Train loss: 0.6803076, Test loss: 1.7702996
+Epoch 3870, LR: [0.00025]: Train loss: 0.6687299, Test loss: 1.7338685 (new best train)
+Epoch 3880, LR: [0.00025]: Train loss: 0.6690492, Test loss: 1.7287936
+Epoch 3890, LR: [0.00025]: Train loss: 0.6705184, Test loss: 1.7723156
+Epoch 3900, LR: [0.00025]: Train loss: 0.6779949, Test loss: 1.7482230
+Epoch 3910, LR: [0.00025]: Train loss: 0.6741896, Test loss: 1.7233388
+Epoch 3920, LR: [0.00025]: Train loss: 0.6854669, Test loss: 1.7511242
+Epoch 3930, LR: [0.00025]: Train loss: 0.6644935, Test loss: 1.7528754 (new best train)
+Epoch 3940, LR: [0.00025]: Train loss: 0.6690584, Test loss: 1.7610114
+Epoch 3950, LR: [0.00025]: Train loss: 0.6788167, Test loss: 1.8304074
+Epoch 3960, LR: [0.00025]: Train loss: 0.6743288, Test loss: 1.7285151
+Epoch 3970, LR: [0.00025]: Train loss: 0.6635451, Test loss: 1.7355125 (new best train)
+Epoch 3980, LR: [0.00025]: Train loss: 0.6699696, Test loss: 1.7243706
+Epoch 3990, LR: [0.00025]: Train loss: 0.6635626, Test loss: 1.7367340
+Epoch 4000, LR: [0.00025]: Train loss: 0.6787097, Test loss: 1.7107502
+Epoch 4010, LR: [0.00025]: Train loss: 0.6676525, Test loss: 1.7720434
+Epoch 4020, LR: [0.00025]: Train loss: 0.6672394, Test loss: 1.7537699
+Epoch 4030, LR: [0.00025]: Train loss: 0.6658664, Test loss: 1.7230295
+Epoch 4040, LR: [0.00025]: Train loss: 0.6617359, Test loss: 1.7490907 (new best train)
+Epoch 4050, LR: [0.00025]: Train loss: 0.6632991, Test loss: 1.7255042
+Epoch 4060, LR: [0.00025]: Train loss: 0.6656474, Test loss: 1.7375850
+Epoch 4070, LR: [0.00025]: Train loss: 0.6589705, Test loss: 1.6964753 (new best train)
+Epoch 4080, LR: [0.00025]: Train loss: 0.6639022, Test loss: 1.7423949
+Epoch 4090, LR: [0.00025]: Train loss: 0.6623286, Test loss: 1.8065589
+Epoch 4100, LR: [0.00025]: Train loss: 0.6650117, Test loss: 1.7546340
+Epoch 4110, LR: [0.00025]: Train loss: 0.6665443, Test loss: 1.7245633
+Epoch 4120, LR: [0.00025]: Train loss: 0.6608014, Test loss: 1.7787041
+Epoch 4130, LR: [0.00025]: Train loss: 0.6745071, Test loss: 1.8957865
+Epoch 4140, LR: [0.00025]: Train loss: 0.6622824, Test loss: 1.7291030
+Epoch 4150, LR: [0.00025]: Train loss: 0.6547534, Test loss: 1.7477130 (new best train)
+Epoch 4160, LR: [0.00025]: Train loss: 0.6601669, Test loss: 1.7705306
+Epoch 4170, LR: [0.00025]: Train loss: 0.6565194, Test loss: 1.7421962
+Epoch 4180, LR: [0.00025]: Train loss: 0.6536568, Test loss: 1.7264980 (new best train)
+Epoch 4190, LR: [0.00025]: Train loss: 0.6638618, Test loss: 1.7620661
+Epoch 4200, LR: [0.00025]: Train loss: 0.6627798, Test loss: 1.7181883
+Epoch 4210, LR: [0.00025]: Train loss: 0.6615324, Test loss: 1.7446298
+Epoch 4220, LR: [0.00025]: Train loss: 0.6594738, Test loss: 1.7168236
+Epoch 4230, LR: [0.00025]: Train loss: 0.6564843, Test loss: 1.7714703
+Epoch 4240, LR: [0.00025]: Train loss: 0.6600088, Test loss: 1.7489317
+Epoch 4250, LR: [0.00025]: Train loss: 0.6613901, Test loss: 1.7357478
+Epoch 4260, LR: [0.00025]: Train loss: 0.6643353, Test loss: 1.7896436
+Epoch 4270, LR: [0.00025]: Train loss: 0.6520628, Test loss: 1.7029161 (new best train)
+Epoch 4280, LR: [0.00025]: Train loss: 0.6554220, Test loss: 1.7872885
+Epoch 4290, LR: [0.00025]: Train loss: 0.6557591, Test loss: 1.7198926
+Epoch 4300, LR: [0.00025]: Train loss: 0.6495458, Test loss: 1.7571405 (new best train)
+Epoch 4310, LR: [0.00025]: Train loss: 0.6447900, Test loss: 1.7295562 (new best train)
+Epoch 4320, LR: [0.00025]: Train loss: 0.6513185, Test loss: 1.7606064
+Epoch 4330, LR: [0.00025]: Train loss: 0.6534668, Test loss: 1.7339328
+Epoch 4340, LR: [0.00025]: Train loss: 0.6524299, Test loss: 1.7701750
+Epoch 4350, LR: [0.00025]: Train loss: 0.6549416, Test loss: 1.7003944
+Epoch 4360, LR: [0.00025]: Train loss: 0.6556944, Test loss: 1.7064821
+Epoch 4370, LR: [0.00025]: Train loss: 0.6519931, Test loss: 1.7309823
+Epoch 4380, LR: [0.00025]: Train loss: 0.6446344, Test loss: 1.6764424 (new best train)
+Epoch 4390, LR: [0.00025]: Train loss: 0.6474258, Test loss: 1.7137432
+Epoch 4400, LR: [0.00025]: Train loss: 0.6456293, Test loss: 1.7321704
+Epoch 4410, LR: [0.00025]: Train loss: 0.6524179, Test loss: 1.7614723
+Epoch 4420, LR: [0.00025]: Train loss: 0.6457501, Test loss: 1.7401482
+Epoch 4430, LR: [0.00025]: Train loss: 0.6511962, Test loss: 1.7428891
+Epoch 4440, LR: [0.00025]: Train loss: 0.6490623, Test loss: 1.7822045
+Epoch 4450, LR: [0.00025]: Train loss: 0.6446111, Test loss: 1.7327234
+Epoch 4460, LR: [0.00025]: Train loss: 0.6415762, Test loss: 1.7191811 (new best train)
+Epoch 4470, LR: [0.00025]: Train loss: 0.6460936, Test loss: 1.7645225
+Epoch 4480, LR: [0.00025]: Train loss: 0.6450128, Test loss: 1.6863273
+Epoch 4490, LR: [0.00025]: Train loss: 0.6510624, Test loss: 1.7274939
+Epoch 4500, LR: [0.00025]: Train loss: 0.6489679, Test loss: 1.7649387
+Epoch 4510, LR: [0.00025]: Train loss: 0.6503589, Test loss: 1.7516472
+Epoch 4520, LR: [0.00025]: Train loss: 0.6446189, Test loss: 1.6825269
+Epoch 4530, LR: [0.00025]: Train loss: 0.6340369, Test loss: 1.7999142 (new best train)
+Epoch 4540, LR: [0.00025]: Train loss: 0.6411969, Test loss: 1.7136515
+Epoch 4550, LR: [0.00025]: Train loss: 0.6417120, Test loss: 1.7598681
+Epoch 4560, LR: [0.00025]: Train loss: 0.6395833, Test loss: 1.7081374
+Epoch 4570, LR: [0.00025]: Train loss: 0.6347540, Test loss: 1.7173106
+Epoch 4580, LR: [0.00025]: Train loss: 0.6501927, Test loss: 1.7510713
+Epoch 4590, LR: [0.00025]: Train loss: 0.6374924, Test loss: 1.6763437
+Epoch 4600, LR: [0.00025]: Train loss: 0.6385087, Test loss: 1.7539529
+Epoch 4610, LR: [0.00025]: Train loss: 0.6522103, Test loss: 1.7075371
+Epoch 4620, LR: [0.00025]: Train loss: 0.6427654, Test loss: 1.7090561
+Epoch 4630, LR: [0.00025]: Train loss: 0.6316310, Test loss: 1.7471314 (new best train)
+Epoch 4640, LR: [0.00025]: Train loss: 0.6271062, Test loss: 1.7310870 (new best train)
+Epoch 4650, LR: [0.00025]: Train loss: 0.6290788, Test loss: 1.7410721
+Epoch 4660, LR: [0.00025]: Train loss: 0.6390226, Test loss: 1.7443715
+Epoch 4670, LR: [0.00025]: Train loss: 0.6326117, Test loss: 1.7273415
+Epoch 4680, LR: [0.00025]: Train loss: 0.6423792, Test loss: 1.7288232
+Epoch 4690, LR: [0.00025]: Train loss: 0.6318821, Test loss: 1.7063000
+Epoch 4700, LR: [0.00025]: Train loss: 0.6317812, Test loss: 1.7212912
+Epoch 4710, LR: [0.00025]: Train loss: 0.6311606, Test loss: 1.7910891
+Epoch 4720, LR: [0.00025]: Train loss: 0.6263205, Test loss: 1.7013830 (new best train)
+Epoch 4730, LR: [0.00025]: Train loss: 0.6326993, Test loss: 1.6680775
+Epoch 4740, LR: [0.00025]: Train loss: 0.6285290, Test loss: 1.6740097
+Epoch 4750, LR: [0.00025]: Train loss: 0.6250808, Test loss: 1.7506982 (new best train)
+Epoch 4760, LR: [0.00025]: Train loss: 0.6319169, Test loss: 1.7061115
+Epoch 4770, LR: [0.00025]: Train loss: 0.6242428, Test loss: 1.7281351 (new best train)
+Epoch 4780, LR: [0.00025]: Train loss: 0.6270463, Test loss: 1.6979791
+Epoch 4790, LR: [0.00025]: Train loss: 0.6316073, Test loss: 1.7070744
+Epoch 4800, LR: [0.00025]: Train loss: 0.6333098, Test loss: 1.7235410
+Epoch 4810, LR: [0.00025]: Train loss: 0.6284148, Test loss: 1.6967531
+Epoch 4820, LR: [0.00025]: Train loss: 0.6327617, Test loss: 1.7381294
+Epoch 4830, LR: [0.00025]: Train loss: 0.6246899, Test loss: 1.6979759
+Epoch 4840, LR: [0.00025]: Train loss: 0.6221243, Test loss: 1.7269252 (new best train)
+Epoch 4850, LR: [0.00025]: Train loss: 0.6212407, Test loss: 1.7228101 (new best train)
+Epoch 4860, LR: [0.00025]: Train loss: 0.6330969, Test loss: 1.7419146
+Epoch 4870, LR: [0.00025]: Train loss: 0.6314480, Test loss: 1.7116756
+Epoch 4880, LR: [0.00025]: Train loss: 0.6253330, Test loss: 1.7519860
+Epoch 4890, LR: [0.00025]: Train loss: 0.6203623, Test loss: 1.6618562 (new best train)
+Epoch 4900, LR: [0.00025]: Train loss: 0.6207123, Test loss: 1.6892327
+Epoch 4910, LR: [0.00025]: Train loss: 0.6272843, Test loss: 1.6785027
+Epoch 4920, LR: [0.00025]: Train loss: 0.6243793, Test loss: 1.8062005
+Epoch 4930, LR: [0.00025]: Train loss: 0.6285173, Test loss: 1.7494603
+Epoch 4940, LR: [0.00025]: Train loss: 0.6194160, Test loss: 1.7062573 (new best train)
+Epoch 4950, LR: [0.00025]: Train loss: 0.6191460, Test loss: 1.7401624 (new best train)
+Epoch 4960, LR: [0.00025]: Train loss: 0.6342028, Test loss: 1.7116240
+Epoch 4970, LR: [0.00025]: Train loss: 0.6237072, Test loss: 1.6970860
+Epoch 4980, LR: [0.00025]: Train loss: 0.6137611, Test loss: 1.7662458 (new best train)
+Epoch 4990, LR: [0.00025]: Train loss: 0.6161814, Test loss: 1.7561044
+Epoch 5000, LR: [0.00025]: Train loss: 0.6169809, Test loss: 1.6945392
+Epoch 5010, LR: [0.00025]: Train loss: 0.6278158, Test loss: 1.7444011
+Epoch 5020, LR: [0.00025]: Train loss: 0.6148490, Test loss: 1.7815106
+Epoch 5030, LR: [0.00025]: Train loss: 0.6178612, Test loss: 1.7715671
+Epoch 5040, LR: [0.00025]: Train loss: 0.6210084, Test loss: 1.6872965
+Epoch 5050, LR: [0.00025]: Train loss: 0.6188392, Test loss: 1.7101100
+Epoch 5060, LR: [0.00025]: Train loss: 0.6212534, Test loss: 1.7742268
+Epoch 5070, LR: [0.00025]: Train loss: 0.6194384, Test loss: 1.7252104
+Epoch 5080, LR: [0.00025]: Train loss: 0.6089014, Test loss: 1.6927403 (new best train)
+Epoch 5090, LR: [0.00025]: Train loss: 0.6159323, Test loss: 1.7178081
+Epoch 5100, LR: [0.00025]: Train loss: 0.6084257, Test loss: 1.6692763 (new best train)
+Epoch 5110, LR: [0.00025]: Train loss: 0.6149367, Test loss: 1.6800294
+Epoch 5120, LR: [0.00025]: Train loss: 0.6148608, Test loss: 1.7035097
+Epoch 5130, LR: [0.00025]: Train loss: 0.6129343, Test loss: 1.7441317
+Epoch 5140, LR: [0.00025]: Train loss: 0.6167072, Test loss: 1.7265796
+Epoch 5150, LR: [0.00025]: Train loss: 0.6178648, Test loss: 1.6796977
+Epoch 5160, LR: [0.00025]: Train loss: 0.6151252, Test loss: 1.6969830
+Epoch 5170, LR: [0.00025]: Train loss: 0.6159252, Test loss: 1.7159198
+Epoch 5180, LR: [0.00025]: Train loss: 0.6168553, Test loss: 1.7285452
+Epoch 5190, LR: [0.00025]: Train loss: 0.6164619, Test loss: 1.6868700
+Epoch 5200, LR: [0.00025]: Train loss: 0.6039343, Test loss: 1.7357125 (new best train)
+Epoch 5210, LR: [0.00025]: Train loss: 0.6179085, Test loss: 1.7374573
+Epoch 5220, LR: [0.00025]: Train loss: 0.6155462, Test loss: 1.7240700
+Epoch 5230, LR: [0.00025]: Train loss: 0.6146883, Test loss: 1.7073197
+Epoch 5240, LR: [0.00025]: Train loss: 0.6115645, Test loss: 1.6328435
+Epoch 5250, LR: [0.00025]: Train loss: 0.6019157, Test loss: 1.6883041 (new best train)
+Epoch 5260, LR: [0.00025]: Train loss: 0.6051712, Test loss: 1.7635190
+Epoch 5270, LR: [0.00025]: Train loss: 0.6113420, Test loss: 1.7450990
+Epoch 5280, LR: [0.00025]: Train loss: 0.6148336, Test loss: 1.7302896
+Epoch 5290, LR: [0.00025]: Train loss: 0.6086331, Test loss: 1.7300602
+Epoch 5300, LR: [0.00025]: Train loss: 0.6057645, Test loss: 1.7423728
+Epoch 5310, LR: [0.00025]: Train loss: 0.6080117, Test loss: 1.7179256
+Epoch 5320, LR: [0.00025]: Train loss: 0.6083937, Test loss: 1.7323349
+Epoch 5330, LR: [0.00025]: Train loss: 0.6164742, Test loss: 1.7239086
+Epoch 5340, LR: [0.00025]: Train loss: 0.6082986, Test loss: 1.7010180
+Epoch 5350, LR: [0.00025]: Train loss: 0.6070980, Test loss: 1.6649011
+Epoch 5360, LR: [0.00025]: Train loss: 0.5945932, Test loss: 1.7358932 (new best train)
+Epoch 5370, LR: [0.00025]: Train loss: 0.6035029, Test loss: 1.6869438
+Epoch 5380, LR: [0.00025]: Train loss: 0.6000473, Test loss: 1.6707790
+Epoch 5390, LR: [0.00025]: Train loss: 0.5941244, Test loss: 1.6969243 (new best train)
+Epoch 5400, LR: [0.00025]: Train loss: 0.5998655, Test loss: 1.7445372
+Epoch 5410, LR: [0.00025]: Train loss: 0.5977827, Test loss: 1.6788759
+Epoch 5420, LR: [0.00025]: Train loss: 0.5985719, Test loss: 1.7649275
+Epoch 5430, LR: [0.00025]: Train loss: 0.6183279, Test loss: 1.7305946
+Epoch 5440, LR: [0.00025]: Train loss: 0.6037945, Test loss: 1.7890930
+Epoch 5450, LR: [0.00025]: Train loss: 0.5934963, Test loss: 1.7072899 (new best train)
+Epoch 5460, LR: [0.00025]: Train loss: 0.5973724, Test loss: 1.7174649
+Epoch 5470, LR: [0.00025]: Train loss: 0.6062839, Test loss: 1.7254785
+Epoch 5480, LR: [0.00025]: Train loss: 0.5959977, Test loss: 1.7109825
+Epoch 5490, LR: [0.00025]: Train loss: 0.5899961, Test loss: 1.6678076 (new best train)
+Epoch 5500, LR: [0.00025]: Train loss: 0.5967163, Test loss: 1.7789550
+Epoch 5510, LR: [0.00025]: Train loss: 0.5902722, Test loss: 1.6571447
+Epoch 5520, LR: [0.00025]: Train loss: 0.5988924, Test loss: 1.6752181
+Epoch 5530, LR: [0.00025]: Train loss: 0.5968402, Test loss: 1.7058398
+Epoch 5540, LR: [0.00025]: Train loss: 0.5956449, Test loss: 1.6665733
+Epoch 5550, LR: [0.00025]: Train loss: 0.6052577, Test loss: 1.7364589
+Epoch 5560, LR: [0.00025]: Train loss: 0.5943610, Test loss: 1.7380075
+Epoch 5570, LR: [0.00025]: Train loss: 0.5812002, Test loss: 1.7150344 (new best train)
+Epoch 5580, LR: [0.00025]: Train loss: 0.5918948, Test loss: 1.6606694
+Epoch 5590, LR: [0.00025]: Train loss: 0.5937580, Test loss: 1.7259092
+Epoch 5600, LR: [0.00025]: Train loss: 0.6006431, Test loss: 1.7002178
+Epoch 5610, LR: [0.00025]: Train loss: 0.5879590, Test loss: 1.6454735
+Epoch 5620, LR: [0.00025]: Train loss: 0.5841332, Test loss: 1.7082928
+Epoch 5630, LR: [0.00025]: Train loss: 0.5911870, Test loss: 1.6834601
+Epoch 5640, LR: [0.00025]: Train loss: 0.5855455, Test loss: 1.7024252
+Epoch 5650, LR: [0.00025]: Train loss: 0.5830173, Test loss: 1.6858117
+Epoch 5660, LR: [0.00025]: Train loss: 0.5964796, Test loss: 1.6710578
+Epoch 5670, LR: [0.00025]: Train loss: 0.5844709, Test loss: 1.7241532
+Epoch 5680, LR: [0.00025]: Train loss: 0.5801056, Test loss: 1.7314226 (new best train)
+Epoch 5690, LR: [0.00025]: Train loss: 0.5862879, Test loss: 1.6490836
+Epoch 5700, LR: [0.00025]: Train loss: 0.5813902, Test loss: 1.6999808
+Epoch 5710, LR: [0.00025]: Train loss: 0.5885514, Test loss: 1.6677377
+Epoch 5720, LR: [0.00025]: Train loss: 0.5851331, Test loss: 1.7423371
+Epoch 5730, LR: [0.00025]: Train loss: 0.5877775, Test loss: 1.6208353
+Epoch 5740, LR: [0.00025]: Train loss: 0.5885856, Test loss: 1.6818509
+Epoch 5750, LR: [0.00025]: Train loss: 0.5804908, Test loss: 1.7086872
+Epoch 5760, LR: [0.00025]: Train loss: 0.5803623, Test loss: 1.6930898
+Epoch 5770, LR: [0.00025]: Train loss: 0.5796597, Test loss: 1.7086059 (new best train)
+Epoch 5780, LR: [0.00025]: Train loss: 0.5810850, Test loss: 1.6589504
+Epoch 5790, LR: [0.00025]: Train loss: 0.5855506, Test loss: 1.6498189
+Epoch 5800, LR: [0.00025]: Train loss: 0.5797801, Test loss: 1.7054115
+Epoch 5810, LR: [0.00025]: Train loss: 0.5839735, Test loss: 1.7310202
+Epoch 5820, LR: [0.00025]: Train loss: 0.5920533, Test loss: 1.6913477
+Epoch 5830, LR: [0.00025]: Train loss: 0.5722080, Test loss: 1.6424343 (new best train)
+Epoch 5840, LR: [0.00025]: Train loss: 0.5878402, Test loss: 1.6662976
+Epoch 5850, LR: [0.00025]: Train loss: 0.5772137, Test loss: 1.6657605
+Epoch 5860, LR: [0.00025]: Train loss: 0.5755359, Test loss: 1.6316298
+Epoch 5870, LR: [0.00025]: Train loss: 0.5761065, Test loss: 1.6852954
+Epoch 5880, LR: [0.00025]: Train loss: 0.5762787, Test loss: 1.6725979
+Epoch 5890, LR: [0.00025]: Train loss: 0.5742972, Test loss: 1.7245406
+Epoch 5900, LR: [0.00025]: Train loss: 0.5687164, Test loss: 1.6827380 (new best train)
+Epoch 5910, LR: [0.00025]: Train loss: 0.5806645, Test loss: 1.6606377
+Epoch 5920, LR: [0.00025]: Train loss: 0.5725728, Test loss: 1.6446821
+Epoch 5930, LR: [0.00025]: Train loss: 0.5759386, Test loss: 1.6748204
+Epoch 5940, LR: [0.00025]: Train loss: 0.5681662, Test loss: 1.7280100 (new best train)
+Epoch 5950, LR: [0.00025]: Train loss: 0.5940950, Test loss: 1.7174386
+Epoch 5960, LR: [0.00025]: Train loss: 0.5742006, Test loss: 1.7004509
+Epoch 5970, LR: [0.00025]: Train loss: 0.5799303, Test loss: 1.6519528
+Epoch 5980, LR: [0.00025]: Train loss: 0.5743214, Test loss: 1.6729560
+Epoch 5990, LR: [0.00025]: Train loss: 0.5768533, Test loss: 1.7379558
+Epoch 6000, LR: [0.00025]: Train loss: 0.5659691, Test loss: 1.6783494 (new best train)
+Epoch 6010, LR: [0.00025]: Train loss: 0.5713039, Test loss: 1.6538330
+Epoch 6020, LR: [0.00025]: Train loss: 0.5712861, Test loss: 1.6735620
+Epoch 6030, LR: [0.00025]: Train loss: 0.5652539, Test loss: 1.6975659 (new best train)
+Epoch 6040, LR: [0.00025]: Train loss: 0.5761060, Test loss: 1.6407990
+Epoch 6050, LR: [0.00025]: Train loss: 0.5622052, Test loss: 1.6324015 (new best train)
+Epoch 6060, LR: [0.00025]: Train loss: 0.5705301, Test loss: 1.6650397
+Epoch 6070, LR: [0.00025]: Train loss: 0.5692947, Test loss: 1.6765377
+Epoch 6080, LR: [0.00025]: Train loss: 0.5620828, Test loss: 1.6645747 (new best train)
+Epoch 6090, LR: [0.00025]: Train loss: 0.5684544, Test loss: 1.7235765
+Epoch 6100, LR: [0.00025]: Train loss: 0.5606304, Test loss: 1.6702819 (new best train)
+Epoch 6110, LR: [0.00025]: Train loss: 0.5701713, Test loss: 1.6818065
+Epoch 6120, LR: [0.00025]: Train loss: 0.5624659, Test loss: 1.7007530
+Epoch 6130, LR: [0.00025]: Train loss: 0.5857704, Test loss: 1.6950587
+Epoch 6140, LR: [0.00025]: Train loss: 0.5679370, Test loss: 1.6459554
+Epoch 6150, LR: [0.00025]: Train loss: 0.5594731, Test loss: 1.6298057 (new best train)
+Epoch 6160, LR: [0.00025]: Train loss: 0.5768521, Test loss: 1.6474887
+Epoch 6170, LR: [0.00025]: Train loss: 0.5697535, Test loss: 1.7694589
+Epoch 6180, LR: [0.00025]: Train loss: 0.5676219, Test loss: 1.6411959
+Epoch 6190, LR: [0.00025]: Train loss: 0.5614812, Test loss: 1.6508481
+Epoch 6200, LR: [0.00025]: Train loss: 0.5511595, Test loss: 1.6924122 (new best train)
+Epoch 6210, LR: [0.00025]: Train loss: 0.5538878, Test loss: 1.7151179
+Epoch 6220, LR: [0.00025]: Train loss: 0.5597780, Test loss: 1.7306497
+Epoch 6230, LR: [0.00025]: Train loss: 0.5546294, Test loss: 1.6838348
+Epoch 6240, LR: [0.00025]: Train loss: 0.5481521, Test loss: 1.6322903 (new best train)
+Epoch 6250, LR: [0.00025]: Train loss: 0.5567037, Test loss: 1.6576437
+Epoch 6260, LR: [0.00025]: Train loss: 0.5488463, Test loss: 1.6649847
+Epoch 6270, LR: [0.00025]: Train loss: 0.5577962, Test loss: 1.6516708
+Epoch 6280, LR: [0.00025]: Train loss: 0.5514232, Test loss: 1.6738919
+Epoch 6290, LR: [0.00025]: Train loss: 0.5511318, Test loss: 1.6586526
+Epoch 6300, LR: [0.00025]: Train loss: 0.5516043, Test loss: 1.6926057
+Epoch 6310, LR: [0.00025]: Train loss: 0.5474462, Test loss: 1.7200930 (new best train)
+Epoch 6320, LR: [0.00025]: Train loss: 0.5594249, Test loss: 1.6479089
+Epoch 6330, LR: [0.00025]: Train loss: 0.5444193, Test loss: 1.6399745 (new best train)
+Epoch 6340, LR: [0.00025]: Train loss: 0.5528086, Test loss: 1.7075213
+Epoch 6350, LR: [0.00025]: Train loss: 0.5552167, Test loss: 1.7073416
+Epoch 6360, LR: [0.00025]: Train loss: 0.5390994, Test loss: 1.6841273 (new best train)
+Epoch 6370, LR: [0.00025]: Train loss: 0.5457451, Test loss: 1.6616456
+Epoch 6380, LR: [0.00025]: Train loss: 0.5598813, Test loss: 1.7898522
+Epoch 6390, LR: [0.00025]: Train loss: 0.5724039, Test loss: 1.6308739
+Epoch 6400, LR: [0.00025]: Train loss: 0.5664490, Test loss: 1.6575471
+Epoch 6410, LR: [0.00025]: Train loss: 0.5425825, Test loss: 1.6538750
+Epoch 6420, LR: [0.00025]: Train loss: 0.5424445, Test loss: 1.6884845
+Epoch 6430, LR: [0.00025]: Train loss: 0.5448589, Test loss: 1.6310165
+Epoch 6440, LR: [0.00025]: Train loss: 0.5478891, Test loss: 1.6556973
+Epoch 6450, LR: [0.00025]: Train loss: 0.5433911, Test loss: 1.6888069
+Epoch 6460, LR: [0.00025]: Train loss: 0.5354299, Test loss: 1.7088157 (new best train)
+Epoch 6470, LR: [0.00025]: Train loss: 0.5375848, Test loss: 1.7711043
+Epoch 6480, LR: [0.00025]: Train loss: 0.5463183, Test loss: 1.6457390
+Epoch 6490, LR: [0.00025]: Train loss: 0.5363256, Test loss: 1.7085895
+Epoch 6500, LR: [0.00025]: Train loss: 0.5445003, Test loss: 1.6502479
+Epoch 6510, LR: [0.00025]: Train loss: 0.5411109, Test loss: 1.6426564
+Epoch 6520, LR: [0.00025]: Train loss: 0.5357987, Test loss: 1.6899900
+Epoch 6530, LR: [0.00025]: Train loss: 0.5322446, Test loss: 1.6470486 (new best train)
+Epoch 6540, LR: [0.00025]: Train loss: 0.5333226, Test loss: 1.6712216
+Epoch 6550, LR: [0.00025]: Train loss: 0.5388756, Test loss: 1.6330408
+Epoch 6560, LR: [0.00025]: Train loss: 0.5333733, Test loss: 1.6847228
+Epoch 6570, LR: [0.00025]: Train loss: 0.5394529, Test loss: 1.6962571
+Epoch 6580, LR: [0.00025]: Train loss: 0.5307194, Test loss: 1.6311524 (new best train)
+Epoch 6590, LR: [0.00025]: Train loss: 0.5375278, Test loss: 1.6706635
+Epoch 6600, LR: [0.00025]: Train loss: 0.5354520, Test loss: 1.6568754
+Epoch 6610, LR: [0.00025]: Train loss: 0.5338806, Test loss: 1.6919227
+Epoch 6620, LR: [0.00025]: Train loss: 0.5344031, Test loss: 1.7485136
+Epoch 6630, LR: [0.00025]: Train loss: 0.5470500, Test loss: 1.7274145
+Epoch 6640, LR: [0.00025]: Train loss: 0.5477226, Test loss: 1.7013657
+Epoch 6650, LR: [0.00025]: Train loss: 0.5358784, Test loss: 1.6446643
+Epoch 6660, LR: [0.00025]: Train loss: 0.5387473, Test loss: 1.6609106
+Epoch 6670, LR: [0.00025]: Train loss: 0.5433651, Test loss: 1.7546108
+Epoch 6680, LR: [0.00025]: Train loss: 0.5296079, Test loss: 1.6261871 (new best train)
+Epoch 6690, LR: [0.00025]: Train loss: 0.5050921, Test loss: 1.6307064 (new best train)
+Epoch 6700, LR: [0.00025]: Train loss: 0.4994151, Test loss: 1.6356438 (new best train)
+Epoch 6710, LR: [0.00025]: Train loss: 0.5077925, Test loss: 1.7046752
+Epoch 6720, LR: [0.00025]: Train loss: 0.5062823, Test loss: 1.6489530
+Epoch 6730, LR: [0.00025]: Train loss: 0.5048530, Test loss: 1.7035814
+Epoch 6740, LR: [0.00025]: Train loss: 0.5028540, Test loss: 1.6723460
+Epoch 6750, LR: [0.00025]: Train loss: 0.5159170, Test loss: 1.6154554
+Epoch 6760, LR: [0.00025]: Train loss: 0.5051038, Test loss: 1.6596027
+Epoch 6770, LR: [0.00025]: Train loss: 0.5169688, Test loss: 1.6890271
+Epoch 6780, LR: [0.00025]: Train loss: 0.4919361, Test loss: 1.6692832 (new best train)
+Epoch 6790, LR: [0.00025]: Train loss: 0.4845093, Test loss: 1.6272323 (new best train)
+Epoch 6800, LR: [0.00025]: Train loss: 0.5058520, Test loss: 1.6480594
+Epoch 6810, LR: [0.00025]: Train loss: 0.5192994, Test loss: 1.7230755
+Epoch 6820, LR: [0.00025]: Train loss: 0.5005306, Test loss: 1.6313075
+Epoch 6830, LR: [0.00025]: Train loss: 0.4805039, Test loss: 1.6469128 (new best train)
+Epoch 6840, LR: [0.00025]: Train loss: 0.5029060, Test loss: 1.6498920
+Epoch 6850, LR: [0.00025]: Train loss: 0.4776650, Test loss: 1.6460074 (new best train)
+Epoch 6860, LR: [0.00025]: Train loss: 0.4760968, Test loss: 1.6424008 (new best train)
+Epoch 6870, LR: [0.00025]: Train loss: 0.4761801, Test loss: 1.6625839
+Epoch 6880, LR: [0.00025]: Train loss: 0.4886433, Test loss: 1.7120423
+Epoch 6890, LR: [0.00025]: Train loss: 0.4858569, Test loss: 1.6697230
+Epoch 6900, LR: [0.00025]: Train loss: 0.4713394, Test loss: 1.6610988 (new best train)
+Epoch 6910, LR: [0.00025]: Train loss: 0.4797609, Test loss: 1.6873711
+Epoch 6920, LR: [0.00025]: Train loss: 0.4779432, Test loss: 1.6405577
+Epoch 6930, LR: [0.00025]: Train loss: 0.4893878, Test loss: 1.6240854
+Epoch 6940, LR: [0.00025]: Train loss: 0.4710799, Test loss: 1.6086513 (new best train)
+Epoch 6950, LR: [0.00025]: Train loss: 0.4748603, Test loss: 1.6541230
+Epoch 6960, LR: [0.00025]: Train loss: 0.4718309, Test loss: 1.6185986
+Epoch 6970, LR: [0.00025]: Train loss: 0.4653044, Test loss: 1.6309407 (new best train)
+Epoch 6980, LR: [0.00025]: Train loss: 0.4699698, Test loss: 1.6612984
+Epoch 6990, LR: [0.00025]: Train loss: 0.4831509, Test loss: 1.6359461
+Epoch 7000, LR: [0.00025]: Train loss: 0.4726873, Test loss: 1.7019900
+Epoch 7010, LR: [0.00025]: Train loss: 0.4701165, Test loss: 1.6797012
+Epoch 7020, LR: [0.00025]: Train loss: 0.4667005, Test loss: 1.6141756
+Epoch 7030, LR: [0.00025]: Train loss: 0.4653496, Test loss: 1.6967325
+Epoch 7040, LR: [0.00025]: Train loss: 0.4705230, Test loss: 1.6315200
+Epoch 7050, LR: [0.00025]: Train loss: 0.4588855, Test loss: 1.6825381 (new best train)
+Epoch 7060, LR: [0.00025]: Train loss: 0.4552555, Test loss: 1.6033615 (new best train)
+Epoch 7070, LR: [0.00025]: Train loss: 0.4599002, Test loss: 1.6054685
+Epoch 7080, LR: [0.00025]: Train loss: 0.4880091, Test loss: 1.6639217
+Epoch 7090, LR: [0.00025]: Train loss: 0.4795887, Test loss: 1.6533178
+Epoch 7100, LR: [0.00025]: Train loss: 0.4626484, Test loss: 1.6617314
+Epoch 7110, LR: [0.00025]: Train loss: 0.4634540, Test loss: 1.6336697
+Epoch 7120, LR: [0.00025]: Train loss: 0.4543737, Test loss: 1.6641620 (new best train)
+Epoch 7130, LR: [0.00025]: Train loss: 0.4484685, Test loss: 1.6294252 (new best train)
+Epoch 7140, LR: [0.00025]: Train loss: 0.4703687, Test loss: 1.7385204
+Epoch 7150, LR: [0.00025]: Train loss: 0.4775236, Test loss: 1.6681660
+Epoch 7160, LR: [0.00025]: Train loss: 0.4578472, Test loss: 1.6619732
+Epoch 7170, LR: [0.00025]: Train loss: 0.4559559, Test loss: 1.6478956
+Epoch 7180, LR: [0.00025]: Train loss: 0.4489425, Test loss: 1.6672559
+Epoch 7190, LR: [0.00025]: Train loss: 0.4546038, Test loss: 1.6379529
+Epoch 7200, LR: [0.00025]: Train loss: 0.4511169, Test loss: 1.6412812
+Epoch 7210, LR: [0.00025]: Train loss: 0.4546492, Test loss: 1.7047519
+Epoch 7220, LR: [0.00025]: Train loss: 0.4690482, Test loss: 1.6927231
+Epoch 7230, LR: [0.00025]: Train loss: 0.4494198, Test loss: 1.7000808
+Epoch 7240, LR: [0.000125]: Train loss: 0.4622733, Test loss: 1.6497575
+Epoch 7250, LR: [0.000125]: Train loss: 0.4281302, Test loss: 1.6263417 (new best train)
+Epoch 7260, LR: [0.000125]: Train loss: 0.4240479, Test loss: 1.6134374 (new best train)
+Epoch 7270, LR: [0.000125]: Train loss: 0.4268224, Test loss: 1.6196896
+Epoch 7280, LR: [0.000125]: Train loss: 0.4231127, Test loss: 1.6181229 (new best train)
+Epoch 7290, LR: [0.000125]: Train loss: 0.4252291, Test loss: 1.6138294
+Epoch 7300, LR: [0.000125]: Train loss: 0.4245242, Test loss: 1.6049756
+Epoch 7310, LR: [0.000125]: Train loss: 0.4245456, Test loss: 1.6050566
+Epoch 7320, LR: [0.000125]: Train loss: 0.4208921, Test loss: 1.6080239 (new best train)
+Epoch 7330, LR: [0.000125]: Train loss: 0.4200038, Test loss: 1.6030717 (new best train)
+Epoch 7340, LR: [0.000125]: Train loss: 0.4237346, Test loss: 1.6240840
+Epoch 7350, LR: [0.000125]: Train loss: 0.4236277, Test loss: 1.6707596
+Epoch 7360, LR: [0.000125]: Train loss: 0.4255222, Test loss: 1.6284889
+Epoch 7370, LR: [0.000125]: Train loss: 0.4247281, Test loss: 1.6138857
+Epoch 7380, LR: [0.000125]: Train loss: 0.4227440, Test loss: 1.6324395
+Epoch 7390, LR: [0.000125]: Train loss: 0.4283730, Test loss: 1.6444933
+Epoch 7400, LR: [0.000125]: Train loss: 0.4256069, Test loss: 1.6385776
+Epoch 7410, LR: [0.000125]: Train loss: 0.4246680, Test loss: 1.6093689
+Epoch 7420, LR: [0.000125]: Train loss: 0.4211449, Test loss: 1.6133417
+Epoch 7430, LR: [0.000125]: Train loss: 0.4203689, Test loss: 1.6170019
+Epoch 7440, LR: [6.25e-05]: Train loss: 0.4230458, Test loss: 1.6390000
+Epoch 7450, LR: [6.25e-05]: Train loss: 0.4096820, Test loss: 1.6282650 (new best train)
+Epoch 7460, LR: [6.25e-05]: Train loss: 0.4109556, Test loss: 1.5978177
+Epoch 7470, LR: [6.25e-05]: Train loss: 0.4098367, Test loss: 1.6424643
+Epoch 7480, LR: [6.25e-05]: Train loss: 0.4113808, Test loss: 1.6066708
+Epoch 7490, LR: [6.25e-05]: Train loss: 0.4108443, Test loss: 1.6150387
+Epoch 7500, LR: [6.25e-05]: Train loss: 0.4075021, Test loss: 1.6051356 (new best train)
+Epoch 7510, LR: [6.25e-05]: Train loss: 0.4093334, Test loss: 1.6239094
+Epoch 7520, LR: [6.25e-05]: Train loss: 0.4102216, Test loss: 1.6211862
+Epoch 7530, LR: [6.25e-05]: Train loss: 0.4091987, Test loss: 1.6219881
+Epoch 7540, LR: [6.25e-05]: Train loss: 0.4090663, Test loss: 1.6021916
+Epoch 7550, LR: [6.25e-05]: Train loss: 0.4077662, Test loss: 1.6269399
+Epoch 7560, LR: [6.25e-05]: Train loss: 0.4091874, Test loss: 1.6199121
+Epoch 7570, LR: [6.25e-05]: Train loss: 0.4125083, Test loss: 1.6196378
+Epoch 7580, LR: [6.25e-05]: Train loss: 0.4116238, Test loss: 1.6154826
+Epoch 7590, LR: [6.25e-05]: Train loss: 0.4090335, Test loss: 1.6157915
+Epoch 7600, LR: [6.25e-05]: Train loss: 0.4072655, Test loss: 1.6075538 (new best train)
+Epoch 7610, LR: [6.25e-05]: Train loss: 0.4096362, Test loss: 1.6016286
+Epoch 7620, LR: [6.25e-05]: Train loss: 0.4059686, Test loss: 1.6053139 (new best train)
+Epoch 7630, LR: [6.25e-05]: Train loss: 0.4052763, Test loss: 1.6485889 (new best train)
+Epoch 7640, LR: [6.25e-05]: Train loss: 0.4103608, Test loss: 1.6213500
+Epoch 7650, LR: [6.25e-05]: Train loss: 0.4096060, Test loss: 1.6002590
+Epoch 7660, LR: [6.25e-05]: Train loss: 0.4080223, Test loss: 1.6218583
+Epoch 7670, LR: [6.25e-05]: Train loss: 0.4068839, Test loss: 1.6209767
+Epoch 7680, LR: [6.25e-05]: Train loss: 0.4074301, Test loss: 1.6144947
+Epoch 7690, LR: [6.25e-05]: Train loss: 0.4067670, Test loss: 1.6222723
+Epoch 7700, LR: [6.25e-05]: Train loss: 0.4069306, Test loss: 1.6356840
+Epoch 7710, LR: [6.25e-05]: Train loss: 0.4084815, Test loss: 1.6217693
+Epoch 7720, LR: [6.25e-05]: Train loss: 0.4062898, Test loss: 1.6110888
+Epoch 7730, LR: [6.25e-05]: Train loss: 0.4049656, Test loss: 1.6142036 (new best train)
+Epoch 7740, LR: [6.25e-05]: Train loss: 0.4064080, Test loss: 1.5894599
+Epoch 7750, LR: [6.25e-05]: Train loss: 0.4026304, Test loss: 1.5986084 (new best train)
+Epoch 7760, LR: [6.25e-05]: Train loss: 0.4041448, Test loss: 1.5956608
+Epoch 7770, LR: [6.25e-05]: Train loss: 0.4076491, Test loss: 1.6031570
+Epoch 7780, LR: [6.25e-05]: Train loss: 0.4050326, Test loss: 1.5813711
+Epoch 7790, LR: [6.25e-05]: Train loss: 0.4052512, Test loss: 1.5894222
+Epoch 7800, LR: [6.25e-05]: Train loss: 0.4048829, Test loss: 1.5950683
+Epoch 7810, LR: [6.25e-05]: Train loss: 0.4039914, Test loss: 1.6079110
+Epoch 7820, LR: [6.25e-05]: Train loss: 0.4021000, Test loss: 1.6271782 (new best train)
+Epoch 7830, LR: [6.25e-05]: Train loss: 0.4028635, Test loss: 1.6040380
+Epoch 7840, LR: [6.25e-05]: Train loss: 0.4050388, Test loss: 1.6033794
+Epoch 7850, LR: [6.25e-05]: Train loss: 0.4038021, Test loss: 1.6149886
+Epoch 7860, LR: [6.25e-05]: Train loss: 0.4066879, Test loss: 1.6054282
+Epoch 7870, LR: [6.25e-05]: Train loss: 0.4019133, Test loss: 1.6022418 (new best train)
+Epoch 7880, LR: [6.25e-05]: Train loss: 0.4012648, Test loss: 1.6053300 (new best train)
+Epoch 7890, LR: [6.25e-05]: Train loss: 0.4026445, Test loss: 1.6021469
+Epoch 7900, LR: [6.25e-05]: Train loss: 0.4014606, Test loss: 1.6021972
+Epoch 7910, LR: [6.25e-05]: Train loss: 0.4019398, Test loss: 1.6134314
+Epoch 7920, LR: [6.25e-05]: Train loss: 0.4015133, Test loss: 1.5880239
+Epoch 7930, LR: [6.25e-05]: Train loss: 0.4029747, Test loss: 1.6159407
+Epoch 7940, LR: [6.25e-05]: Train loss: 0.4011491, Test loss: 1.6155827 (new best train)
+Epoch 7950, LR: [6.25e-05]: Train loss: 0.4035378, Test loss: 1.6120243
+Epoch 7960, LR: [6.25e-05]: Train loss: 0.3979921, Test loss: 1.6226369 (new best train)
+Epoch 7970, LR: [6.25e-05]: Train loss: 0.4014542, Test loss: 1.6312625
+Epoch 7980, LR: [6.25e-05]: Train loss: 0.4026691, Test loss: 1.5896362
+Epoch 7990, LR: [6.25e-05]: Train loss: 0.3991137, Test loss: 1.6273836
+Epoch 8000, LR: [6.25e-05]: Train loss: 0.4004116, Test loss: 1.6398742
+Epoch 8010, LR: [6.25e-05]: Train loss: 0.4023297, Test loss: 1.6187358
+Epoch 8020, LR: [6.25e-05]: Train loss: 0.4002778, Test loss: 1.6131589
+Epoch 8030, LR: [6.25e-05]: Train loss: 0.3995829, Test loss: 1.6387109
+Epoch 8040, LR: [6.25e-05]: Train loss: 0.4039334, Test loss: 1.6054030
+Epoch 8050, LR: [6.25e-05]: Train loss: 0.3990847, Test loss: 1.5967884
+Epoch 8060, LR: [6.25e-05]: Train loss: 0.3963124, Test loss: 1.5891192 (new best train)
+Epoch 8070, LR: [6.25e-05]: Train loss: 0.3991556, Test loss: 1.5976383
+Epoch 8080, LR: [6.25e-05]: Train loss: 0.3970837, Test loss: 1.5973394
+Epoch 8090, LR: [6.25e-05]: Train loss: 0.3979145, Test loss: 1.6226204
+Epoch 8100, LR: [6.25e-05]: Train loss: 0.3983378, Test loss: 1.6011431
+Epoch 8110, LR: [6.25e-05]: Train loss: 0.3970914, Test loss: 1.5948470
+Epoch 8120, LR: [6.25e-05]: Train loss: 0.3978700, Test loss: 1.6005740
+Epoch 8130, LR: [6.25e-05]: Train loss: 0.3942148, Test loss: 1.5904677 (new best train)
+Epoch 8140, LR: [6.25e-05]: Train loss: 0.3948528, Test loss: 1.6125016
+Epoch 8150, LR: [6.25e-05]: Train loss: 0.3972815, Test loss: 1.5986634
+Epoch 8160, LR: [6.25e-05]: Train loss: 0.3962493, Test loss: 1.6136267
+Epoch 8170, LR: [6.25e-05]: Train loss: 0.3967418, Test loss: 1.6159976
+Epoch 8180, LR: [6.25e-05]: Train loss: 0.3977872, Test loss: 1.6229583
+Epoch 8190, LR: [6.25e-05]: Train loss: 0.4003347, Test loss: 1.6266595
+Epoch 8200, LR: [6.25e-05]: Train loss: 0.3961441, Test loss: 1.6001321
+Epoch 8210, LR: [6.25e-05]: Train loss: 0.3940164, Test loss: 1.6020957 (new best train)
+Epoch 8220, LR: [6.25e-05]: Train loss: 0.4003062, Test loss: 1.6310042
+Epoch 8230, LR: [6.25e-05]: Train loss: 0.3960541, Test loss: 1.6085500
+Epoch 8240, LR: [6.25e-05]: Train loss: 0.3956203, Test loss: 1.6036742
+Epoch 8250, LR: [6.25e-05]: Train loss: 0.3940788, Test loss: 1.6087503
+Epoch 8260, LR: [6.25e-05]: Train loss: 0.3950883, Test loss: 1.6150828
+Epoch 8270, LR: [6.25e-05]: Train loss: 0.3931529, Test loss: 1.6229486 (new best train)
+Epoch 8280, LR: [6.25e-05]: Train loss: 0.3914868, Test loss: 1.6292122 (new best train)
+Epoch 8290, LR: [6.25e-05]: Train loss: 0.3970196, Test loss: 1.6330446
+Epoch 8300, LR: [6.25e-05]: Train loss: 0.3959608, Test loss: 1.5932190
+Epoch 8310, LR: [6.25e-05]: Train loss: 0.3916218, Test loss: 1.6190988
+Epoch 8320, LR: [6.25e-05]: Train loss: 0.3928489, Test loss: 1.5948201
+Epoch 8330, LR: [6.25e-05]: Train loss: 0.3978928, Test loss: 1.6550549
+Epoch 8340, LR: [6.25e-05]: Train loss: 0.3935559, Test loss: 1.6194779
+Epoch 8350, LR: [6.25e-05]: Train loss: 0.3961806, Test loss: 1.6268382
+Epoch 8360, LR: [6.25e-05]: Train loss: 0.3918795, Test loss: 1.6019669
+Epoch 8370, LR: [6.25e-05]: Train loss: 0.3920370, Test loss: 1.6304637
+Epoch 8380, LR: [6.25e-05]: Train loss: 0.3915225, Test loss: 1.6163134
+Epoch 8390, LR: [3.125e-05]: Train loss: 0.3950939, Test loss: 1.6204200
+Epoch 8400, LR: [3.125e-05]: Train loss: 0.3867753, Test loss: 1.6126088 (new best train)
+Epoch 8410, LR: [3.125e-05]: Train loss: 0.3862673, Test loss: 1.6094887 (new best train)
+Epoch 8420, LR: [3.125e-05]: Train loss: 0.3850761, Test loss: 1.6066808 (new best train)
+Epoch 8430, LR: [3.125e-05]: Train loss: 0.3858381, Test loss: 1.5911280
+Epoch 8440, LR: [3.125e-05]: Train loss: 0.3851596, Test loss: 1.5872950
+Epoch 8450, LR: [3.125e-05]: Train loss: 0.3859079, Test loss: 1.6144428
+Epoch 8460, LR: [3.125e-05]: Train loss: 0.3863170, Test loss: 1.6115026
+Epoch 8470, LR: [3.125e-05]: Train loss: 0.3864222, Test loss: 1.6007604
+Epoch 8480, LR: [3.125e-05]: Train loss: 0.3847215, Test loss: 1.6055016 (new best train)
+Epoch 8490, LR: [3.125e-05]: Train loss: 0.3837089, Test loss: 1.6011213 (new best train)
+Epoch 8500, LR: [3.125e-05]: Train loss: 0.3860840, Test loss: 1.6050796
+Epoch 8510, LR: [3.125e-05]: Train loss: 0.3846591, Test loss: 1.6040773
+Epoch 8520, LR: [3.125e-05]: Train loss: 0.3866744, Test loss: 1.5861809
+Epoch 8530, LR: [3.125e-05]: Train loss: 0.3847804, Test loss: 1.6018119
+Epoch 8540, LR: [3.125e-05]: Train loss: 0.3844196, Test loss: 1.6055232
+Epoch 8550, LR: [3.125e-05]: Train loss: 0.3854614, Test loss: 1.6021016
+Epoch 8560, LR: [3.125e-05]: Train loss: 0.3841277, Test loss: 1.6143419
+Epoch 8570, LR: [3.125e-05]: Train loss: 0.3854482, Test loss: 1.6056742
+Epoch 8580, LR: [3.125e-05]: Train loss: 0.3838760, Test loss: 1.6079518
+Epoch 8590, LR: [3.125e-05]: Train loss: 0.3847236, Test loss: 1.6156539
+Epoch 8600, LR: [1.5625e-05]: Train loss: 0.3843507, Test loss: 1.6076989
+Epoch 8610, LR: [1.5625e-05]: Train loss: 0.3813088, Test loss: 1.6039896 (new best train)
+Epoch 8620, LR: [1.5625e-05]: Train loss: 0.3814957, Test loss: 1.6191925
+Epoch 8630, LR: [1.5625e-05]: Train loss: 0.3806021, Test loss: 1.6171227 (new best train)
+Epoch 8640, LR: [1.5625e-05]: Train loss: 0.3816016, Test loss: 1.6056351
+Epoch 8650, LR: [1.5625e-05]: Train loss: 0.3811593, Test loss: 1.6145707
+Epoch 8660, LR: [1.5625e-05]: Train loss: 0.3815520, Test loss: 1.6121894
+Epoch 8670, LR: [1.5625e-05]: Train loss: 0.3805241, Test loss: 1.6024677
+Epoch 8680, LR: [1.5625e-05]: Train loss: 0.3811286, Test loss: 1.6059289
+Epoch 8690, LR: [1.5625e-05]: Train loss: 0.3802944, Test loss: 1.5998365 (new best train)
+Epoch 8700, LR: [1.5625e-05]: Train loss: 0.3800257, Test loss: 1.5995357 (new best train)
+Epoch 8710, LR: [1.5625e-05]: Train loss: 0.3810619, Test loss: 1.6031290
+Epoch 8720, LR: [1.5625e-05]: Train loss: 0.3815156, Test loss: 1.6151574
+Epoch 8730, LR: [1.5625e-05]: Train loss: 0.3808552, Test loss: 1.6050410
+Epoch 8740, LR: [1.5625e-05]: Train loss: 0.3801805, Test loss: 1.6067880
+Epoch 8750, LR: [1.5625e-05]: Train loss: 0.3803833, Test loss: 1.6068454
+Epoch 8760, LR: [1.5625e-05]: Train loss: 0.3803620, Test loss: 1.6103935
+Epoch 8770, LR: [1.5625e-05]: Train loss: 0.3809195, Test loss: 1.5960174
+Epoch 8780, LR: [1.5625e-05]: Train loss: 0.3808182, Test loss: 1.6109925
+Epoch 8790, LR: [1.5625e-05]: Train loss: 0.3802963, Test loss: 1.6035534
+Epoch 8800, LR: [1.5625e-05]: Train loss: 0.3806792, Test loss: 1.6023187
+Epoch 8810, LR: [7.8125e-06]: Train loss: 0.3803170, Test loss: 1.6095220
+Epoch 8820, LR: [7.8125e-06]: Train loss: 0.3784236, Test loss: 1.6039229 (new best train)
+Epoch 8830, LR: [7.8125e-06]: Train loss: 0.3784887, Test loss: 1.6103177
+Epoch 8840, LR: [7.8125e-06]: Train loss: 0.3787272, Test loss: 1.6028047
+Epoch 8850, LR: [7.8125e-06]: Train loss: 0.3787694, Test loss: 1.6102857
+Epoch 8860, LR: [7.8125e-06]: Train loss: 0.3789987, Test loss: 1.6032283
+Epoch 8870, LR: [7.8125e-06]: Train loss: 0.3786242, Test loss: 1.6072499
+Epoch 8880, LR: [7.8125e-06]: Train loss: 0.3785795, Test loss: 1.6067541
+Epoch 8890, LR: [7.8125e-06]: Train loss: 0.3785590, Test loss: 1.6012362
+Epoch 8900, LR: [7.8125e-06]: Train loss: 0.3783778, Test loss: 1.6033702
+Epoch 8910, LR: [7.8125e-06]: Train loss: 0.3784326, Test loss: 1.6024975
+Epoch 8920, LR: [7.8125e-06]: Train loss: 0.3782973, Test loss: 1.6050736 (new best train)
+Epoch 8930, LR: [7.8125e-06]: Train loss: 0.3782208, Test loss: 1.6037027
+Epoch 8940, LR: [7.8125e-06]: Train loss: 0.3785023, Test loss: 1.6090998
+Epoch 8950, LR: [7.8125e-06]: Train loss: 0.3782925, Test loss: 1.6061397
+Epoch 8960, LR: [7.8125e-06]: Train loss: 0.3780239, Test loss: 1.5970491 (new best train)
+Epoch 8970, LR: [7.8125e-06]: Train loss: 0.3785993, Test loss: 1.6017102
+Epoch 8980, LR: [7.8125e-06]: Train loss: 0.3786820, Test loss: 1.6091164
+Epoch 8990, LR: [7.8125e-06]: Train loss: 0.3780312, Test loss: 1.6109447
+Epoch 9000, LR: [7.8125e-06]: Train loss: 0.3776517, Test loss: 1.6009968 (new best train)
+Epoch 9010, LR: [7.8125e-06]: Train loss: 0.3779550, Test loss: 1.5997338
+Epoch 9020, LR: [7.8125e-06]: Train loss: 0.3774917, Test loss: 1.6071335 (new best train)
+Epoch 9030, LR: [7.8125e-06]: Train loss: 0.3779524, Test loss: 1.6076358
+Epoch 9040, LR: [7.8125e-06]: Train loss: 0.3785096, Test loss: 1.6205312
+Epoch 9050, LR: [7.8125e-06]: Train loss: 0.3783780, Test loss: 1.6050869
+Epoch 9060, LR: [7.8125e-06]: Train loss: 0.3774609, Test loss: 1.6098148
+Epoch 9070, LR: [7.8125e-06]: Train loss: 0.3781041, Test loss: 1.6044075
+Epoch 9080, LR: [7.8125e-06]: Train loss: 0.3779111, Test loss: 1.6103076
+Epoch 9090, LR: [7.8125e-06]: Train loss: 0.3771934, Test loss: 1.6042131 (new best train)
+Epoch 9100, LR: [7.8125e-06]: Train loss: 0.3773569, Test loss: 1.6068922
+Epoch 9110, LR: [7.8125e-06]: Train loss: 0.3773560, Test loss: 1.6040162
+Epoch 9120, LR: [7.8125e-06]: Train loss: 0.3779867, Test loss: 1.5983666
+Epoch 9130, LR: [7.8125e-06]: Train loss: 0.3771501, Test loss: 1.6043802
+Epoch 9140, LR: [7.8125e-06]: Train loss: 0.3771379, Test loss: 1.6032366
+Epoch 9150, LR: [7.8125e-06]: Train loss: 0.3775239, Test loss: 1.6105665
+Epoch 9160, LR: [7.8125e-06]: Train loss: 0.3780183, Test loss: 1.6037665
+Epoch 9170, LR: [7.8125e-06]: Train loss: 0.3773535, Test loss: 1.6108775
+Epoch 9180, LR: [7.8125e-06]: Train loss: 0.3775059, Test loss: 1.5990897
+Epoch 9190, LR: [7.8125e-06]: Train loss: 0.3771943, Test loss: 1.6074844
+Epoch 9200, LR: [3.90625e-06]: Train loss: 0.3778796, Test loss: 1.6103547
+Epoch 9210, LR: [3.90625e-06]: Train loss: 0.3766847, Test loss: 1.6020507 (new best train)
+Epoch 9220, LR: [3.90625e-06]: Train loss: 0.3767734, Test loss: 1.6075537
+Epoch 9230, LR: [3.90625e-06]: Train loss: 0.3762148, Test loss: 1.6034340 (new best train)
+Epoch 9240, LR: [3.90625e-06]: Train loss: 0.3764425, Test loss: 1.6041685
+Epoch 9250, LR: [3.90625e-06]: Train loss: 0.3762564, Test loss: 1.6063498
+Epoch 9260, LR: [3.90625e-06]: Train loss: 0.3762798, Test loss: 1.6054214
+Epoch 9270, LR: [3.90625e-06]: Train loss: 0.3763067, Test loss: 1.6053924
+Epoch 9280, LR: [3.90625e-06]: Train loss: 0.3763874, Test loss: 1.6054146
+Epoch 9290, LR: [3.90625e-06]: Train loss: 0.3763035, Test loss: 1.6035619
+Epoch 9300, LR: [3.90625e-06]: Train loss: 0.3763115, Test loss: 1.6011666
+Epoch 9310, LR: [3.90625e-06]: Train loss: 0.3761432, Test loss: 1.6035490
+Epoch 9320, LR: [3.90625e-06]: Train loss: 0.3761315, Test loss: 1.6077820
+Epoch 9330, LR: [3.90625e-06]: Train loss: 0.3762058, Test loss: 1.6074145
+Epoch 9340, LR: [1.953125e-06]: Train loss: 0.3762114, Test loss: 1.6054834
+Epoch 9350, LR: [1.953125e-06]: Train loss: 0.3756305, Test loss: 1.6044275 (new best train)
+Epoch 9360, LR: [1.953125e-06]: Train loss: 0.3756919, Test loss: 1.6071854
+Epoch 9370, LR: [1.953125e-06]: Train loss: 0.3757592, Test loss: 1.6070420
+Epoch 9380, LR: [1.953125e-06]: Train loss: 0.3758572, Test loss: 1.6051823
+Epoch 9390, LR: [1.953125e-06]: Train loss: 0.3757630, Test loss: 1.6052378
+Epoch 9400, LR: [1.953125e-06]: Train loss: 0.3756697, Test loss: 1.6036317
+Epoch 9410, LR: [1.953125e-06]: Train loss: 0.3756494, Test loss: 1.6061043
+Epoch 9420, LR: [1.953125e-06]: Train loss: 0.3756385, Test loss: 1.6032370
+Epoch 9430, LR: [1.953125e-06]: Train loss: 0.3755864, Test loss: 1.6056745
+Epoch 9440, LR: [1.953125e-06]: Train loss: 0.3757061, Test loss: 1.6052186
+Epoch 9450, LR: [1.953125e-06]: Train loss: 0.3757578, Test loss: 1.6088321
+Epoch 9460, LR: [9.765625e-07]: Train loss: 0.3757034, Test loss: 1.6062934
+Epoch 9470, LR: [9.765625e-07]: Train loss: 0.3754041, Test loss: 1.6054514 (new best train)
+Epoch 9480, LR: [9.765625e-07]: Train loss: 0.3754313, Test loss: 1.6045994
+Epoch 9490, LR: [9.765625e-07]: Train loss: 0.3753717, Test loss: 1.6043344
+Epoch 9500, LR: [9.765625e-07]: Train loss: 0.3754054, Test loss: 1.6035838
+Epoch 9510, LR: [9.765625e-07]: Train loss: 0.3754033, Test loss: 1.6051983
+Epoch 9520, LR: [9.765625e-07]: Train loss: 0.3754186, Test loss: 1.6061383
+Epoch 9530, LR: [9.765625e-07]: Train loss: 0.3753595, Test loss: 1.6057618
+Epoch 9540, LR: [9.765625e-07]: Train loss: 0.3753929, Test loss: 1.6040933
+Epoch 9550, LR: [9.765625e-07]: Train loss: 0.3754077, Test loss: 1.6064129
+Epoch 9560, LR: [9.765625e-07]: Train loss: 0.3753118, Test loss: 1.6035539
+Epoch 9570, LR: [9.765625e-07]: Train loss: 0.3752965, Test loss: 1.6039119 (new best train)
+Epoch 9580, LR: [9.765625e-07]: Train loss: 0.3753293, Test loss: 1.6062828
+Epoch 9590, LR: [9.765625e-07]: Train loss: 0.3753943, Test loss: 1.6046388
+Epoch 9600, LR: [9.765625e-07]: Train loss: 0.3753924, Test loss: 1.6045550
+Epoch 9610, LR: [9.765625e-07]: Train loss: 0.3754826, Test loss: 1.6041971
+Epoch 9620, LR: [9.765625e-07]: Train loss: 0.3752707, Test loss: 1.6042578
+Epoch 9630, LR: [9.765625e-07]: Train loss: 0.3753695, Test loss: 1.6062996
+Epoch 9640, LR: [9.765625e-07]: Train loss: 0.3753647, Test loss: 1.6058156
+Epoch 9650, LR: [9.765625e-07]: Train loss: 0.3753429, Test loss: 1.6058898
+Epoch 9660, LR: [9.765625e-07]: Train loss: 0.3752694, Test loss: 1.6045027
+Epoch 9670, LR: [9.765625e-07]: Train loss: 0.3753816, Test loss: 1.6050242
+Epoch 9680, LR: [4.8828125e-07]: Train loss: 0.3752755, Test loss: 1.6036013
+Epoch 9690, LR: [4.8828125e-07]: Train loss: 0.3751511, Test loss: 1.6040724 (new best train)
+Epoch 9700, LR: [4.8828125e-07]: Train loss: 0.3751993, Test loss: 1.6050719
+Epoch 9710, LR: [4.8828125e-07]: Train loss: 0.3751547, Test loss: 1.6045399
+Epoch 9720, LR: [4.8828125e-07]: Train loss: 0.3751652, Test loss: 1.6042059
+Epoch 9730, LR: [4.8828125e-07]: Train loss: 0.3751879, Test loss: 1.6039829
+Epoch 9740, LR: [4.8828125e-07]: Train loss: 0.3751347, Test loss: 1.6042442
+Epoch 9750, LR: [4.8828125e-07]: Train loss: 0.3751168, Test loss: 1.6038822
+Epoch 9760, LR: [4.8828125e-07]: Train loss: 0.3751263, Test loss: 1.6041965
+Epoch 9770, LR: [4.8828125e-07]: Train loss: 0.3751017, Test loss: 1.6047147
+Epoch 9780, LR: [4.8828125e-07]: Train loss: 0.3751505, Test loss: 1.6047053
+Epoch 9790, LR: [4.8828125e-07]: Train loss: 0.3750929, Test loss: 1.6047556
+Epoch 9800, LR: [2.44140625e-07]: Train loss: 0.3751848, Test loss: 1.6046828
+Epoch 9810, LR: [2.44140625e-07]: Train loss: 0.3751050, Test loss: 1.6044118
+Epoch 9820, LR: [2.44140625e-07]: Train loss: 0.3750727, Test loss: 1.6042765
+Epoch 9830, LR: [2.44140625e-07]: Train loss: 0.3750624, Test loss: 1.6046842
+Epoch 9840, LR: [2.44140625e-07]: Train loss: 0.3750369, Test loss: 1.6042388 (new best train)
+Epoch 9850, LR: [2.44140625e-07]: Train loss: 0.3750477, Test loss: 1.6042623
+Epoch 9860, LR: [2.44140625e-07]: Train loss: 0.3751011, Test loss: 1.6045476
+Epoch 9870, LR: [2.44140625e-07]: Train loss: 0.3750525, Test loss: 1.6042813
+Epoch 9880, LR: [2.44140625e-07]: Train loss: 0.3750656, Test loss: 1.6041673
+Epoch 9890, LR: [2.44140625e-07]: Train loss: 0.3750604, Test loss: 1.6045706
+Epoch 9900, LR: [2.44140625e-07]: Train loss: 0.3750664, Test loss: 1.6045855
+Epoch 9910, LR: [2.44140625e-07]: Train loss: 0.3750553, Test loss: 1.6046510
+Epoch 9920, LR: [2.44140625e-07]: Train loss: 0.3750493, Test loss: 1.6042775
+Epoch 9930, LR: [2.44140625e-07]: Train loss: 0.3750357, Test loss: 1.6044763
+Epoch 9940, LR: [2.44140625e-07]: Train loss: 0.3750222, Test loss: 1.6052908
+Epoch 9950, LR: [1.220703125e-07]: Train loss: 0.3750618, Test loss: 1.6049363
+Epoch 9960, LR: [1.220703125e-07]: Train loss: 0.3750317, Test loss: 1.6042962
+Epoch 9970, LR: [1.220703125e-07]: Train loss: 0.3750066, Test loss: 1.6042880
+Epoch 9980, LR: [1.220703125e-07]: Train loss: 0.3749998, Test loss: 1.6042612
+Epoch 9990, LR: [1.220703125e-07]: Train loss: 0.3749960, Test loss: 1.6041278
+Epoch 10000, LR: [1.220703125e-07]: Train loss: 0.3750015, Test loss: 1.6043365
+Epoch 10010, LR: [1.220703125e-07]: Train loss: 0.3749945, Test loss: 1.6045392
+Epoch 10020, LR: [1.220703125e-07]: Train loss: 0.3749925, Test loss: 1.6041849
+Epoch 10030, LR: [1.220703125e-07]: Train loss: 0.3750070, Test loss: 1.6043721
+Epoch 10040, LR: [1.220703125e-07]: Train loss: 0.3749984, Test loss: 1.6045128
+20 * 10 epochs without STOP.TRAIN improvement, stopping. 
+Best train perf: 0.37503692611058553, epoch: 9840
+Total time: 3770.391090631485
