@@ -48,8 +48,8 @@ class TreeNeighborsMatch(object):
             edge_index, _ = torch_geometric.utils.add_remaining_self_loops(edge_index=edge_index, )
         return edge_index
 
-    def generate_data(self, train_fraction, max_samples, gen_k_hop):
-        data_list = []
+    def generate_data(self, max_samples, gen_k_hop):
+        X = []
 
         combinations = list(self.get_combinations(max_samples))
         for comb in tqdm(combinations):
@@ -63,18 +63,16 @@ class TreeNeighborsMatch(object):
                 data.k_hop_edge_index, _ = torch_geometric.utils.add_remaining_self_loops(
                     edge_index=slrc.create_k_hop_graph(data, k=gen_k_hop['k_hop']).edge_index,
                 )
-            data_list.append(data)
+            X.append(data)
 
         dim0, out_dim = self.get_dims()
-        X_train, X_test = train_test_split(
-            data_list, train_size=train_fraction, shuffle=True, stratify=[data.y for data in data_list])
 
         dataset_args = {
             'dim0': dim0,
             'out_dim': out_dim,
             'criterion': self.criterion,
         }
-        return X_train, X_test, dataset_args
+        return X, dataset_args
 
     def get_combinations(self, max_samples):
         # returns: an iterable of [key, permutation(leaves)]

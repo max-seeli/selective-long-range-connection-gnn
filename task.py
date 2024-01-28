@@ -18,13 +18,13 @@ class Task(Enum):
         except KeyError:
             raise ValueError()
 
-    def get_dataset(self, depth, train_fraction, max_samples, gen_k_hop):
+    def get_dataset(self, depth, max_samples, gen_k_hop):
         if self is Task.NEIGHBORS_MATCH:
             dataset = TreeNeighborsMatch(depth)
-            return dataset.generate_data(train_fraction, max_samples, gen_k_hop)
+            return dataset.generate_data(max_samples, gen_k_hop)
         elif self is Task.ZINC:
             dataset = Zinc()
-            return dataset.get_dataset(train_fraction, max_samples, gen_k_hop)
+            return dataset.get_dataset(max_samples, gen_k_hop)
         else:
             return None
 
