@@ -5,8 +5,7 @@ import argparse as ap
 import time
 
 def start(params):
-    experiment = Experiment(params)
-    experiment.run()
+    Experiment(params).run()
 
 def run(params):
     start_time = time.time()
@@ -38,6 +37,7 @@ if __name__ == '__main__':
     args.add_argument('--max_samples', type=int, default=32000, help='Maximum number of samples to use from NeighborsMatch dataset')
     args.add_argument('--learning_rate', type=float, default=0.001, help='Learning rate')
     args.add_argument('--weight_decay', type=float, default=0.0, help='Weight decay')
+    args.add_argument('--k_fold', type=int, default=1, help='Number of folds for cross validation')
     args = args.parse_args()
 
     task = Task.from_string(args.task)
@@ -68,5 +68,6 @@ if __name__ == '__main__':
         'max_samples': args.max_samples,
         'learning_rate': args.learning_rate,
         'weight_decay': args.weight_decay,
+        'k_fold': args.k_fold,
     }
     run(params)
