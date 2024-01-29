@@ -42,7 +42,7 @@ class Experiment():
 
         self.criterion = dataset_args['criterion']
 
-        self.model = self.task.get_model(args, dataset_args).to(self.device)
+        self.gen_model = lambda: self.task.get_model(args, dataset_args).to(self.device)
 
         print(f'Starting experiment')
         self.print_args(args)
@@ -54,9 +54,6 @@ class Experiment():
         print()
 
     def run(self):
-        optimizer = torch.optim.Adam(self.model.parameters(), lr=self.learning_rate, weight_decay=self.weight_decay)
-        mode = 'max' if self.task.is_classification else 'min'
-        scheduler = ReduceLROnPlateau(optimizer, mode=mode, threshold_mode='abs', factor=0.5, patience=10)
         print('Starting training')
 
         fold_results = []
@@ -65,12 +62,18 @@ class Experiment():
             X_train = [self.X[i] for i in train_idx]
             X_test = [self.X[i] for i in test_idx]
 
+            model = self.gen_model()
+            optimizer = torch.optim.Adam(model.parameters(), lr=self.learning_rate, weight_decay=self.weight_decay)
+            mode = 'max' if self.task.is_classification else 'min'
+            scheduler = ReduceLROnPlateau(optimizer, mode=mode, threshold_mode='abs', factor=0.5, patience=10)
+        
+
             best_test = 0.0 if self.task.is_classification else np.inf
             best_train = 0.0 if self.task.is_classification else np.inf
             best_epoch = 0
             epochs_no_improve = 0
             for epoch in range(1, (self.max_epochs // self.eval_every) + 1):
-                self.model.train()
+                model.train()
                 loader = DataLoader(X_train * self.eval_every, batch_size=self.batch_size, shuffle=True,
                                     pin_memory=True, num_workers=self.loader_workers)
 
@@ -80,7 +83,7 @@ class Experiment():
                 optimizer.zero_grad()
                 for i, batch in enumerate(loader):
                     batch = batch.to(self.device)
-                    out = self.model(batch)
+                    out = model(batch)
                     loss = self.criterion(input=out, target=batch.y)
                     total_num_examples += batch.num_graphs
                     total_loss += (loss.item() * batch.num_graphs)
@@ -101,7 +104,7 @@ class Experiment():
                 else:
                     train_perf = avg_training_loss
                     comp = lambda x, y, t: x < y - t
-                test_perf = self.eval(X_test)
+                test_perf = self.eval(model, X_test)
 
                 scheduler.step(train_perf)
                 cur_lr = [g["lr"] for g in optimizer.param_groups]
@@ -146,8 +149,8 @@ class Experiment():
         print(f'Average epoch: {np.mean([x[2] for x in fold_results])} +/- {np.std([x[2] for x in fold_results])}')
         return fold_results
 
-    def eval(self, X_test):
-        self.model.eval()
+    def eval(self, model, X_test):
+        model.eval()
         with torch.no_grad():
             loader = DataLoader(X_test, batch_size=self.batch_size, shuffle=False,
                                 pin_memory=True, num_workers=self.loader_workers)
@@ -157,7 +160,7 @@ class Experiment():
                 total_examples = 0
                 for batch in loader:
                     batch = batch.to(self.device)
-                    _, pred = self.model(batch).max(dim=1)
+                    _, pred = model(batch).max(dim=1)
                     total_correct += pred.eq(batch.y).sum().item()
                     total_examples += batch.y.size(0)
                 acc = total_correct / total_examples
@@ -167,7 +170,7 @@ class Experiment():
                 total_num_examples = 0
                 for batch in loader:
                     batch = batch.to(self.device)
-                    out = self.model(batch)
+                    out = model(batch)
                     loss = self.criterion(input=out, target=batch.y)
                     total_num_examples += batch.num_graphs
                     total_loss += (loss.item() * batch.num_graphs)
