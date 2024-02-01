@@ -2,14 +2,17 @@ from enum import Enum, auto
 
 from models.tree_neighbors_model import TreeNeighborsModel
 from models.zinc_model import ZincGNN
+from models.qm9_model import QM9GNN
 
 from tasks.tree_neighbors_match import TreeNeighborsMatch
 from tasks.zinc_dataset import Zinc
+from tasks.qm9_dataset import Qm9
 
 
 class Task(Enum):
     NEIGHBORS_MATCH = auto()
     ZINC = auto()
+    QM9 = auto()
 
     @staticmethod
     def from_string(s):
@@ -24,6 +27,9 @@ class Task(Enum):
             return dataset.generate_data(max_samples, gen_k_hop)
         elif self is Task.ZINC:
             dataset = Zinc()
+            return dataset.get_dataset(max_samples, gen_k_hop)
+        elif self is Task.QM9:
+            dataset = Qm9()
             return dataset.get_dataset(max_samples, gen_k_hop)
         else:
             return None
@@ -45,6 +51,19 @@ class Task(Enum):
             )
         elif self is Task.ZINC:
             return ZincGNN(
+                gnn_type=args['type'],
+                num_layers=args['num_layers'],
+                dim0=dataset_args['dim0'],
+                h_dim=args['dim'],
+                out_dim=dataset_args['out_dim'],
+                last_layer=args['last_layer'],
+                unroll=args['unroll'],
+                layer_norm=not args['no_layer_norm'],
+                use_activation=not args['no_activation'],
+                use_residual=not args['no_residual']
+            )
+        elif self is Task.QM9:
+            return QM9GNN(
                 gnn_type=args['type'],
                 num_layers=args['num_layers'],
                 dim0=dataset_args['dim0'],

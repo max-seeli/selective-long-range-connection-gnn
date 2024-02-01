@@ -15,7 +15,7 @@ def run(params):
 
 if __name__ == '__main__':
     args = ap.ArgumentParser()
-    args.add_argument('--task', type=str, default='NEIGHBORS_MATCH', choices=['NEIGHBORS_MATCH', 'ZINC'], help='Task to run')
+    args.add_argument('--task', type=str, default='NEIGHBORS_MATCH', choices=['NEIGHBORS_MATCH', 'ZINC', 'QM9'], help='Task to run')
     args.add_argument('--type', type=str, default='GCN', choices=['GCN', 'GGNN', 'GIN', 'GAT'], help='GNN type to use')
     args.add_argument('--dim', type=int, default=32, help='Hidden dimension')
     args.add_argument('--depth', type=int, default=3, help='Depth of trees from NeighborsMatch dataset (ignored if task is not NeighborsMatch)')
@@ -37,7 +37,7 @@ if __name__ == '__main__':
     args.add_argument('--max_samples', type=int, default=32000, help='Maximum number of samples to use from NeighborsMatch dataset')
     args.add_argument('--learning_rate', type=float, default=0.001, help='Learning rate')
     args.add_argument('--weight_decay', type=float, default=0.0, help='Weight decay')
-    args.add_argument('--k_fold', type=int, default=1, help='Number of folds for cross validation')
+    args.add_argument('--k_fold', type=int, default=2, help='Number of folds for cross validation')
     args = args.parse_args()
 
     task = Task.from_string(args.task)
