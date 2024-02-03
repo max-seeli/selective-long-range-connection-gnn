@@ -1,5 +1,5 @@
 from torch_geometric.datasets import QM9
-from torch.nn import functional as F
+from torch.nn import L1Loss
 
 import slrc
 from tqdm import tqdm
@@ -9,7 +9,7 @@ class Qm9(object):
     def __init__(self):
         super(Qm9, self).__init__()
         
-        self.criterion = F.mae_loss
+        self.criterion = L1Loss()
         
         self.data = QM9(root='/tmp/QM9', pre_transform=self.data_preprocessing)
         
