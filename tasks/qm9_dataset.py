@@ -9,7 +9,7 @@ class Qm9(object):
     def __init__(self):
         super(Qm9, self).__init__()
         
-        self.criterion = F.mse_loss
+        self.criterion = F.mae_loss
         
         self.data = QM9(root='/tmp/QM9', pre_transform=self.data_preprocessing)
         
