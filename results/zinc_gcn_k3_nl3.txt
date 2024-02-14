@@ -1,493 +1,0 @@
-nohup: ignoring input
-Creating k-hop graphs:   0%|          | 0/12000 [00:00<?, ?graphs/s]Creating k-hop graphs:   0%|          | 29/12000 [00:00<00:41, 287.90graphs/s]Creating k-hop graphs:   0%|          | 58/12000 [00:00<00:44, 269.40graphs/s]Creating k-hop graphs:   1%|          | 86/12000 [00:00<00:44, 268.52graphs/s]Creating k-hop graphs:   1%|          | 115/12000 [00:00<00:43, 275.58graphs/s]Creating k-hop graphs:   1%|          | 145/12000 [00:00<00:41, 283.01graphs/s]Creating k-hop graphs:   1%|▏         | 175/12000 [00:00<00:40, 288.42graphs/s]Creating k-hop graphs:   2%|▏         | 204/12000 [00:00<00:41, 281.94graphs/s]Creating k-hop graphs:   2%|▏         | 233/12000 [00:00<00:42, 277.15graphs/s]Creating k-hop graphs:   2%|▏         | 261/12000 [00:00<00:42, 277.44graphs/s]Creating k-hop graphs:   2%|▏         | 290/12000 [00:01<00:41, 279.22graphs/s]Creating k-hop graphs:   3%|▎         | 321/12000 [00:01<00:40, 287.43graphs/s]Creating k-hop graphs:   3%|▎         | 352/12000 [00:01<00:39, 293.64graphs/s]Creating k-hop graphs:   3%|▎         | 382/12000 [00:01<00:41, 278.35graphs/s]Creating k-hop graphs:   3%|▎         | 411/12000 [00:01<00:41, 276.74graphs/s]Creating k-hop graphs:   4%|▎         | 441/12000 [00:01<00:40, 282.03graphs/s]Creating k-hop graphs:   4%|▍         | 470/12000 [00:01<00:43, 267.28graphs/s]Creating k-hop graphs:   4%|▍         | 502/12000 [00:01<00:40, 281.87graphs/s]Creating k-hop graphs:   4%|▍         | 531/12000 [00:01<00:41, 274.77graphs/s]Creating k-hop graphs:   5%|▍         | 561/12000 [00:02<00:40, 279.42graphs/s]Creating k-hop graphs:   5%|▍         | 590/12000 [00:02<00:42, 267.14graphs/s]Creating k-hop graphs:   5%|▌         | 620/12000 [00:02<00:41, 274.65graphs/s]Creating k-hop graphs:   5%|▌         | 648/12000 [00:02<00:41, 271.44graphs/s]Creating k-hop graphs:   6%|▌         | 676/12000 [00:02<00:41, 272.51graphs/s]Creating k-hop graphs:   6%|▌         | 707/12000 [00:02<00:40, 281.75graphs/s]Creating k-hop graphs:   6%|▌         | 736/12000 [00:02<00:41, 270.17graphs/s]Creating k-hop graphs:   6%|▋         | 765/12000 [00:02<00:41, 273.94graphs/s]Creating k-hop graphs:   7%|▋         | 798/12000 [00:02<00:38, 289.32graphs/s]Creating k-hop graphs:   7%|▋         | 828/12000 [00:02<00:39, 283.14graphs/s]Creating k-hop graphs:   7%|▋         | 857/12000 [00:03<00:41, 271.24graphs/s]Creating k-hop graphs:   7%|▋         | 889/12000 [00:03<00:39, 283.02graphs/s]Creating k-hop graphs:   8%|▊         | 918/12000 [00:03<00:41, 266.69graphs/s]Creating k-hop graphs:   8%|▊         | 946/12000 [00:03<00:40, 270.13graphs/s]Creating k-hop graphs:   8%|▊         | 975/12000 [00:03<00:40, 275.22graphs/s]Creating k-hop graphs:   8%|▊         | 1004/12000 [00:03<00:39, 276.78graphs/s]Creating k-hop graphs:   9%|▊         | 1035/12000 [00:03<00:38, 285.31graphs/s]Creating k-hop graphs:   9%|▉         | 1066/12000 [00:03<00:37, 290.17graphs/s]Creating k-hop graphs:   9%|▉         | 1096/12000 [00:03<00:37, 288.02graphs/s]Creating k-hop graphs:   9%|▉         | 1126/12000 [00:04<00:37, 290.12graphs/s]Creating k-hop graphs:  10%|▉         | 1156/12000 [00:04<00:38, 283.95graphs/s]Creating k-hop graphs:  10%|▉         | 1185/12000 [00:04<00:39, 273.11graphs/s]Creating k-hop graphs:  10%|█         | 1213/12000 [00:04<00:40, 266.67graphs/s]Creating k-hop graphs:  10%|█         | 1240/12000 [00:04<00:41, 259.17graphs/s]Creating k-hop graphs:  11%|█         | 1268/12000 [00:04<00:41, 261.51graphs/s]Creating k-hop graphs:  11%|█         | 1298/12000 [00:04<00:39, 270.69graphs/s]Creating k-hop graphs:  11%|█         | 1329/12000 [00:04<00:38, 276.96graphs/s]Creating k-hop graphs:  11%|█▏        | 1357/12000 [00:04<00:38, 273.56graphs/s]Creating k-hop graphs:  12%|█▏        | 1385/12000 [00:05<00:39, 267.10graphs/s]Creating k-hop graphs:  12%|█▏        | 1412/12000 [00:05<00:39, 267.14graphs/s]Creating k-hop graphs:  12%|█▏        | 1439/12000 [00:05<00:40, 259.37graphs/s]Creating k-hop graphs:  12%|█▏        | 1469/12000 [00:05<00:39, 269.97graphs/s]Creating k-hop graphs:  12%|█▏        | 1498/12000 [00:05<00:38, 273.86graphs/s]Creating k-hop graphs:  13%|█▎        | 1526/12000 [00:05<00:39, 265.76graphs/s]Creating k-hop graphs:  13%|█▎        | 1553/12000 [00:05<00:39, 266.48graphs/s]Creating k-hop graphs:  13%|█▎        | 1580/12000 [00:05<00:39, 262.43graphs/s]Creating k-hop graphs:  13%|█▎        | 1611/12000 [00:05<00:37, 274.56graphs/s]Creating k-hop graphs:  14%|█▎        | 1640/12000 [00:05<00:37, 278.60graphs/s]Creating k-hop graphs:  14%|█▍        | 1669/12000 [00:06<00:36, 280.61graphs/s]Creating k-hop graphs:  14%|█▍        | 1700/12000 [00:06<00:35, 287.90graphs/s]Creating k-hop graphs:  14%|█▍        | 1730/12000 [00:06<00:35, 289.87graphs/s]Creating k-hop graphs:  15%|█▍        | 1760/12000 [00:06<00:35, 291.95graphs/s]Creating k-hop graphs:  15%|█▍        | 1790/12000 [00:06<00:35, 286.75graphs/s]Creating k-hop graphs:  15%|█▌        | 1819/12000 [00:06<00:36, 281.90graphs/s]Creating k-hop graphs:  15%|█▌        | 1848/12000 [00:06<00:36, 274.72graphs/s]Creating k-hop graphs:  16%|█▌        | 1881/12000 [00:06<00:35, 288.03graphs/s]Creating k-hop graphs:  16%|█▌        | 1910/12000 [00:06<00:35, 283.64graphs/s]Creating k-hop graphs:  16%|█▌        | 1939/12000 [00:07<00:37, 267.08graphs/s]Creating k-hop graphs:  16%|█▋        | 1971/12000 [00:07<00:35, 278.67graphs/s]Creating k-hop graphs:  17%|█▋        | 2000/12000 [00:07<00:37, 267.43graphs/s]Creating k-hop graphs:  17%|█▋        | 2028/12000 [00:07<00:36, 269.67graphs/s]Creating k-hop graphs:  17%|█▋        | 2056/12000 [00:07<00:36, 269.83graphs/s]Creating k-hop graphs:  17%|█▋        | 2084/12000 [00:07<00:36, 270.60graphs/s]Creating k-hop graphs:  18%|█▊        | 2112/12000 [00:07<00:36, 267.38graphs/s]Creating k-hop graphs:  18%|█▊        | 2140/12000 [00:07<00:36, 266.93graphs/s]Creating k-hop graphs:  18%|█▊        | 2167/12000 [00:07<00:38, 256.56graphs/s]Creating k-hop graphs:  18%|█▊        | 2193/12000 [00:07<00:38, 257.52graphs/s]Creating k-hop graphs:  18%|█▊        | 2219/12000 [00:08<00:37, 257.72graphs/s]Creating k-hop graphs:  19%|█▊        | 2246/12000 [00:08<00:37, 259.65graphs/s]Creating k-hop graphs:  19%|█▉        | 2276/12000 [00:08<00:36, 268.99graphs/s]Creating k-hop graphs:  19%|█▉        | 2303/12000 [00:08<00:37, 261.38graphs/s]Creating k-hop graphs:  19%|█▉        | 2331/12000 [00:08<00:36, 266.70graphs/s]Creating k-hop graphs:  20%|█▉        | 2358/12000 [00:08<00:36, 264.54graphs/s]Creating k-hop graphs:  20%|█▉        | 2389/12000 [00:08<00:34, 277.53graphs/s]Creating k-hop graphs:  20%|██        | 2418/12000 [00:08<00:34, 280.88graphs/s]Creating k-hop graphs:  20%|██        | 2447/12000 [00:08<00:33, 281.20graphs/s]Creating k-hop graphs:  21%|██        | 2476/12000 [00:09<00:34, 276.39graphs/s]Creating k-hop graphs:  21%|██        | 2509/12000 [00:09<00:32, 289.26graphs/s]Creating k-hop graphs:  21%|██        | 2539/12000 [00:09<00:32, 289.81graphs/s]Creating k-hop graphs:  21%|██▏       | 2569/12000 [00:09<00:32, 290.74graphs/s]Creating k-hop graphs:  22%|██▏       | 2599/12000 [00:09<00:32, 288.35graphs/s]Creating k-hop graphs:  22%|██▏       | 2632/12000 [00:09<00:31, 299.65graphs/s]Creating k-hop graphs:  22%|██▏       | 2663/12000 [00:09<00:31, 297.94graphs/s]Creating k-hop graphs:  22%|██▏       | 2693/12000 [00:09<00:32, 287.53graphs/s]Creating k-hop graphs:  23%|██▎       | 2727/12000 [00:09<00:30, 301.83graphs/s]Creating k-hop graphs:  23%|██▎       | 2758/12000 [00:09<00:31, 297.56graphs/s]Creating k-hop graphs:  23%|██▎       | 2789/12000 [00:10<00:30, 299.79graphs/s]Creating k-hop graphs:  24%|██▎       | 2820/12000 [00:10<00:31, 295.97graphs/s]Creating k-hop graphs:  24%|██▍       | 2850/12000 [00:10<00:31, 287.44graphs/s]Creating k-hop graphs:  24%|██▍       | 2881/12000 [00:10<00:31, 292.64graphs/s]Creating k-hop graphs:  24%|██▍       | 2911/12000 [00:10<00:31, 289.41graphs/s]Creating k-hop graphs:  24%|██▍       | 2940/12000 [00:10<00:32, 276.51graphs/s]Creating k-hop graphs:  25%|██▍       | 2970/12000 [00:10<00:32, 281.83graphs/s]Creating k-hop graphs:  25%|██▍       | 2999/12000 [00:10<00:31, 284.13graphs/s]Creating k-hop graphs:  25%|██▌       | 3028/12000 [00:10<00:31, 280.94graphs/s]Creating k-hop graphs:  25%|██▌       | 3057/12000 [00:11<00:31, 282.80graphs/s]Creating k-hop graphs:  26%|██▌       | 3086/12000 [00:11<00:32, 274.76graphs/s]Creating k-hop graphs:  26%|██▌       | 3114/12000 [00:11<00:32, 272.81graphs/s]Creating k-hop graphs:  26%|██▌       | 3144/12000 [00:11<00:31, 278.56graphs/s]Creating k-hop graphs:  26%|██▋       | 3172/12000 [00:11<00:32, 275.57graphs/s]Creating k-hop graphs:  27%|██▋       | 3202/12000 [00:11<00:31, 282.26graphs/s]Creating k-hop graphs:  27%|██▋       | 3231/12000 [00:11<00:31, 280.05graphs/s]Creating k-hop graphs:  27%|██▋       | 3261/12000 [00:11<00:31, 281.90graphs/s]Creating k-hop graphs:  27%|██▋       | 3293/12000 [00:11<00:29, 291.99graphs/s]Creating k-hop graphs:  28%|██▊       | 3323/12000 [00:11<00:32, 269.61graphs/s]Creating k-hop graphs:  28%|██▊       | 3354/12000 [00:12<00:31, 276.63graphs/s]Creating k-hop graphs:  28%|██▊       | 3382/12000 [00:12<00:35, 244.49graphs/s]Creating k-hop graphs:  28%|██▊       | 3410/12000 [00:12<00:33, 253.00graphs/s]Creating k-hop graphs:  29%|██▊       | 3443/12000 [00:12<00:31, 271.77graphs/s]Creating k-hop graphs:  29%|██▉       | 3473/12000 [00:12<00:30, 275.28graphs/s]Creating k-hop graphs:  29%|██▉       | 3502/12000 [00:12<00:30, 276.92graphs/s]Creating k-hop graphs:  29%|██▉       | 3535/12000 [00:12<00:29, 291.82graphs/s]Creating k-hop graphs:  30%|██▉       | 3565/12000 [00:12<00:30, 278.90graphs/s]Creating k-hop graphs:  30%|██▉       | 3594/12000 [00:12<00:30, 277.27graphs/s]Creating k-hop graphs:  30%|███       | 3624/12000 [00:13<00:29, 281.61graphs/s]Creating k-hop graphs:  30%|███       | 3653/12000 [00:13<00:29, 280.91graphs/s]Creating k-hop graphs:  31%|███       | 3682/12000 [00:13<00:29, 277.57graphs/s]Creating k-hop graphs:  31%|███       | 3710/12000 [00:13<00:30, 270.98graphs/s]Creating k-hop graphs:  31%|███       | 3738/12000 [00:13<00:31, 260.95graphs/s]Creating k-hop graphs:  31%|███▏      | 3767/12000 [00:13<00:30, 266.20graphs/s]Creating k-hop graphs:  32%|███▏      | 3794/12000 [00:13<00:31, 262.77graphs/s]Creating k-hop graphs:  32%|███▏      | 3821/12000 [00:13<00:31, 257.35graphs/s]Creating k-hop graphs:  32%|███▏      | 3850/12000 [00:13<00:30, 264.98graphs/s]Creating k-hop graphs:  32%|███▏      | 3879/12000 [00:14<00:30, 270.67graphs/s]Creating k-hop graphs:  33%|███▎      | 3907/12000 [00:14<00:29, 270.76graphs/s]Creating k-hop graphs:  33%|███▎      | 3936/12000 [00:14<00:29, 274.00graphs/s]Creating k-hop graphs:  33%|███▎      | 3966/12000 [00:14<00:28, 281.18graphs/s]Creating k-hop graphs:  33%|███▎      | 3995/12000 [00:14<00:28, 276.76graphs/s]Creating k-hop graphs:  34%|███▎      | 4023/12000 [00:14<00:29, 271.91graphs/s]Creating k-hop graphs:  34%|███▍      | 4051/12000 [00:14<00:30, 259.77graphs/s]Creating k-hop graphs:  34%|███▍      | 4078/12000 [00:14<00:30, 257.26graphs/s]Creating k-hop graphs:  34%|███▍      | 4106/12000 [00:14<00:29, 263.14graphs/s]Creating k-hop graphs:  34%|███▍      | 4137/12000 [00:14<00:28, 273.80graphs/s]Creating k-hop graphs:  35%|███▍      | 4168/12000 [00:15<00:27, 283.20graphs/s]Creating k-hop graphs:  35%|███▍      | 4197/12000 [00:15<00:27, 279.52graphs/s]Creating k-hop graphs:  35%|███▌      | 4229/12000 [00:15<00:26, 288.57graphs/s]Creating k-hop graphs:  35%|███▌      | 4258/12000 [00:15<00:27, 286.34graphs/s]Creating k-hop graphs:  36%|███▌      | 4287/12000 [00:15<00:28, 268.52graphs/s]Creating k-hop graphs:  36%|███▌      | 4317/12000 [00:15<00:27, 275.07graphs/s]Creating k-hop graphs:  36%|███▌      | 4345/12000 [00:15<00:28, 270.16graphs/s]Creating k-hop graphs:  36%|███▋      | 4375/12000 [00:15<00:27, 278.49graphs/s]Creating k-hop graphs:  37%|███▋      | 4403/12000 [00:15<00:27, 277.55graphs/s]Creating k-hop graphs:  37%|███▋      | 4435/12000 [00:16<00:26, 288.18graphs/s]Creating k-hop graphs:  37%|███▋      | 4464/12000 [00:16<00:26, 288.02graphs/s]Creating k-hop graphs:  37%|███▋      | 4493/12000 [00:16<00:26, 278.74graphs/s]Creating k-hop graphs:  38%|███▊      | 4521/12000 [00:16<00:26, 278.58graphs/s]Creating k-hop graphs:  38%|███▊      | 4549/12000 [00:16<00:27, 266.57graphs/s]Creating k-hop graphs:  38%|███▊      | 4578/12000 [00:16<00:27, 272.93graphs/s]Creating k-hop graphs:  38%|███▊      | 4609/12000 [00:16<00:26, 281.64graphs/s]Creating k-hop graphs:  39%|███▊      | 4638/12000 [00:16<00:26, 281.93graphs/s]Creating k-hop graphs:  39%|███▉      | 4667/12000 [00:16<00:26, 272.74graphs/s]Creating k-hop graphs:  39%|███▉      | 4695/12000 [00:16<00:26, 273.74graphs/s]Creating k-hop graphs:  39%|███▉      | 4723/12000 [00:17<00:26, 274.42graphs/s]Creating k-hop graphs:  40%|███▉      | 4753/12000 [00:17<00:25, 281.57graphs/s]Creating k-hop graphs:  40%|███▉      | 4782/12000 [00:17<00:26, 273.24graphs/s]Creating k-hop graphs:  40%|████      | 4811/12000 [00:17<00:26, 275.98graphs/s]Creating k-hop graphs:  40%|████      | 4845/12000 [00:17<00:24, 290.94graphs/s]Creating k-hop graphs:  41%|████      | 4875/12000 [00:17<00:26, 271.89graphs/s]Creating k-hop graphs:  41%|████      | 4904/12000 [00:17<00:25, 274.46graphs/s]Creating k-hop graphs:  41%|████      | 4932/12000 [00:17<00:25, 274.26graphs/s]Creating k-hop graphs:  41%|████▏     | 4961/12000 [00:17<00:25, 277.03graphs/s]Creating k-hop graphs:  42%|████▏     | 4989/12000 [00:18<00:25, 272.20graphs/s]Creating k-hop graphs:  42%|████▏     | 5017/12000 [00:18<00:26, 262.91graphs/s]Creating k-hop graphs:  42%|████▏     | 5047/12000 [00:18<00:25, 271.91graphs/s]Creating k-hop graphs:  42%|████▏     | 5075/12000 [00:18<00:26, 265.67graphs/s]Creating k-hop graphs:  43%|████▎     | 5105/12000 [00:18<00:25, 273.82graphs/s]Creating k-hop graphs:  43%|████▎     | 5133/12000 [00:18<00:26, 263.33graphs/s]Creating k-hop graphs:  43%|████▎     | 5160/12000 [00:18<00:26, 255.82graphs/s]Creating k-hop graphs:  43%|████▎     | 5186/12000 [00:18<00:27, 247.72graphs/s]Creating k-hop graphs:  43%|████▎     | 5211/12000 [00:18<00:27, 247.72graphs/s]Creating k-hop graphs:  44%|████▎     | 5240/12000 [00:19<00:26, 258.92graphs/s]Creating k-hop graphs:  44%|████▍     | 5268/12000 [00:19<00:25, 263.42graphs/s]Creating k-hop graphs:  44%|████▍     | 5296/12000 [00:19<00:25, 267.36graphs/s]Creating k-hop graphs:  44%|████▍     | 5326/12000 [00:19<00:24, 276.49graphs/s]Creating k-hop graphs:  45%|████▍     | 5354/12000 [00:19<00:24, 274.44graphs/s]Creating k-hop graphs:  45%|████▍     | 5382/12000 [00:19<00:24, 273.39graphs/s]Creating k-hop graphs:  45%|████▌     | 5411/12000 [00:19<00:23, 276.44graphs/s]Creating k-hop graphs:  45%|████▌     | 5439/12000 [00:19<00:23, 274.20graphs/s]Creating k-hop graphs:  46%|████▌     | 5467/12000 [00:19<00:24, 269.79graphs/s]Creating k-hop graphs:  46%|████▌     | 5495/12000 [00:19<00:24, 265.31graphs/s]Creating k-hop graphs:  46%|████▌     | 5522/12000 [00:20<00:24, 261.41graphs/s]Creating k-hop graphs:  46%|████▋     | 5551/12000 [00:20<00:24, 267.32graphs/s]Creating k-hop graphs:  46%|████▋     | 5579/12000 [00:20<00:23, 268.93graphs/s]Creating k-hop graphs:  47%|████▋     | 5606/12000 [00:20<00:24, 266.37graphs/s]Creating k-hop graphs:  47%|████▋     | 5638/12000 [00:20<00:22, 281.06graphs/s]Creating k-hop graphs:  47%|████▋     | 5667/12000 [00:20<00:22, 281.25graphs/s]Creating k-hop graphs:  47%|████▋     | 5696/12000 [00:20<00:22, 278.94graphs/s]Creating k-hop graphs:  48%|████▊     | 5724/12000 [00:20<00:22, 276.45graphs/s]Creating k-hop graphs:  48%|████▊     | 5753/12000 [00:20<00:22, 280.06graphs/s]Creating k-hop graphs:  48%|████▊     | 5782/12000 [00:21<00:22, 271.66graphs/s]Creating k-hop graphs:  48%|████▊     | 5810/12000 [00:21<00:22, 273.94graphs/s]Creating k-hop graphs:  49%|████▊     | 5838/12000 [00:21<00:22, 270.91graphs/s]Creating k-hop graphs:  49%|████▉     | 5867/12000 [00:21<00:22, 275.49graphs/s]Creating k-hop graphs:  49%|████▉     | 5895/12000 [00:21<00:22, 267.20graphs/s]Creating k-hop graphs:  49%|████▉     | 5922/12000 [00:21<00:22, 265.48graphs/s]Creating k-hop graphs:  50%|████▉     | 5949/12000 [00:21<00:22, 266.46graphs/s]Creating k-hop graphs:  50%|████▉     | 5978/12000 [00:21<00:22, 269.70graphs/s]Creating k-hop graphs:  50%|█████     | 6008/12000 [00:21<00:21, 275.18graphs/s]Creating k-hop graphs:  50%|█████     | 6038/12000 [00:21<00:21, 281.54graphs/s]Creating k-hop graphs:  51%|█████     | 6067/12000 [00:22<00:20, 283.16graphs/s]Creating k-hop graphs:  51%|█████     | 6100/12000 [00:22<00:19, 296.78graphs/s]Creating k-hop graphs:  51%|█████     | 6130/12000 [00:22<00:20, 285.78graphs/s]Creating k-hop graphs:  51%|█████▏    | 6159/12000 [00:22<00:21, 270.79graphs/s]Creating k-hop graphs:  52%|█████▏    | 6187/12000 [00:22<00:23, 252.28graphs/s]Creating k-hop graphs:  52%|█████▏    | 6218/12000 [00:22<00:21, 265.79graphs/s]Creating k-hop graphs:  52%|█████▏    | 6245/12000 [00:22<00:22, 260.79graphs/s]Creating k-hop graphs:  52%|█████▏    | 6274/12000 [00:22<00:21, 268.27graphs/s]Creating k-hop graphs:  53%|█████▎    | 6302/12000 [00:22<00:21, 264.47graphs/s]Creating k-hop graphs:  53%|█████▎    | 6329/12000 [00:23<00:21, 264.23graphs/s]Creating k-hop graphs:  53%|█████▎    | 6360/12000 [00:23<00:20, 271.81graphs/s]Creating k-hop graphs:  53%|█████▎    | 6388/12000 [00:23<00:21, 265.44graphs/s]Creating k-hop graphs:  53%|█████▎    | 6415/12000 [00:23<00:21, 265.10graphs/s]Creating k-hop graphs:  54%|█████▎    | 6442/12000 [00:23<00:21, 260.15graphs/s]Creating k-hop graphs:  54%|█████▍    | 6470/12000 [00:23<00:21, 261.67graphs/s]Creating k-hop graphs:  54%|█████▍    | 6499/12000 [00:23<00:20, 269.53graphs/s]Creating k-hop graphs:  54%|█████▍    | 6527/12000 [00:23<00:20, 267.97graphs/s]Creating k-hop graphs:  55%|█████▍    | 6555/12000 [00:23<00:20, 270.05graphs/s]Creating k-hop graphs:  55%|█████▍    | 6587/12000 [00:23<00:19, 283.03graphs/s]Creating k-hop graphs:  55%|█████▌    | 6616/12000 [00:24<00:20, 267.77graphs/s]Creating k-hop graphs:  55%|█████▌    | 6643/12000 [00:24<00:20, 265.89graphs/s]Creating k-hop graphs:  56%|█████▌    | 6670/12000 [00:24<00:20, 265.13graphs/s]Creating k-hop graphs:  56%|█████▌    | 6697/12000 [00:24<00:20, 262.66graphs/s]Creating k-hop graphs:  56%|█████▌    | 6724/12000 [00:24<00:20, 259.54graphs/s]Creating k-hop graphs:  56%|█████▋    | 6751/12000 [00:24<00:20, 260.96graphs/s]Creating k-hop graphs:  56%|█████▋    | 6778/12000 [00:24<00:19, 261.22graphs/s]Creating k-hop graphs:  57%|█████▋    | 6805/12000 [00:24<00:20, 259.55graphs/s]Creating k-hop graphs:  57%|█████▋    | 6834/12000 [00:24<00:19, 267.00graphs/s]Creating k-hop graphs:  57%|█████▋    | 6863/12000 [00:25<00:18, 271.90graphs/s]Creating k-hop graphs:  57%|█████▋    | 6891/12000 [00:25<00:18, 272.18graphs/s]Creating k-hop graphs:  58%|█████▊    | 6919/12000 [00:25<00:18, 270.08graphs/s]Creating k-hop graphs:  58%|█████▊    | 6947/12000 [00:25<00:19, 265.47graphs/s]Creating k-hop graphs:  58%|█████▊    | 6978/12000 [00:25<00:18, 278.25graphs/s]Creating k-hop graphs:  58%|█████▊    | 7006/12000 [00:25<00:18, 274.37graphs/s]Creating k-hop graphs:  59%|█████▊    | 7038/12000 [00:25<00:17, 287.47graphs/s]Creating k-hop graphs:  59%|█████▉    | 7067/12000 [00:25<00:17, 281.85graphs/s]Creating k-hop graphs:  59%|█████▉    | 7098/12000 [00:25<00:17, 287.54graphs/s]Creating k-hop graphs:  59%|█████▉    | 7128/12000 [00:25<00:16, 288.08graphs/s]Creating k-hop graphs:  60%|█████▉    | 7157/12000 [00:26<00:17, 277.37graphs/s]Creating k-hop graphs:  60%|█████▉    | 7189/12000 [00:26<00:16, 285.43graphs/s]Creating k-hop graphs:  60%|██████    | 7219/12000 [00:26<00:16, 288.14graphs/s]Creating k-hop graphs:  60%|██████    | 7248/12000 [00:26<00:17, 275.95graphs/s]Creating k-hop graphs:  61%|██████    | 7278/12000 [00:26<00:16, 281.54graphs/s]Creating k-hop graphs:  61%|██████    | 7307/12000 [00:26<00:16, 281.24graphs/s]Creating k-hop graphs:  61%|██████    | 7336/12000 [00:26<00:16, 275.33graphs/s]Creating k-hop graphs:  61%|██████▏   | 7364/12000 [00:26<00:16, 274.43graphs/s]Creating k-hop graphs:  62%|██████▏   | 7395/12000 [00:26<00:16, 279.86graphs/s]Creating k-hop graphs:  62%|██████▏   | 7424/12000 [00:27<00:16, 274.50graphs/s]Creating k-hop graphs:  62%|██████▏   | 7454/12000 [00:27<00:16, 280.69graphs/s]Creating k-hop graphs:  62%|██████▏   | 7483/12000 [00:27<00:16, 274.19graphs/s]Creating k-hop graphs:  63%|██████▎   | 7511/12000 [00:27<00:16, 265.07graphs/s]Creating k-hop graphs:  63%|██████▎   | 7540/12000 [00:27<00:16, 269.18graphs/s]Creating k-hop graphs:  63%|██████▎   | 7568/12000 [00:27<00:16, 271.00graphs/s]Creating k-hop graphs:  63%|██████▎   | 7596/12000 [00:27<00:16, 270.60graphs/s]Creating k-hop graphs:  64%|██████▎   | 7627/12000 [00:27<00:15, 279.38graphs/s]Creating k-hop graphs:  64%|██████▍   | 7659/12000 [00:27<00:14, 290.04graphs/s]Creating k-hop graphs:  64%|██████▍   | 7691/12000 [00:27<00:14, 296.92graphs/s]Creating k-hop graphs:  64%|██████▍   | 7721/12000 [00:28<00:14, 287.58graphs/s]Creating k-hop graphs:  65%|██████▍   | 7751/12000 [00:28<00:14, 286.28graphs/s]Creating k-hop graphs:  65%|██████▍   | 7780/12000 [00:28<00:15, 274.62graphs/s]Creating k-hop graphs:  65%|██████▌   | 7808/12000 [00:28<00:15, 271.99graphs/s]Creating k-hop graphs:  65%|██████▌   | 7836/12000 [00:28<00:15, 271.20graphs/s]Creating k-hop graphs:  66%|██████▌   | 7864/12000 [00:28<00:15, 269.36graphs/s]Creating k-hop graphs:  66%|██████▌   | 7891/12000 [00:28<00:15, 261.48graphs/s]Creating k-hop graphs:  66%|██████▌   | 7918/12000 [00:28<00:15, 262.73graphs/s]Creating k-hop graphs:  66%|██████▌   | 7948/12000 [00:28<00:14, 270.19graphs/s]Creating k-hop graphs:  66%|██████▋   | 7976/12000 [00:29<00:14, 269.73graphs/s]Creating k-hop graphs:  67%|██████▋   | 8003/12000 [00:29<00:15, 261.01graphs/s]Creating k-hop graphs:  67%|██████▋   | 8034/12000 [00:29<00:14, 271.01graphs/s]Creating k-hop graphs:  67%|██████▋   | 8062/12000 [00:29<00:14, 271.17graphs/s]Creating k-hop graphs:  67%|██████▋   | 8090/12000 [00:29<00:14, 269.30graphs/s]Creating k-hop graphs:  68%|██████▊   | 8120/12000 [00:29<00:14, 273.26graphs/s]Creating k-hop graphs:  68%|██████▊   | 8148/12000 [00:29<00:14, 261.07graphs/s]Creating k-hop graphs:  68%|██████▊   | 8177/12000 [00:29<00:14, 267.69graphs/s]Creating k-hop graphs:  68%|██████▊   | 8206/12000 [00:29<00:13, 272.38graphs/s]Creating k-hop graphs:  69%|██████▊   | 8234/12000 [00:30<00:13, 271.16graphs/s]Creating k-hop graphs:  69%|██████▉   | 8263/12000 [00:30<00:13, 273.74graphs/s]Creating k-hop graphs:  69%|██████▉   | 8293/12000 [00:30<00:13, 279.31graphs/s]Creating k-hop graphs:  69%|██████▉   | 8321/12000 [00:30<00:13, 271.70graphs/s]Creating k-hop graphs:  70%|██████▉   | 8349/12000 [00:30<00:13, 262.98graphs/s]Creating k-hop graphs:  70%|██████▉   | 8377/12000 [00:30<00:13, 266.07graphs/s]Creating k-hop graphs:  70%|███████   | 8404/12000 [00:30<00:14, 246.05graphs/s]Creating k-hop graphs:  70%|███████   | 8437/12000 [00:30<00:13, 268.04graphs/s]Creating k-hop graphs:  71%|███████   | 8465/12000 [00:30<00:13, 266.68graphs/s]Creating k-hop graphs:  71%|███████   | 8493/12000 [00:30<00:13, 269.56graphs/s]Creating k-hop graphs:  71%|███████   | 8522/12000 [00:31<00:12, 273.01graphs/s]Creating k-hop graphs:  71%|███████▏  | 8551/12000 [00:31<00:12, 277.04graphs/s]Creating k-hop graphs:  71%|███████▏  | 8579/12000 [00:31<00:12, 277.26graphs/s]Creating k-hop graphs:  72%|███████▏  | 8608/12000 [00:31<00:12, 280.93graphs/s]Creating k-hop graphs:  72%|███████▏  | 8637/12000 [00:31<00:12, 277.58graphs/s]Creating k-hop graphs:  72%|███████▏  | 8667/12000 [00:31<00:11, 282.04graphs/s]Creating k-hop graphs:  72%|███████▏  | 8696/12000 [00:31<00:11, 283.71graphs/s]Creating k-hop graphs:  73%|███████▎  | 8725/12000 [00:31<00:11, 273.95graphs/s]Creating k-hop graphs:  73%|███████▎  | 8753/12000 [00:31<00:11, 270.80graphs/s]Creating k-hop graphs:  73%|███████▎  | 8781/12000 [00:32<00:12, 261.83graphs/s]Creating k-hop graphs:  73%|███████▎  | 8808/12000 [00:32<00:12, 253.14graphs/s]Creating k-hop graphs:  74%|███████▎  | 8834/12000 [00:32<00:12, 245.38graphs/s]Creating k-hop graphs:  74%|███████▍  | 8865/12000 [00:32<00:11, 261.29graphs/s]Creating k-hop graphs:  74%|███████▍  | 8892/12000 [00:32<00:12, 248.98graphs/s]Creating k-hop graphs:  74%|███████▍  | 8921/12000 [00:32<00:11, 259.87graphs/s]Creating k-hop graphs:  75%|███████▍  | 8950/12000 [00:32<00:11, 267.52graphs/s]Creating k-hop graphs:  75%|███████▍  | 8982/12000 [00:32<00:10, 281.33graphs/s]Creating k-hop graphs:  75%|███████▌  | 9011/12000 [00:32<00:10, 272.44graphs/s]Creating k-hop graphs:  75%|███████▌  | 9039/12000 [00:33<00:10, 272.22graphs/s]Creating k-hop graphs:  76%|███████▌  | 9067/12000 [00:33<00:11, 262.14graphs/s]Creating k-hop graphs:  76%|███████▌  | 9099/12000 [00:33<00:10, 275.75graphs/s]Creating k-hop graphs:  76%|███████▌  | 9129/12000 [00:33<00:10, 281.63graphs/s]Creating k-hop graphs:  76%|███████▋  | 9158/12000 [00:33<00:10, 277.03graphs/s]Creating k-hop graphs:  77%|███████▋  | 9186/12000 [00:33<00:10, 270.83graphs/s]Creating k-hop graphs:  77%|███████▋  | 9214/12000 [00:33<00:10, 265.68graphs/s]Creating k-hop graphs:  77%|███████▋  | 9243/12000 [00:33<00:10, 270.90graphs/s]Creating k-hop graphs:  77%|███████▋  | 9271/12000 [00:33<00:10, 270.14graphs/s]Creating k-hop graphs:  78%|███████▊  | 9303/12000 [00:33<00:09, 283.76graphs/s]Creating k-hop graphs:  78%|███████▊  | 9332/12000 [00:34<00:11, 228.26graphs/s]Creating k-hop graphs:  78%|███████▊  | 9359/12000 [00:34<00:11, 238.14graphs/s]Creating k-hop graphs:  78%|███████▊  | 9387/12000 [00:34<00:10, 246.83graphs/s]Creating k-hop graphs:  78%|███████▊  | 9415/12000 [00:34<00:10, 252.48graphs/s]Creating k-hop graphs:  79%|███████▊  | 9444/12000 [00:34<00:09, 262.75graphs/s]Creating k-hop graphs:  79%|███████▉  | 9477/12000 [00:34<00:09, 278.64graphs/s]Creating k-hop graphs:  79%|███████▉  | 9506/12000 [00:34<00:09, 271.02graphs/s]Creating k-hop graphs:  79%|███████▉  | 9534/12000 [00:34<00:09, 271.34graphs/s]Creating k-hop graphs:  80%|███████▉  | 9563/12000 [00:34<00:08, 273.87graphs/s]Creating k-hop graphs:  80%|███████▉  | 9593/12000 [00:35<00:08, 279.91graphs/s]Creating k-hop graphs:  80%|████████  | 9622/12000 [00:35<00:08, 274.69graphs/s]Creating k-hop graphs:  80%|████████  | 9650/12000 [00:35<00:08, 271.81graphs/s]Creating k-hop graphs:  81%|████████  | 9678/12000 [00:35<00:08, 273.42graphs/s]Creating k-hop graphs:  81%|████████  | 9706/12000 [00:35<00:08, 270.70graphs/s]Creating k-hop graphs:  81%|████████  | 9734/12000 [00:35<00:08, 271.53graphs/s]Creating k-hop graphs:  81%|████████▏ | 9762/12000 [00:35<00:08, 272.30graphs/s]Creating k-hop graphs:  82%|████████▏ | 9793/12000 [00:35<00:07, 281.15graphs/s]Creating k-hop graphs:  82%|████████▏ | 9822/12000 [00:35<00:08, 262.33graphs/s]Creating k-hop graphs:  82%|████████▏ | 9853/12000 [00:36<00:07, 275.51graphs/s]Creating k-hop graphs:  82%|████████▏ | 9882/12000 [00:36<00:07, 277.44graphs/s]Creating k-hop graphs:  83%|████████▎ | 9910/12000 [00:36<00:07, 263.46graphs/s]Creating k-hop graphs:  83%|████████▎ | 9938/12000 [00:36<00:07, 266.65graphs/s]Creating k-hop graphs:  83%|████████▎ | 9966/12000 [00:36<00:07, 268.21graphs/s]Creating k-hop graphs:  83%|████████▎ | 9993/12000 [00:36<00:07, 262.75graphs/s]Creating k-hop graphs:  84%|████████▎ | 10022/12000 [00:36<00:07, 270.06graphs/s]Creating k-hop graphs:  84%|████████▍ | 10052/12000 [00:36<00:07, 274.76graphs/s]Creating k-hop graphs:  84%|████████▍ | 10080/12000 [00:36<00:07, 265.00graphs/s]Creating k-hop graphs:  84%|████████▍ | 10109/12000 [00:37<00:06, 270.27graphs/s]Creating k-hop graphs:  84%|████████▍ | 10139/12000 [00:37<00:06, 278.02graphs/s]Creating k-hop graphs:  85%|████████▍ | 10170/12000 [00:37<00:06, 286.69graphs/s]Creating k-hop graphs:  85%|████████▍ | 10199/12000 [00:37<00:06, 278.57graphs/s]Creating k-hop graphs:  85%|████████▌ | 10229/12000 [00:37<00:06, 282.40graphs/s]Creating k-hop graphs:  85%|████████▌ | 10259/12000 [00:37<00:06, 284.88graphs/s]Creating k-hop graphs:  86%|████████▌ | 10288/12000 [00:37<00:06, 276.41graphs/s]Creating k-hop graphs:  86%|████████▌ | 10319/12000 [00:37<00:05, 284.66graphs/s]Creating k-hop graphs:  86%|████████▌ | 10348/12000 [00:37<00:05, 284.60graphs/s]Creating k-hop graphs:  86%|████████▋ | 10378/12000 [00:37<00:05, 286.49graphs/s]Creating k-hop graphs:  87%|████████▋ | 10407/12000 [00:38<00:05, 282.45graphs/s]Creating k-hop graphs:  87%|████████▋ | 10436/12000 [00:38<00:05, 270.70graphs/s]Creating k-hop graphs:  87%|████████▋ | 10464/12000 [00:38<00:05, 261.45graphs/s]Creating k-hop graphs:  87%|████████▋ | 10491/12000 [00:38<00:05, 261.11graphs/s]Creating k-hop graphs:  88%|████████▊ | 10518/12000 [00:38<00:05, 252.43graphs/s]Creating k-hop graphs:  88%|████████▊ | 10545/12000 [00:38<00:05, 256.70graphs/s]Creating k-hop graphs:  88%|████████▊ | 10571/12000 [00:38<00:05, 249.26graphs/s]Creating k-hop graphs:  88%|████████▊ | 10600/12000 [00:38<00:05, 258.76graphs/s]Creating k-hop graphs:  89%|████████▊ | 10627/12000 [00:38<00:05, 260.62graphs/s]Creating k-hop graphs:  89%|████████▉ | 10656/12000 [00:39<00:05, 266.19graphs/s]Creating k-hop graphs:  89%|████████▉ | 10684/12000 [00:39<00:04, 267.46graphs/s]Creating k-hop graphs:  89%|████████▉ | 10713/12000 [00:39<00:04, 271.17graphs/s]Creating k-hop graphs:  90%|████████▉ | 10742/12000 [00:39<00:04, 275.47graphs/s]Creating k-hop graphs:  90%|████████▉ | 10772/12000 [00:39<00:04, 281.65graphs/s]Creating k-hop graphs:  90%|█████████ | 10801/12000 [00:39<00:04, 282.44graphs/s]Creating k-hop graphs:  90%|█████████ | 10830/12000 [00:39<00:04, 279.47graphs/s]Creating k-hop graphs:  90%|█████████ | 10858/12000 [00:39<00:04, 275.87graphs/s]Creating k-hop graphs:  91%|█████████ | 10889/12000 [00:39<00:03, 283.34graphs/s]Creating k-hop graphs:  91%|█████████ | 10918/12000 [00:39<00:03, 275.97graphs/s]Creating k-hop graphs:  91%|█████████ | 10946/12000 [00:40<00:03, 274.72graphs/s]Creating k-hop graphs:  91%|█████████▏| 10975/12000 [00:40<00:03, 276.85graphs/s]Creating k-hop graphs:  92%|█████████▏| 11003/12000 [00:40<00:03, 270.05graphs/s]Creating k-hop graphs:  92%|█████████▏| 11032/12000 [00:40<00:03, 272.17graphs/s]Creating k-hop graphs:  92%|█████████▏| 11060/12000 [00:40<00:03, 270.92graphs/s]Creating k-hop graphs:  92%|█████████▏| 11093/12000 [00:40<00:03, 284.50graphs/s]Creating k-hop graphs:  93%|█████████▎| 11124/12000 [00:40<00:03, 290.25graphs/s]Creating k-hop graphs:  93%|█████████▎| 11154/12000 [00:40<00:02, 286.41graphs/s]Creating k-hop graphs:  93%|█████████▎| 11183/12000 [00:40<00:02, 276.75graphs/s]Creating k-hop graphs:  93%|█████████▎| 11213/12000 [00:41<00:02, 281.96graphs/s]Creating k-hop graphs:  94%|█████████▎| 11242/12000 [00:41<00:02, 275.10graphs/s]Creating k-hop graphs:  94%|█████████▍| 11270/12000 [00:41<00:02, 269.50graphs/s]Creating k-hop graphs:  94%|█████████▍| 11299/12000 [00:41<00:02, 275.15graphs/s]Creating k-hop graphs:  94%|█████████▍| 11327/12000 [00:41<00:02, 273.63graphs/s]Creating k-hop graphs:  95%|█████████▍| 11357/12000 [00:41<00:02, 280.92graphs/s]Creating k-hop graphs:  95%|█████████▍| 11386/12000 [00:41<00:02, 279.13graphs/s]Creating k-hop graphs:  95%|█████████▌| 11414/12000 [00:41<00:02, 271.82graphs/s]Creating k-hop graphs:  95%|█████████▌| 11442/12000 [00:41<00:02, 270.24graphs/s]Creating k-hop graphs:  96%|█████████▌| 11470/12000 [00:41<00:01, 270.14graphs/s]Creating k-hop graphs:  96%|█████████▌| 11498/12000 [00:42<00:01, 267.66graphs/s]Creating k-hop graphs:  96%|█████████▌| 11525/12000 [00:42<00:01, 263.10graphs/s]Creating k-hop graphs:  96%|█████████▋| 11552/12000 [00:42<00:01, 264.05graphs/s]Creating k-hop graphs:  97%|█████████▋| 11582/12000 [00:42<00:01, 274.37graphs/s]Creating k-hop graphs:  97%|█████████▋| 11611/12000 [00:42<00:01, 276.37graphs/s]Creating k-hop graphs:  97%|█████████▋| 11639/12000 [00:42<00:01, 276.92graphs/s]Creating k-hop graphs:  97%|█████████▋| 11667/12000 [00:42<00:01, 271.57graphs/s]Creating k-hop graphs:  97%|█████████▋| 11696/12000 [00:42<00:01, 276.15graphs/s]Creating k-hop graphs:  98%|█████████▊| 11724/12000 [00:42<00:01, 270.96graphs/s]Creating k-hop graphs:  98%|█████████▊| 11752/12000 [00:43<00:00, 265.97graphs/s]Creating k-hop graphs:  98%|█████████▊| 11779/12000 [00:43<00:00, 263.90graphs/s]Creating k-hop graphs:  98%|█████████▊| 11806/12000 [00:43<00:00, 260.85graphs/s]Creating k-hop graphs:  99%|█████████▊| 11833/12000 [00:43<00:00, 257.73graphs/s]Creating k-hop graphs:  99%|█████████▉| 11859/12000 [00:43<00:00, 254.21graphs/s]Creating k-hop graphs:  99%|█████████▉| 11886/12000 [00:43<00:00, 255.73graphs/s]Creating k-hop graphs:  99%|█████████▉| 11912/12000 [00:43<00:00, 252.77graphs/s]Creating k-hop graphs:  99%|█████████▉| 11938/12000 [00:43<00:00, 243.69graphs/s]Creating k-hop graphs: 100%|█████████▉| 11963/12000 [00:43<00:00, 232.01graphs/s]Creating k-hop graphs: 100%|█████████▉| 11991/12000 [00:43<00:00, 244.52graphs/s]Creating k-hop graphs: 100%|██████████| 12000/12000 [00:44<00:00, 272.65graphs/s]
-Starting experiment
-task: Task.ZINC
-type: GNN_TYPE.GCN
-dim: 32
-depth: 3
-num_layers: 3
-train_fraction: 0.8
-max_epochs: 50000
-eval_every: 10
-batch_size: 1024
-accum_grad: 1
-patience: 20
-stop: STOP.TRAIN
-loader_workers: 0
-last_layer: LAST_LAYER.K_HOP
-k_hop: 3
-no_layer_norm: False
-no_activation: False
-no_residual: False
-unroll: False
-max_samples: 32000
-learning_rate: 0.001
-weight_decay: 0.0
-
-Training examples: 9600, test examples: 2400
-Starting training
-Epoch 10, LR: [0.001]: Train loss: 2.9530702, Test loss: 3.9360010 (new best train)
-Epoch 20, LR: [0.001]: Train loss: 2.6035703, Test loss: 3.5690229 (new best train)
-Epoch 30, LR: [0.001]: Train loss: 2.2360483, Test loss: 3.1550935 (new best train)
-Epoch 40, LR: [0.001]: Train loss: 1.9386274, Test loss: 2.8984791 (new best train)
-Epoch 50, LR: [0.001]: Train loss: 1.7352250, Test loss: 2.6786402 (new best train)
-Epoch 60, LR: [0.001]: Train loss: 1.6345630, Test loss: 2.6504203 (new best train)
-Epoch 70, LR: [0.001]: Train loss: 1.6134962, Test loss: 2.5727756 (new best train)
-Epoch 80, LR: [0.001]: Train loss: 1.5426979, Test loss: 2.5313636 (new best train)
-Epoch 90, LR: [0.001]: Train loss: 1.5364363, Test loss: 2.4728286 (new best train)
-Epoch 100, LR: [0.001]: Train loss: 1.5105936, Test loss: 2.4437187 (new best train)
-Epoch 110, LR: [0.001]: Train loss: 1.4860760, Test loss: 2.4774195 (new best train)
-Epoch 120, LR: [0.001]: Train loss: 1.4446210, Test loss: 2.4196910 (new best train)
-Epoch 130, LR: [0.001]: Train loss: 1.4464117, Test loss: 2.4091511
-Epoch 140, LR: [0.001]: Train loss: 1.4429343, Test loss: 2.4344058 (new best train)
-Epoch 150, LR: [0.001]: Train loss: 1.4126903, Test loss: 2.3757482 (new best train)
-Epoch 160, LR: [0.001]: Train loss: 1.4012243, Test loss: 2.3685605 (new best train)
-Epoch 170, LR: [0.001]: Train loss: 1.3863608, Test loss: 2.3697372 (new best train)
-Epoch 180, LR: [0.001]: Train loss: 1.3836989, Test loss: 2.3437279 (new best train)
-Epoch 190, LR: [0.001]: Train loss: 1.3776561, Test loss: 2.3498420 (new best train)
-Epoch 200, LR: [0.001]: Train loss: 1.3659992, Test loss: 2.3345669 (new best train)
-Epoch 210, LR: [0.001]: Train loss: 1.3849413, Test loss: 2.3497387
-Epoch 220, LR: [0.001]: Train loss: 1.3697977, Test loss: 2.3114795
-Epoch 230, LR: [0.001]: Train loss: 1.3712200, Test loss: 2.3203874
-Epoch 240, LR: [0.001]: Train loss: 1.3351102, Test loss: 2.3595615 (new best train)
-Epoch 250, LR: [0.001]: Train loss: 1.3460672, Test loss: 2.3034752
-Epoch 260, LR: [0.001]: Train loss: 1.3246529, Test loss: 2.2702691 (new best train)
-Epoch 270, LR: [0.001]: Train loss: 1.3186253, Test loss: 2.2640164 (new best train)
-Epoch 280, LR: [0.001]: Train loss: 1.3174855, Test loss: 2.2768806 (new best train)
-Epoch 290, LR: [0.001]: Train loss: 1.3127709, Test loss: 2.2718243 (new best train)
-Epoch 300, LR: [0.001]: Train loss: 1.2996669, Test loss: 2.2462525 (new best train)
-Epoch 310, LR: [0.001]: Train loss: 1.3077633, Test loss: 2.2563012
-Epoch 320, LR: [0.001]: Train loss: 1.3149053, Test loss: 2.2627639
-Epoch 330, LR: [0.001]: Train loss: 1.2924871, Test loss: 2.2278317 (new best train)
-Epoch 340, LR: [0.001]: Train loss: 1.2854702, Test loss: 2.2190262 (new best train)
-Epoch 350, LR: [0.001]: Train loss: 1.2937599, Test loss: 2.2333502
-Epoch 360, LR: [0.001]: Train loss: 1.2705851, Test loss: 2.2295338 (new best train)
-Epoch 370, LR: [0.001]: Train loss: 1.2824542, Test loss: 2.2375755
-Epoch 380, LR: [0.001]: Train loss: 1.2651469, Test loss: 2.2190434 (new best train)
-Epoch 390, LR: [0.001]: Train loss: 1.2852619, Test loss: 2.2194303
-Epoch 400, LR: [0.001]: Train loss: 1.2664261, Test loss: 2.2095718
-Epoch 410, LR: [0.001]: Train loss: 1.2635458, Test loss: 2.2344017 (new best train)
-Epoch 420, LR: [0.001]: Train loss: 1.2702679, Test loss: 2.2241084
-Epoch 430, LR: [0.001]: Train loss: 1.2640949, Test loss: 2.2488550
-Epoch 440, LR: [0.001]: Train loss: 1.2479874, Test loss: 2.1962255 (new best train)
-Epoch 450, LR: [0.001]: Train loss: 1.2668716, Test loss: 2.1980530
-Epoch 460, LR: [0.001]: Train loss: 1.2552799, Test loss: 2.2013056
-Epoch 470, LR: [0.001]: Train loss: 1.2582979, Test loss: 2.2518949
-Epoch 480, LR: [0.001]: Train loss: 1.2451549, Test loss: 2.2059734 (new best train)
-Epoch 490, LR: [0.001]: Train loss: 1.2410378, Test loss: 2.1902369 (new best train)
-Epoch 500, LR: [0.001]: Train loss: 1.2341803, Test loss: 2.2052271 (new best train)
-Epoch 510, LR: [0.001]: Train loss: 1.2342856, Test loss: 2.2049590
-Epoch 520, LR: [0.001]: Train loss: 1.2443285, Test loss: 2.1632868
-Epoch 530, LR: [0.001]: Train loss: 1.2384521, Test loss: 2.2008610
-Epoch 540, LR: [0.001]: Train loss: 1.2370365, Test loss: 2.2655210
-Epoch 550, LR: [0.001]: Train loss: 1.2459110, Test loss: 2.1957644
-Epoch 560, LR: [0.001]: Train loss: 1.2334008, Test loss: 2.2207311 (new best train)
-Epoch 570, LR: [0.001]: Train loss: 1.2278939, Test loss: 2.2224303 (new best train)
-Epoch 580, LR: [0.001]: Train loss: 1.2271322, Test loss: 2.1965377 (new best train)
-Epoch 590, LR: [0.001]: Train loss: 1.2275808, Test loss: 2.1753740
-Epoch 600, LR: [0.001]: Train loss: 1.2245889, Test loss: 2.1720584 (new best train)
-Epoch 610, LR: [0.001]: Train loss: 1.2323693, Test loss: 2.2054334
-Epoch 620, LR: [0.001]: Train loss: 1.2096651, Test loss: 2.2084084 (new best train)
-Epoch 630, LR: [0.001]: Train loss: 1.2166683, Test loss: 2.1996668
-Epoch 640, LR: [0.001]: Train loss: 1.2095719, Test loss: 2.1823653
-Epoch 650, LR: [0.001]: Train loss: 1.2008779, Test loss: 2.1715773 (new best train)
-Epoch 660, LR: [0.001]: Train loss: 1.2070721, Test loss: 2.1515942
-Epoch 670, LR: [0.001]: Train loss: 1.2351958, Test loss: 2.1811427
-Epoch 680, LR: [0.001]: Train loss: 1.1980007, Test loss: 2.1907659 (new best train)
-Epoch 690, LR: [0.001]: Train loss: 1.2189743, Test loss: 2.1931537
-Epoch 700, LR: [0.001]: Train loss: 1.1944891, Test loss: 2.1822338 (new best train)
-Epoch 710, LR: [0.001]: Train loss: 1.2103636, Test loss: 2.2488685
-Epoch 720, LR: [0.001]: Train loss: 1.2270332, Test loss: 2.2040069
-Epoch 730, LR: [0.001]: Train loss: 1.1910411, Test loss: 2.1483173 (new best train)
-Epoch 740, LR: [0.001]: Train loss: 1.2019585, Test loss: 2.1833027
-Epoch 750, LR: [0.001]: Train loss: 1.1893112, Test loss: 2.1617165 (new best train)
-Epoch 760, LR: [0.001]: Train loss: 1.1843169, Test loss: 2.1893049 (new best train)
-Epoch 770, LR: [0.001]: Train loss: 1.1935697, Test loss: 2.1744145
-Epoch 780, LR: [0.001]: Train loss: 1.1895852, Test loss: 2.1753417
-Epoch 790, LR: [0.001]: Train loss: 1.1753630, Test loss: 2.1585273 (new best train)
-Epoch 800, LR: [0.001]: Train loss: 1.1938280, Test loss: 2.1590836
-Epoch 810, LR: [0.001]: Train loss: 1.1844633, Test loss: 2.1677583
-Epoch 820, LR: [0.001]: Train loss: 1.1900957, Test loss: 2.1648531
-Epoch 830, LR: [0.001]: Train loss: 1.1886505, Test loss: 2.1377243
-Epoch 840, LR: [0.001]: Train loss: 1.1662533, Test loss: 2.1681745 (new best train)
-Epoch 850, LR: [0.001]: Train loss: 1.1771125, Test loss: 2.1431173
-Epoch 860, LR: [0.001]: Train loss: 1.1746311, Test loss: 2.1431918
-Epoch 870, LR: [0.001]: Train loss: 1.1680736, Test loss: 2.2483056
-Epoch 880, LR: [0.001]: Train loss: 1.1778880, Test loss: 2.1563104
-Epoch 890, LR: [0.001]: Train loss: 1.1747997, Test loss: 2.1463025
-Epoch 900, LR: [0.001]: Train loss: 1.1696255, Test loss: 2.1526267
-Epoch 910, LR: [0.001]: Train loss: 1.1752551, Test loss: 2.1212238
-Epoch 920, LR: [0.001]: Train loss: 1.1756377, Test loss: 2.1506259
-Epoch 930, LR: [0.001]: Train loss: 1.1583259, Test loss: 2.1434779 (new best train)
-Epoch 940, LR: [0.001]: Train loss: 1.1541226, Test loss: 2.1483869 (new best train)
-Epoch 950, LR: [0.001]: Train loss: 1.1754208, Test loss: 2.1281277
-Epoch 960, LR: [0.001]: Train loss: 1.1726010, Test loss: 2.1555764
-Epoch 970, LR: [0.001]: Train loss: 1.1641994, Test loss: 2.1606556
-Epoch 980, LR: [0.001]: Train loss: 1.1635672, Test loss: 2.1257760
-Epoch 990, LR: [0.001]: Train loss: 1.1536736, Test loss: 2.1415855 (new best train)
-Epoch 1000, LR: [0.001]: Train loss: 1.1648925, Test loss: 2.1214878
-Epoch 1010, LR: [0.001]: Train loss: 1.1546416, Test loss: 2.1337060
-Epoch 1020, LR: [0.001]: Train loss: 1.1628032, Test loss: 2.1156980
-Epoch 1030, LR: [0.001]: Train loss: 1.1512203, Test loss: 2.1426946 (new best train)
-Epoch 1040, LR: [0.001]: Train loss: 1.1444496, Test loss: 2.1499689 (new best train)
-Epoch 1050, LR: [0.001]: Train loss: 1.1432037, Test loss: 2.1375942 (new best train)
-Epoch 1060, LR: [0.001]: Train loss: 1.1609059, Test loss: 2.1276253
-Epoch 1070, LR: [0.001]: Train loss: 1.1529958, Test loss: 2.1385744
-Epoch 1080, LR: [0.001]: Train loss: 1.1495818, Test loss: 2.1336533
-Epoch 1090, LR: [0.001]: Train loss: 1.1516677, Test loss: 2.1140306
-Epoch 1100, LR: [0.001]: Train loss: 1.1453203, Test loss: 2.1244064
-Epoch 1110, LR: [0.001]: Train loss: 1.1551777, Test loss: 2.1353232
-Epoch 1120, LR: [0.001]: Train loss: 1.1377198, Test loss: 2.1208589 (new best train)
-Epoch 1130, LR: [0.001]: Train loss: 1.1382063, Test loss: 2.1217721
-Epoch 1140, LR: [0.001]: Train loss: 1.1335333, Test loss: 2.1131491 (new best train)
-Epoch 1150, LR: [0.001]: Train loss: 1.1428404, Test loss: 2.1998430
-Epoch 1160, LR: [0.001]: Train loss: 1.1468279, Test loss: 2.1508999
-Epoch 1170, LR: [0.001]: Train loss: 1.1528858, Test loss: 2.1698884
-Epoch 1180, LR: [0.001]: Train loss: 1.1411270, Test loss: 2.1168413
-Epoch 1190, LR: [0.001]: Train loss: 1.1431449, Test loss: 2.1199981
-Epoch 1200, LR: [0.001]: Train loss: 1.1334677, Test loss: 2.1302053
-Epoch 1210, LR: [0.001]: Train loss: 1.1521323, Test loss: 2.1350620
-Epoch 1220, LR: [0.001]: Train loss: 1.1317972, Test loss: 2.1245006 (new best train)
-Epoch 1230, LR: [0.001]: Train loss: 1.1323152, Test loss: 2.1744660
-Epoch 1240, LR: [0.001]: Train loss: 1.1293784, Test loss: 2.1382942 (new best train)
-Epoch 1250, LR: [0.001]: Train loss: 1.1419351, Test loss: 2.1588489
-Epoch 1260, LR: [0.001]: Train loss: 1.1316361, Test loss: 2.1283749
-Epoch 1270, LR: [0.001]: Train loss: 1.1347559, Test loss: 2.1123394
-Epoch 1280, LR: [0.001]: Train loss: 1.1401135, Test loss: 2.1527621
-Epoch 1290, LR: [0.001]: Train loss: 1.1371937, Test loss: 2.1630631
-Epoch 1300, LR: [0.001]: Train loss: 1.1275302, Test loss: 2.1225489 (new best train)
-Epoch 1310, LR: [0.001]: Train loss: 1.1180096, Test loss: 2.1216774 (new best train)
-Epoch 1320, LR: [0.001]: Train loss: 1.1158353, Test loss: 2.1186685 (new best train)
-Epoch 1330, LR: [0.001]: Train loss: 1.1247265, Test loss: 2.1484711
-Epoch 1340, LR: [0.001]: Train loss: 1.1162080, Test loss: 2.1233110
-Epoch 1350, LR: [0.001]: Train loss: 1.1375472, Test loss: 2.1703763
-Epoch 1360, LR: [0.001]: Train loss: 1.1249389, Test loss: 2.1313402
-Epoch 1370, LR: [0.001]: Train loss: 1.1223351, Test loss: 2.1737113
-Epoch 1380, LR: [0.001]: Train loss: 1.1296476, Test loss: 2.2563593
-Epoch 1390, LR: [0.001]: Train loss: 1.1193484, Test loss: 2.1214941
-Epoch 1400, LR: [0.001]: Train loss: 1.1141705, Test loss: 2.1237721 (new best train)
-Epoch 1410, LR: [0.001]: Train loss: 1.1369930, Test loss: 2.1084270
-Epoch 1420, LR: [0.001]: Train loss: 1.1211135, Test loss: 2.1435006
-Epoch 1430, LR: [0.001]: Train loss: 1.1126489, Test loss: 2.1324962 (new best train)
-Epoch 1440, LR: [0.001]: Train loss: 1.1086324, Test loss: 2.1020006 (new best train)
-Epoch 1450, LR: [0.001]: Train loss: 1.1060463, Test loss: 2.0955096 (new best train)
-Epoch 1460, LR: [0.001]: Train loss: 1.1118623, Test loss: 2.1188927
-Epoch 1470, LR: [0.001]: Train loss: 1.1223760, Test loss: 2.1040321
-Epoch 1480, LR: [0.001]: Train loss: 1.1067597, Test loss: 2.0933663
-Epoch 1490, LR: [0.001]: Train loss: 1.1069799, Test loss: 2.0998626
-Epoch 1500, LR: [0.001]: Train loss: 1.0955399, Test loss: 2.1167901 (new best train)
-Epoch 1510, LR: [0.001]: Train loss: 1.1067771, Test loss: 2.1155516
-Epoch 1520, LR: [0.001]: Train loss: 1.1029783, Test loss: 2.1428279
-Epoch 1530, LR: [0.001]: Train loss: 1.1012678, Test loss: 2.1542334
-Epoch 1540, LR: [0.001]: Train loss: 1.1063143, Test loss: 2.1021912
-Epoch 1550, LR: [0.001]: Train loss: 1.1043628, Test loss: 2.1017393
-Epoch 1560, LR: [0.001]: Train loss: 1.0957027, Test loss: 2.1134481
-Epoch 1570, LR: [0.001]: Train loss: 1.1095267, Test loss: 2.1152253
-Epoch 1580, LR: [0.001]: Train loss: 1.1229375, Test loss: 2.0911394
-Epoch 1590, LR: [0.001]: Train loss: 1.0992835, Test loss: 2.1036445
-Epoch 1600, LR: [0.001]: Train loss: 1.1016437, Test loss: 2.0885876
-Epoch 1610, LR: [0.0005]: Train loss: 1.1008916, Test loss: 2.1202737
-Epoch 1620, LR: [0.0005]: Train loss: 1.0830016, Test loss: 2.0854296 (new best train)
-Epoch 1630, LR: [0.0005]: Train loss: 1.0694971, Test loss: 2.1095071 (new best train)
-Epoch 1640, LR: [0.0005]: Train loss: 1.0721888, Test loss: 2.0846032
-Epoch 1650, LR: [0.0005]: Train loss: 1.0694018, Test loss: 2.0811924
-Epoch 1660, LR: [0.0005]: Train loss: 1.0697167, Test loss: 2.1275707
-Epoch 1670, LR: [0.0005]: Train loss: 1.0654781, Test loss: 2.0940882 (new best train)
-Epoch 1680, LR: [0.0005]: Train loss: 1.0648735, Test loss: 2.1166717 (new best train)
-Epoch 1690, LR: [0.0005]: Train loss: 1.0746695, Test loss: 2.1044353
-Epoch 1700, LR: [0.0005]: Train loss: 1.0699800, Test loss: 2.0855047
-Epoch 1710, LR: [0.0005]: Train loss: 1.0663949, Test loss: 2.1250736
-Epoch 1720, LR: [0.0005]: Train loss: 1.0746729, Test loss: 2.1094664
-Epoch 1730, LR: [0.0005]: Train loss: 1.0742563, Test loss: 2.0718945
-Epoch 1740, LR: [0.0005]: Train loss: 1.0727478, Test loss: 2.0981716
-Epoch 1750, LR: [0.0005]: Train loss: 1.0701480, Test loss: 2.1226052
-Epoch 1760, LR: [0.0005]: Train loss: 1.0661603, Test loss: 2.0888869
-Epoch 1770, LR: [0.0005]: Train loss: 1.0644484, Test loss: 2.0742211 (new best train)
-Epoch 1780, LR: [0.0005]: Train loss: 1.0616970, Test loss: 2.0778805 (new best train)
-Epoch 1790, LR: [0.0005]: Train loss: 1.0620428, Test loss: 2.0858788
-Epoch 1800, LR: [0.0005]: Train loss: 1.0747554, Test loss: 2.1114545
-Epoch 1810, LR: [0.0005]: Train loss: 1.0818000, Test loss: 2.0855263
-Epoch 1820, LR: [0.0005]: Train loss: 1.0698575, Test loss: 2.0871247
-Epoch 1830, LR: [0.0005]: Train loss: 1.0677814, Test loss: 2.0859096
-Epoch 1840, LR: [0.0005]: Train loss: 1.0688769, Test loss: 2.0750644
-Epoch 1850, LR: [0.0005]: Train loss: 1.0560102, Test loss: 2.0673419 (new best train)
-Epoch 1860, LR: [0.0005]: Train loss: 1.0711435, Test loss: 2.0877728
-Epoch 1870, LR: [0.0005]: Train loss: 1.0657037, Test loss: 2.0783571
-Epoch 1880, LR: [0.0005]: Train loss: 1.0622485, Test loss: 2.0704116
-Epoch 1890, LR: [0.0005]: Train loss: 1.0583856, Test loss: 2.0845725
-Epoch 1900, LR: [0.0005]: Train loss: 1.0628551, Test loss: 2.1818107
-Epoch 1910, LR: [0.0005]: Train loss: 1.0752849, Test loss: 2.1078069
-Epoch 1920, LR: [0.0005]: Train loss: 1.0526561, Test loss: 2.0665979 (new best train)
-Epoch 1930, LR: [0.0005]: Train loss: 1.0609268, Test loss: 2.0726500
-Epoch 1940, LR: [0.0005]: Train loss: 1.0660269, Test loss: 2.0818669
-Epoch 1950, LR: [0.0005]: Train loss: 1.0517358, Test loss: 2.0654130 (new best train)
-Epoch 1960, LR: [0.0005]: Train loss: 1.0557050, Test loss: 2.0912823
-Epoch 1970, LR: [0.0005]: Train loss: 1.0591161, Test loss: 2.0824842
-Epoch 1980, LR: [0.0005]: Train loss: 1.0654057, Test loss: 2.1116208
-Epoch 1990, LR: [0.0005]: Train loss: 1.0551092, Test loss: 2.0798283
-Epoch 2000, LR: [0.0005]: Train loss: 1.0535375, Test loss: 2.1093294
-Epoch 2010, LR: [0.0005]: Train loss: 1.0547707, Test loss: 2.0778776
-Epoch 2020, LR: [0.0005]: Train loss: 1.0513407, Test loss: 2.0696525 (new best train)
-Epoch 2030, LR: [0.0005]: Train loss: 1.0558988, Test loss: 2.0896569
-Epoch 2040, LR: [0.0005]: Train loss: 1.0525996, Test loss: 2.0646906
-Epoch 2050, LR: [0.0005]: Train loss: 1.0552370, Test loss: 2.0661219
-Epoch 2060, LR: [0.0005]: Train loss: 1.0495989, Test loss: 2.0669902 (new best train)
-Epoch 2070, LR: [0.0005]: Train loss: 1.0487366, Test loss: 2.0867681 (new best train)
-Epoch 2080, LR: [0.0005]: Train loss: 1.0567557, Test loss: 2.1083633
-Epoch 2090, LR: [0.0005]: Train loss: 1.0577229, Test loss: 2.0665772
-Epoch 2100, LR: [0.0005]: Train loss: 1.0486098, Test loss: 2.1399670 (new best train)
-Epoch 2110, LR: [0.0005]: Train loss: 1.0491130, Test loss: 2.0581080
-Epoch 2120, LR: [0.0005]: Train loss: 1.0497724, Test loss: 2.0772922
-Epoch 2130, LR: [0.0005]: Train loss: 1.0520811, Test loss: 2.0805408
-Epoch 2140, LR: [0.0005]: Train loss: 1.0441397, Test loss: 2.0669894 (new best train)
-Epoch 2150, LR: [0.0005]: Train loss: 1.0474124, Test loss: 2.0960334
-Epoch 2160, LR: [0.0005]: Train loss: 1.0442862, Test loss: 2.0785111
-Epoch 2170, LR: [0.0005]: Train loss: 1.0492380, Test loss: 2.0717150
-Epoch 2180, LR: [0.0005]: Train loss: 1.0461932, Test loss: 2.0619664
-Epoch 2190, LR: [0.0005]: Train loss: 1.0425801, Test loss: 2.0773535 (new best train)
-Epoch 2200, LR: [0.0005]: Train loss: 1.0408162, Test loss: 2.0562331 (new best train)
-Epoch 2210, LR: [0.0005]: Train loss: 1.0446211, Test loss: 2.0897189
-Epoch 2220, LR: [0.0005]: Train loss: 1.0498372, Test loss: 2.0949470
-Epoch 2230, LR: [0.0005]: Train loss: 1.0504531, Test loss: 2.0922612
-Epoch 2240, LR: [0.0005]: Train loss: 1.0458070, Test loss: 2.0607928
-Epoch 2250, LR: [0.0005]: Train loss: 1.0394290, Test loss: 2.0598119 (new best train)
-Epoch 2260, LR: [0.0005]: Train loss: 1.0506227, Test loss: 2.1053305
-Epoch 2270, LR: [0.0005]: Train loss: 1.0488324, Test loss: 2.0696047
-Epoch 2280, LR: [0.0005]: Train loss: 1.0404411, Test loss: 2.1417607
-Epoch 2290, LR: [0.0005]: Train loss: 1.0394432, Test loss: 2.0676384
-Epoch 2300, LR: [0.0005]: Train loss: 1.0361748, Test loss: 2.0913166 (new best train)
-Epoch 2310, LR: [0.0005]: Train loss: 1.0462253, Test loss: 2.0724798
-Epoch 2320, LR: [0.0005]: Train loss: 1.0430194, Test loss: 2.1027660
-Epoch 2330, LR: [0.0005]: Train loss: 1.0454249, Test loss: 2.0698363
-Epoch 2340, LR: [0.0005]: Train loss: 1.0391393, Test loss: 2.0708470
-Epoch 2350, LR: [0.0005]: Train loss: 1.0401845, Test loss: 2.0581632
-Epoch 2360, LR: [0.0005]: Train loss: 1.0393501, Test loss: 2.0708618
-Epoch 2370, LR: [0.0005]: Train loss: 1.0397035, Test loss: 2.0837375
-Epoch 2380, LR: [0.0005]: Train loss: 1.0503547, Test loss: 2.0828503
-Epoch 2390, LR: [0.0005]: Train loss: 1.0322408, Test loss: 2.0767604 (new best train)
-Epoch 2400, LR: [0.0005]: Train loss: 1.0296444, Test loss: 2.0693462 (new best train)
-Epoch 2410, LR: [0.0005]: Train loss: 1.0318235, Test loss: 2.0599987
-Epoch 2420, LR: [0.0005]: Train loss: 1.0383864, Test loss: 2.0533252
-Epoch 2430, LR: [0.0005]: Train loss: 1.0311439, Test loss: 2.0676245
-Epoch 2440, LR: [0.0005]: Train loss: 1.0272314, Test loss: 2.0588950 (new best train)
-Epoch 2450, LR: [0.0005]: Train loss: 1.0386241, Test loss: 2.0497699
-Epoch 2460, LR: [0.0005]: Train loss: 1.0435291, Test loss: 2.0946211
-Epoch 2470, LR: [0.0005]: Train loss: 1.0359035, Test loss: 2.0733230
-Epoch 2480, LR: [0.0005]: Train loss: 1.0317540, Test loss: 2.0526871
-Epoch 2490, LR: [0.0005]: Train loss: 1.0301543, Test loss: 2.0871936
-Epoch 2500, LR: [0.0005]: Train loss: 1.0332349, Test loss: 2.0647571
-Epoch 2510, LR: [0.0005]: Train loss: 1.0346147, Test loss: 2.0744052
-Epoch 2520, LR: [0.0005]: Train loss: 1.0417267, Test loss: 2.0873913
-Epoch 2530, LR: [0.0005]: Train loss: 1.0366963, Test loss: 2.0607867
-Epoch 2540, LR: [0.0005]: Train loss: 1.0352174, Test loss: 2.1264997
-Epoch 2550, LR: [0.00025]: Train loss: 1.0382081, Test loss: 2.0886746
-Epoch 2560, LR: [0.00025]: Train loss: 1.0171506, Test loss: 2.0538594 (new best train)
-Epoch 2570, LR: [0.00025]: Train loss: 1.0111583, Test loss: 2.0525446 (new best train)
-Epoch 2580, LR: [0.00025]: Train loss: 1.0131948, Test loss: 2.0611894
-Epoch 2590, LR: [0.00025]: Train loss: 1.0177115, Test loss: 2.0651458
-Epoch 2600, LR: [0.00025]: Train loss: 1.0131496, Test loss: 2.0562218
-Epoch 2610, LR: [0.00025]: Train loss: 1.0131813, Test loss: 2.0506629
-Epoch 2620, LR: [0.00025]: Train loss: 1.0155724, Test loss: 2.0712782
-Epoch 2630, LR: [0.00025]: Train loss: 1.0136037, Test loss: 2.0719045
-Epoch 2640, LR: [0.00025]: Train loss: 1.0152255, Test loss: 2.0607714
-Epoch 2650, LR: [0.00025]: Train loss: 1.0119627, Test loss: 2.0581647
-Epoch 2660, LR: [0.00025]: Train loss: 1.0123951, Test loss: 2.0592408
-Epoch 2670, LR: [0.00025]: Train loss: 1.0124189, Test loss: 2.0516842
-Epoch 2680, LR: [0.00025]: Train loss: 1.0102507, Test loss: 2.0432253 (new best train)
-Epoch 2690, LR: [0.00025]: Train loss: 1.0130856, Test loss: 2.0763405
-Epoch 2700, LR: [0.00025]: Train loss: 1.0111453, Test loss: 2.0557382
-Epoch 2710, LR: [0.00025]: Train loss: 1.0172597, Test loss: 2.0541728
-Epoch 2720, LR: [0.00025]: Train loss: 1.0103000, Test loss: 2.0519093
-Epoch 2730, LR: [0.00025]: Train loss: 1.0141976, Test loss: 2.0600751
-Epoch 2740, LR: [0.00025]: Train loss: 1.0100529, Test loss: 2.0544691 (new best train)
-Epoch 2750, LR: [0.00025]: Train loss: 1.0057325, Test loss: 2.0685215 (new best train)
-Epoch 2760, LR: [0.00025]: Train loss: 1.0149775, Test loss: 2.0588845
-Epoch 2770, LR: [0.00025]: Train loss: 1.0077541, Test loss: 2.0578188
-Epoch 2780, LR: [0.00025]: Train loss: 1.0117479, Test loss: 2.0538254
-Epoch 2790, LR: [0.00025]: Train loss: 1.0095403, Test loss: 2.0589627
-Epoch 2800, LR: [0.00025]: Train loss: 1.0113346, Test loss: 2.0631114
-Epoch 2810, LR: [0.00025]: Train loss: 1.0115254, Test loss: 2.0601390
-Epoch 2820, LR: [0.00025]: Train loss: 1.0092941, Test loss: 2.0710162
-Epoch 2830, LR: [0.00025]: Train loss: 1.0136136, Test loss: 2.0575410
-Epoch 2840, LR: [0.00025]: Train loss: 1.0120682, Test loss: 2.1219870
-Epoch 2850, LR: [0.00025]: Train loss: 1.0093547, Test loss: 2.0651501
-Epoch 2860, LR: [0.000125]: Train loss: 1.0093162, Test loss: 2.0546322
-Epoch 2870, LR: [0.000125]: Train loss: 0.9996750, Test loss: 2.0543623 (new best train)
-Epoch 2880, LR: [0.000125]: Train loss: 1.0001387, Test loss: 2.0539315
-Epoch 2890, LR: [0.000125]: Train loss: 0.9975598, Test loss: 2.0483713 (new best train)
-Epoch 2900, LR: [0.000125]: Train loss: 0.9978224, Test loss: 2.0668442
-Epoch 2910, LR: [0.000125]: Train loss: 0.9992004, Test loss: 2.0495975
-Epoch 2920, LR: [0.000125]: Train loss: 0.9990082, Test loss: 2.0548591
-Epoch 2930, LR: [0.000125]: Train loss: 0.9999795, Test loss: 2.0536251
-Epoch 2940, LR: [0.000125]: Train loss: 0.9980026, Test loss: 2.0545894
-Epoch 2950, LR: [0.000125]: Train loss: 0.9986983, Test loss: 2.0595201
-Epoch 2960, LR: [0.000125]: Train loss: 0.9998873, Test loss: 2.0703350
-Epoch 2970, LR: [0.000125]: Train loss: 1.0018080, Test loss: 2.0541530
-Epoch 2980, LR: [0.000125]: Train loss: 0.9978121, Test loss: 2.0593062
-Epoch 2990, LR: [0.000125]: Train loss: 1.0020869, Test loss: 2.0526629
-Epoch 3000, LR: [6.25e-05]: Train loss: 0.9976778, Test loss: 2.0469657
-Epoch 3010, LR: [6.25e-05]: Train loss: 0.9939204, Test loss: 2.0492796 (new best train)
-Epoch 3020, LR: [6.25e-05]: Train loss: 0.9930006, Test loss: 2.0483998 (new best train)
-Epoch 3030, LR: [6.25e-05]: Train loss: 0.9935140, Test loss: 2.0655006
-Epoch 3040, LR: [6.25e-05]: Train loss: 0.9973892, Test loss: 2.0505007
-Epoch 3050, LR: [6.25e-05]: Train loss: 0.9921304, Test loss: 2.0498051 (new best train)
-Epoch 3060, LR: [6.25e-05]: Train loss: 0.9926666, Test loss: 2.0531242
-Epoch 3070, LR: [6.25e-05]: Train loss: 0.9936195, Test loss: 2.0480297
-Epoch 3080, LR: [6.25e-05]: Train loss: 0.9917665, Test loss: 2.0492833 (new best train)
-Epoch 3090, LR: [6.25e-05]: Train loss: 0.9921247, Test loss: 2.0575549
-Epoch 3100, LR: [6.25e-05]: Train loss: 0.9925074, Test loss: 2.0561900
-Epoch 3110, LR: [6.25e-05]: Train loss: 0.9928463, Test loss: 2.0496757
-Epoch 3120, LR: [6.25e-05]: Train loss: 0.9919330, Test loss: 2.0508930
-Epoch 3130, LR: [6.25e-05]: Train loss: 0.9933490, Test loss: 2.0593675
-Epoch 3140, LR: [6.25e-05]: Train loss: 0.9943320, Test loss: 2.0484860
-Epoch 3150, LR: [6.25e-05]: Train loss: 0.9933011, Test loss: 2.0602473
-Epoch 3160, LR: [6.25e-05]: Train loss: 0.9943696, Test loss: 2.0469942
-Epoch 3170, LR: [6.25e-05]: Train loss: 0.9928453, Test loss: 2.0525665
-Epoch 3180, LR: [6.25e-05]: Train loss: 0.9923625, Test loss: 2.0568499
-Epoch 3190, LR: [6.25e-05]: Train loss: 0.9909829, Test loss: 2.0530387 (new best train)
-Epoch 3200, LR: [6.25e-05]: Train loss: 0.9911934, Test loss: 2.0546619
-Epoch 3210, LR: [6.25e-05]: Train loss: 0.9909299, Test loss: 2.0536721
-Epoch 3220, LR: [6.25e-05]: Train loss: 0.9912117, Test loss: 2.0582060
-Epoch 3230, LR: [6.25e-05]: Train loss: 0.9904771, Test loss: 2.0519392 (new best train)
-Epoch 3240, LR: [6.25e-05]: Train loss: 0.9900036, Test loss: 2.0470516 (new best train)
-Epoch 3250, LR: [6.25e-05]: Train loss: 0.9921348, Test loss: 2.0475265
-Epoch 3260, LR: [6.25e-05]: Train loss: 0.9908393, Test loss: 2.0588763
-Epoch 3270, LR: [6.25e-05]: Train loss: 0.9897498, Test loss: 2.0519881 (new best train)
-Epoch 3280, LR: [6.25e-05]: Train loss: 0.9909308, Test loss: 2.0536671
-Epoch 3290, LR: [6.25e-05]: Train loss: 0.9906853, Test loss: 2.0611760
-Epoch 3300, LR: [6.25e-05]: Train loss: 0.9917537, Test loss: 2.0529557
-Epoch 3310, LR: [6.25e-05]: Train loss: 0.9901827, Test loss: 2.0545317
-Epoch 3320, LR: [6.25e-05]: Train loss: 0.9912734, Test loss: 2.0464669
-Epoch 3330, LR: [6.25e-05]: Train loss: 0.9909060, Test loss: 2.0491971
-Epoch 3340, LR: [6.25e-05]: Train loss: 0.9901438, Test loss: 2.0499645
-Epoch 3350, LR: [6.25e-05]: Train loss: 0.9899968, Test loss: 2.0541599
-Epoch 3360, LR: [6.25e-05]: Train loss: 0.9901165, Test loss: 2.0561041
-Epoch 3370, LR: [6.25e-05]: Train loss: 0.9907788, Test loss: 2.0498094
-Epoch 3380, LR: [3.125e-05]: Train loss: 0.9908557, Test loss: 2.0568961
-Epoch 3390, LR: [3.125e-05]: Train loss: 0.9884783, Test loss: 2.0457797 (new best train)
-Epoch 3400, LR: [3.125e-05]: Train loss: 0.9864067, Test loss: 2.0472759 (new best train)
-Epoch 3410, LR: [3.125e-05]: Train loss: 0.9873724, Test loss: 2.0533062
-Epoch 3420, LR: [3.125e-05]: Train loss: 0.9890298, Test loss: 2.0499168
-Epoch 3430, LR: [3.125e-05]: Train loss: 0.9869222, Test loss: 2.0452657
-Epoch 3440, LR: [3.125e-05]: Train loss: 0.9862995, Test loss: 2.0475982 (new best train)
-Epoch 3450, LR: [3.125e-05]: Train loss: 0.9867077, Test loss: 2.0493797
-Epoch 3460, LR: [3.125e-05]: Train loss: 0.9871129, Test loss: 2.0521459
-Epoch 3470, LR: [3.125e-05]: Train loss: 0.9864529, Test loss: 2.0491836
-Epoch 3480, LR: [3.125e-05]: Train loss: 0.9874194, Test loss: 2.0548793
-Epoch 3490, LR: [3.125e-05]: Train loss: 0.9875935, Test loss: 2.0512957
-Epoch 3500, LR: [3.125e-05]: Train loss: 0.9860440, Test loss: 2.0515181 (new best train)
-Epoch 3510, LR: [3.125e-05]: Train loss: 0.9859899, Test loss: 2.0513264
-Epoch 3520, LR: [3.125e-05]: Train loss: 0.9864069, Test loss: 2.0497669
-Epoch 3530, LR: [3.125e-05]: Train loss: 0.9881343, Test loss: 2.0533339
-Epoch 3540, LR: [3.125e-05]: Train loss: 0.9887908, Test loss: 2.0493822
-Epoch 3550, LR: [3.125e-05]: Train loss: 0.9865815, Test loss: 2.0480061
-Epoch 3560, LR: [3.125e-05]: Train loss: 0.9866424, Test loss: 2.0534951
-Epoch 3570, LR: [3.125e-05]: Train loss: 0.9871035, Test loss: 2.0508718
-Epoch 3580, LR: [3.125e-05]: Train loss: 0.9861501, Test loss: 2.0488580
-Epoch 3590, LR: [3.125e-05]: Train loss: 0.9862269, Test loss: 2.0484427
-Epoch 3600, LR: [3.125e-05]: Train loss: 0.9860247, Test loss: 2.0484728
-Epoch 3610, LR: [1.5625e-05]: Train loss: 0.9862530, Test loss: 2.0524080
-Epoch 3620, LR: [1.5625e-05]: Train loss: 0.9846838, Test loss: 2.0514622 (new best train)
-Epoch 3630, LR: [1.5625e-05]: Train loss: 0.9847664, Test loss: 2.0534584
-Epoch 3640, LR: [1.5625e-05]: Train loss: 0.9845929, Test loss: 2.0466475
-Epoch 3650, LR: [1.5625e-05]: Train loss: 0.9842818, Test loss: 2.0482160 (new best train)
-Epoch 3660, LR: [1.5625e-05]: Train loss: 0.9843199, Test loss: 2.0525301
-Epoch 3670, LR: [1.5625e-05]: Train loss: 0.9841977, Test loss: 2.0483330
-Epoch 3680, LR: [1.5625e-05]: Train loss: 0.9842402, Test loss: 2.0495972
-Epoch 3690, LR: [1.5625e-05]: Train loss: 0.9840812, Test loss: 2.0482185 (new best train)
-Epoch 3700, LR: [1.5625e-05]: Train loss: 0.9841923, Test loss: 2.0489304
-Epoch 3710, LR: [1.5625e-05]: Train loss: 0.9838555, Test loss: 2.0475859 (new best train)
-Epoch 3720, LR: [1.5625e-05]: Train loss: 0.9847928, Test loss: 2.0504587
-Epoch 3730, LR: [1.5625e-05]: Train loss: 0.9841902, Test loss: 2.0485880
-Epoch 3740, LR: [1.5625e-05]: Train loss: 0.9840251, Test loss: 2.0498478
-Epoch 3750, LR: [1.5625e-05]: Train loss: 0.9845503, Test loss: 2.0497863
-Epoch 3760, LR: [1.5625e-05]: Train loss: 0.9842053, Test loss: 2.0481095
-Epoch 3770, LR: [1.5625e-05]: Train loss: 0.9840500, Test loss: 2.0477270
-Epoch 3780, LR: [1.5625e-05]: Train loss: 0.9843122, Test loss: 2.0486452
-Epoch 3790, LR: [1.5625e-05]: Train loss: 0.9838069, Test loss: 2.0475519
-Epoch 3800, LR: [1.5625e-05]: Train loss: 0.9840554, Test loss: 2.0488243
-Epoch 3810, LR: [1.5625e-05]: Train loss: 0.9843287, Test loss: 2.0460907
-Epoch 3820, LR: [7.8125e-06]: Train loss: 0.9837857, Test loss: 2.0492032
-Epoch 3830, LR: [7.8125e-06]: Train loss: 0.9831048, Test loss: 2.0472993 (new best train)
-Epoch 3840, LR: [7.8125e-06]: Train loss: 0.9831874, Test loss: 2.0485820
-Epoch 3850, LR: [7.8125e-06]: Train loss: 0.9830593, Test loss: 2.0479499
-Epoch 3860, LR: [7.8125e-06]: Train loss: 0.9832320, Test loss: 2.0520970
-Epoch 3870, LR: [7.8125e-06]: Train loss: 0.9829751, Test loss: 2.0494279 (new best train)
-Epoch 3880, LR: [7.8125e-06]: Train loss: 0.9830236, Test loss: 2.0475187
-Epoch 3890, LR: [7.8125e-06]: Train loss: 0.9833459, Test loss: 2.0464904
-Epoch 3900, LR: [7.8125e-06]: Train loss: 0.9831281, Test loss: 2.0494775
-Epoch 3910, LR: [7.8125e-06]: Train loss: 0.9828639, Test loss: 2.0495302 (new best train)
-Epoch 3920, LR: [7.8125e-06]: Train loss: 0.9830292, Test loss: 2.0516389
-Epoch 3930, LR: [7.8125e-06]: Train loss: 0.9830317, Test loss: 2.0496772
-Epoch 3940, LR: [7.8125e-06]: Train loss: 0.9832259, Test loss: 2.0470241
-Epoch 3950, LR: [7.8125e-06]: Train loss: 0.9829244, Test loss: 2.0482915
-Epoch 3960, LR: [7.8125e-06]: Train loss: 0.9827736, Test loss: 2.0502431
-Epoch 3970, LR: [7.8125e-06]: Train loss: 0.9837414, Test loss: 2.0496756
-Epoch 3980, LR: [7.8125e-06]: Train loss: 0.9827770, Test loss: 2.0481941
-Epoch 3990, LR: [7.8125e-06]: Train loss: 0.9827871, Test loss: 2.0494721
-Epoch 4000, LR: [7.8125e-06]: Train loss: 0.9829015, Test loss: 2.0482223
-Epoch 4010, LR: [7.8125e-06]: Train loss: 0.9829295, Test loss: 2.0514300
-Epoch 4020, LR: [3.90625e-06]: Train loss: 0.9828758, Test loss: 2.0487601
-Epoch 4030, LR: [3.90625e-06]: Train loss: 0.9822973, Test loss: 2.0475103 (new best train)
-Epoch 4040, LR: [3.90625e-06]: Train loss: 0.9823145, Test loss: 2.0484704
-Epoch 4050, LR: [3.90625e-06]: Train loss: 0.9822391, Test loss: 2.0489135
-Epoch 4060, LR: [3.90625e-06]: Train loss: 0.9822371, Test loss: 2.0483107
-Epoch 4070, LR: [3.90625e-06]: Train loss: 0.9822161, Test loss: 2.0486449
-Epoch 4080, LR: [3.90625e-06]: Train loss: 0.9823055, Test loss: 2.0470782
-Epoch 4090, LR: [3.90625e-06]: Train loss: 0.9824155, Test loss: 2.0478583
-Epoch 4100, LR: [3.90625e-06]: Train loss: 0.9822285, Test loss: 2.0478993
-Epoch 4110, LR: [3.90625e-06]: Train loss: 0.9822921, Test loss: 2.0478755
-Epoch 4120, LR: [3.90625e-06]: Train loss: 0.9823526, Test loss: 2.0476074
-Epoch 4130, LR: [3.90625e-06]: Train loss: 0.9823142, Test loss: 2.0476532
-Epoch 4140, LR: [1.953125e-06]: Train loss: 0.9822773, Test loss: 2.0488426
-Epoch 4150, LR: [1.953125e-06]: Train loss: 0.9820520, Test loss: 2.0475130 (new best train)
-Epoch 4160, LR: [1.953125e-06]: Train loss: 0.9820432, Test loss: 2.0489083
-Epoch 4170, LR: [1.953125e-06]: Train loss: 0.9819485, Test loss: 2.0487300 (new best train)
-Epoch 4180, LR: [1.953125e-06]: Train loss: 0.9819160, Test loss: 2.0484179
-Epoch 4190, LR: [1.953125e-06]: Train loss: 0.9819848, Test loss: 2.0484047
-Epoch 4200, LR: [1.953125e-06]: Train loss: 0.9819611, Test loss: 2.0484272
-Epoch 4210, LR: [1.953125e-06]: Train loss: 0.9821096, Test loss: 2.0483967
-Epoch 4220, LR: [1.953125e-06]: Train loss: 0.9818170, Test loss: 2.0484192 (new best train)
-Epoch 4230, LR: [1.953125e-06]: Train loss: 0.9819591, Test loss: 2.0482089
-Epoch 4240, LR: [1.953125e-06]: Train loss: 0.9819746, Test loss: 2.0490758
-Epoch 4250, LR: [1.953125e-06]: Train loss: 0.9818609, Test loss: 2.0491578
-Epoch 4260, LR: [1.953125e-06]: Train loss: 0.9820391, Test loss: 2.0475642
-Epoch 4270, LR: [1.953125e-06]: Train loss: 0.9819520, Test loss: 2.0479697
-Epoch 4280, LR: [1.953125e-06]: Train loss: 0.9819907, Test loss: 2.0484152
-Epoch 4290, LR: [1.953125e-06]: Train loss: 0.9819908, Test loss: 2.0477296
-Epoch 4300, LR: [1.953125e-06]: Train loss: 0.9819236, Test loss: 2.0476458
-Epoch 4310, LR: [1.953125e-06]: Train loss: 0.9819973, Test loss: 2.0488881
-Epoch 4320, LR: [1.953125e-06]: Train loss: 0.9819347, Test loss: 2.0483600
-Epoch 4330, LR: [9.765625e-07]: Train loss: 0.9818622, Test loss: 2.0478256
-Epoch 4340, LR: [9.765625e-07]: Train loss: 0.9817576, Test loss: 2.0478944
-Epoch 4350, LR: [9.765625e-07]: Train loss: 0.9817364, Test loss: 2.0483114
-Epoch 4360, LR: [9.765625e-07]: Train loss: 0.9817428, Test loss: 2.0479144
-Epoch 4370, LR: [9.765625e-07]: Train loss: 0.9817349, Test loss: 2.0485742
-Epoch 4380, LR: [9.765625e-07]: Train loss: 0.9817185, Test loss: 2.0476673
-Epoch 4390, LR: [9.765625e-07]: Train loss: 0.9817343, Test loss: 2.0483956
-Epoch 4400, LR: [9.765625e-07]: Train loss: 0.9817190, Test loss: 2.0493788
-Epoch 4410, LR: [9.765625e-07]: Train loss: 0.9817671, Test loss: 2.0484932
-Epoch 4420, LR: [9.765625e-07]: Train loss: 0.9817034, Test loss: 2.0474037 (new best train)
-Epoch 4430, LR: [9.765625e-07]: Train loss: 0.9818059, Test loss: 2.0481444
-Epoch 4440, LR: [9.765625e-07]: Train loss: 0.9817669, Test loss: 2.0487359
-Epoch 4450, LR: [9.765625e-07]: Train loss: 0.9817586, Test loss: 2.0479145
-Epoch 4460, LR: [9.765625e-07]: Train loss: 0.9816660, Test loss: 2.0495816
-Epoch 4470, LR: [9.765625e-07]: Train loss: 0.9817782, Test loss: 2.0482278
-Epoch 4480, LR: [9.765625e-07]: Train loss: 0.9817106, Test loss: 2.0484353
-Epoch 4490, LR: [9.765625e-07]: Train loss: 0.9817361, Test loss: 2.0485413
-Epoch 4500, LR: [9.765625e-07]: Train loss: 0.9817167, Test loss: 2.0479964
-Epoch 4510, LR: [9.765625e-07]: Train loss: 0.9816790, Test loss: 2.0486121
-Epoch 4520, LR: [9.765625e-07]: Train loss: 0.9817242, Test loss: 2.0478050
-Epoch 4530, LR: [4.8828125e-07]: Train loss: 0.9816906, Test loss: 2.0480258
-Epoch 4540, LR: [4.8828125e-07]: Train loss: 0.9816268, Test loss: 2.0476634
-Epoch 4550, LR: [4.8828125e-07]: Train loss: 0.9816875, Test loss: 2.0482645
-Epoch 4560, LR: [4.8828125e-07]: Train loss: 0.9816262, Test loss: 2.0484726
-Epoch 4570, LR: [4.8828125e-07]: Train loss: 0.9816452, Test loss: 2.0486266
-Epoch 4580, LR: [4.8828125e-07]: Train loss: 0.9816356, Test loss: 2.0481903
-Epoch 4590, LR: [4.8828125e-07]: Train loss: 0.9816278, Test loss: 2.0483300
-Epoch 4600, LR: [4.8828125e-07]: Train loss: 0.9816315, Test loss: 2.0479779
-Epoch 4610, LR: [4.8828125e-07]: Train loss: 0.9816361, Test loss: 2.0478778
-Epoch 4620, LR: [4.8828125e-07]: Train loss: 0.9816361, Test loss: 2.0479379
-20 * 10 epochs without STOP.TRAIN improvement, stopping. 
-Best train perf: 0.9817033678690592, epoch: 4420
-Total time: 1777.8590290546417
